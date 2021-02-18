@@ -40,7 +40,7 @@
             <GameDBLocalizedString>      <LocID>DIA_ASN</LocID>                         <Text>ไซนัสอักเสบ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ASN_DESCRIPTION</LocID>             <Text>ไซนัสอักเสบหมายถึงการอักเสบของไซนัสอย่างน้อยหนึ่งอย่าง ไซนัสอักเสบทำให้เกิดอาการบวมและอาจส่งผลต่อการระบายน้ำมูกหรือหนองออกจากโพรงไซนัสที่เกี่ยวข้อง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_APH</LocID>                         <Text>คออักเสบ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_APH_DESCRIPTION</LocID>             <Text>Pharyngitis refers to inflammation of the throat and can be caused by bacteria or virus.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_APH_DESCRIPTION</LocID>             <Text>คออักเสบ หมายถึงการอักเสบที่ช่องคอสามารถเกิดได้จากไวรัสหรือแบคทีเรีย</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ANG</LocID>                         <Text>ทอนซิลอักเสบ จากแบคทีเรีย</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ANG_DESCRIPTION</LocID>             <Text>Bacterial tonsillitis is an infection of the tonsils. The most common bacterial tonsillitis is caused by Streptococcus pyogenes, and is known as 'strep throat'.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ANV</LocID>                         <Text>ทอนซิลอักเสบ จากไวรัส</Text>  </GameDBLocalizedString>
