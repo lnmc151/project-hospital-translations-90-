@@ -26,7 +26,7 @@
             <GameDBLocalizedString>      <LocID>DIA_CKX</LocID>                         <Text>อีสุกอีใส</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_CKX_DESCRIPTION</LocID>             <Text>อีสุกอีใสหรือที่เรียกว่าวาริเซลลาเป็นโรคติดต่อที่เกิดจากการติดเชื้อไวรัส Varicella zoster ในระยะเริ่มแรก โรคนี้ส่งผลให้เกิดผื่นที่ผิวหนังลักษณะเป็นตุ่มเล็กๆคันๆ ซึ่งในที่สุดก็จะตกสะเก็ด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_HRZ</LocID>                         <Text>งูสวัด</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HRZ_DESCRIPTION</LocID>             <Text>โรคงูสวัด เกิดจากไวรัส Varicella zoster ที่กลับมาติดอีกครั้ง โรคนี้ทำให้เกิดตุ่มพุพองสีแดงพาดเป็นทางยาวตามแนวของผิวหนังส่วนเดอร์มาโทม งูสวัสทำให้เกิดอาการเจ็บปวดอย่างมาก</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HRZ_DESCRIPTION</LocID>             <Text>โรคงูสวัด เกิดจากไวรัส Varicella zoster ที่กลับมาติดอีกครั้ง โรคนี้ทำให้เกิดตุ่มพุพองสีแดงพาดเป็นทางยาวตามแนวของผิวหนังส่วนเดอร์มาโทม งูสวัดทำให้เกิดอาการเจ็บปวดอย่างมาก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ONM</LocID>                         <Text>เชื้อราที่เล็บ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ONM_DESCRIPTION</LocID>             <Text>เชื้อราที่เล็บเรียกอีกอย่างว่า Onychomycosis หรือ Tinea unguium เป็นการติดเชื้อราที่มีผลต่อนิ้วมือหรือเล็บเท้า</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ATF</LocID>                         <Text>น้ำกัดเท้า</Text>  </GameDBLocalizedString>
@@ -67,17 +67,17 @@
             <GameDBLocalizedString>      <LocID>DIA_INS_DESCRIPTION</LocID>             <Text>โรคนอนไม่หลับ เป็นโรคที่่เกี่ยวเนื่องกับการนอนหลับที่ไม่ดีของแต่ละบุคคล มันอาจจะเกิดจากการไม่สามารถนอนหลับลงได้,ไม่สามารถนอนได้ตลอดทั้งคืน หรือตื่นนอนเช้าเกินไป</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>TRM_ACT</LocID>                         <Text>แขนฟกช้ำ</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_ACT_DESCRIPTION</LocID>             <Text>A contusion, also known as a bruise, is a region of injured tissue usually with purple discoloration.</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_ACT_DESCRIPTION</LocID>             <Text>รอยฟกช้ำ หรือเรียกว่ารอยช้ำเป็นบริเวณที่เนื้อเยื่อได้รับบาดเจ็บมักมีการเปลี่ยนเป็นสีม่วง</Text>   </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_HCT</LocID>                         <Text>มือฟกช้ำ</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_HCT_DESCRIPTION</LocID>             <Text>A contusion, also known as a bruise, is a region of injured tissue usually with purple discoloration.</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_HCT_DESCRIPTION</LocID>             <Text>รอยฟกช้ำ หรือเรียกว่ารอยช้ำเป็นบริเวณที่เนื้อเยื่อได้รับบาดเจ็บ มักมีการเปลี่ยนเป็นสีม่วง</Text>   </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_FCT</LocID>                         <Text>เท้าฟกช้ำ</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_FCT_DESCRIPTION</LocID>             <Text>A contusion, also known as a bruise, is a region of injured tissue usually with purple discoloration.</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_FCT_DESCRIPTION</LocID>             <Text>รอยฟกช้ำ หรือเรียกว่ารอยช้ำเป็นบริเวณที่เนื้อเยื่อได้รับบาดเจ็บมักมีการเปลี่ยนเป็นสีม่วง</Text>   </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_ACN</LocID>                         <Text>ข้อเท้าฟกช้ำ</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_ACN_DESCRIPTION</LocID>             <Text>A contusion, also known as a bruise, is a region of injured tissue usually with purple discoloration.</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_ACN_DESCRIPTION</LocID>             <Text>รอยฟกช้ำ หรือเรียกว่ารอยช้ำเป็นบริเวณที่เนื้อเยื่อได้รับบาดเจ็บมักมีการเปลี่ยนเป็นสีม่วง</Text>   </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_LCT</LocID>                         <Text>ขาฟกช้ำ</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_LCT_DESCRIPTION</LocID>             <Text>A contusion, also known as a bruise, is a region of injured tissue usually with purple discoloration.</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_LCT_DESCRIPTION</LocID>             <Text>รอยฟกช้ำ หรือเรียกว่ารอยช้ำเป็นบริเวณที่เนื้อเยื่อได้รับบาดเจ็บมักมีการเปลี่ยนเป็นสีม่วง</Text>   </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_CCT</LocID>                         <Text>หน้าอกฟกช้ำ</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_CCT_DESCRIPTION</LocID>             <Text>A contusion, also known as a bruise, is a region of injured tissue usually with purple discoloration.</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CCT_DESCRIPTION</LocID>             <Text>รอยฟกช้ำ หรือเรียกว่ารอยช้ำเป็นบริเวณที่เนื้อเยื่อได้รับบาดเจ็บมักมีการเปลี่ยนเป็นสีม่วง</Text>   </GameDBLocalizedString>
 
             <!-- ============================ -->
             <!-- Diagnoses - General surgery department-->
@@ -89,20 +89,20 @@
             <GameDBLocalizedString>      <LocID>DIA_HEPB_DESCRIPTION</LocID>            <Text>Hepatitis refers to a viral infection of the liver. Hepatitis B virus spreads via blood, sexual contact or from mother to child.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_EPI</LocID>                         <Text>ตับอ่อนทำงานบกพร่อง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_EPI_DESCRIPTION</LocID>             <Text>Pancreatic insufficiency occurs when the gland is damaged enough to seize functioning sufficiently. Normal absorption of nutrients in the small intestine is thus compromised resulting in nutritional deficiencies.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_THD</LocID>                         <Text>ต่อมไทรอยด์อักเสบ ฮาชิโมโต</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_THD_DESCRIPTION</LocID>             <Text>Hashimoto's thyroiditis is an autoimmune disease where the immune system gradually destroys the thyroid gland.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HPT</LocID>                         <Text>ต่อมไทรอยด์ ทำงานน้อย</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HPT_DESCRIPTION</LocID>             <Text>Hypothyroidism is a disease where the thyroid gland functions inadequately and produces too little thyroid hormone.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_THD</LocID>                         <Text>ต่อมไทรอยด์อักเสบ ฮาชิโมโตะ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_THD_DESCRIPTION</LocID>             <Text>ต่อมไทรอยด์อักเสบฮาชิโมโตะ เป็นภูมิคุ้มกันตัวเองอัตโนมัติที่ซึ่งระบบภูมิกันค่อยๆทำลายต่อมไทรอยด์ไปทีละนิด</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HPT</LocID>                         <Text>ภาวะขาดไทรอยด์</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HPT_DESCRIPTION</LocID>             <Text>ภาวะขาดไทรอยด์ คือโรคที่ซึ่งต่อมไทรอยด์ทำงานอย่างไม่เพียงพอและสร้างฮอร์โมนไทรอยด์น้อยเกินไป</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_HRT</LocID>                         <Text>คอพอกตาโปน</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HRT_DESCRIPTION</LocID>             <Text>Grave's disease is an endocrine disease where the thyroid gland produces thyroid hormones in excess.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HRT_DESCRIPTION</LocID>             <Text>คอพอกตาโปน เป็นโรคต่อมไร้ท่อที่ต่อมไทรอยด์ผลิตฮอร์โมนไทรอยด์มามากเกินไป/Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_OES</LocID>                         <Text>หลอดอาหารอักเสบ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_OES_DESCRIPTION</LocID>             <Text>Esophagitis is an inflammation of the oesophageal lining, often caused by acid reflux.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_OEV</LocID>                         <Text>หลอดเลือดโป่งพอง บริเวณหลอดอาหาร</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_OEV_DESCRIPTION</LocID>             <Text>Esophageal varices are abnormally enlarged veins within the esophagus. They are usually caused by portal hypertension due to existing liver disease.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HBP</LocID>                         <Text>ติดเชื้อ เอชไพโลไร</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HBP_DESCRIPTION</LocID>             <Text>Helicobacter pylori is a bacteria present in the upper gastrointestinal tract. It is the main cause of peptic ulcers.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OES_DESCRIPTION</LocID>             <Text>หลอดอาหารอักเสบ คืออาการอักเสบของเยื่อบุหลอดอาหาร มักเกิดจากกรดไหลย้อน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OEV</LocID>                         <Text>หลอดเลือด ในหลอดอาหารโป่งพอ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OEV_DESCRIPTION</LocID>             <Text>หลอดเลือดในหลอดอาหารโป่งพอง คืออาการที่หลอดเลือดในหลอดอาหารมีขนาดใหญ่ผิดปกติ มักเกิดจากเส้นเลือดโป่งพองจากโรคในตับ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HBP</LocID>                         <Text>ติดเชื้อ เอช.ไพโลไร</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HBP_DESCRIPTION</LocID>             <Text>การติดเชื้อ  เอช.ไพโลไร คือแบคทีเรียที่พบเจอได้ในระบบทางเดินอาหาร มันคือสาเหตุหลักๆที่ทำให้เกิดแผลในกระเพาะอาหาร</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_GAU</LocID>                         <Text>แผลในกระเพาะ อาหาร</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_GAU_DESCRIPTION</LocID>             <Text>A peptic ulcer is an open lesion in the lining of the stomach, duodenum or esophagus. It is most commonly caused by the bacterium h. pylori or prolonged, excessive use of NSAIDs</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GAU_DESCRIPTION</LocID>             <Text>แผลในกระเพาะอาหาร เป็นแผลเปิดในเยื่อบุกระเพาะอาหาร ลำไส้เล็กส่วนต้น หรือหลอดอาหาร หลักๆแล้วเกิดจากแบคทีเรียที่อยู่ในตัวมานาน หรือการใช้ยา NSAIDs เกินขนาด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_GAS</LocID>                         <Text>กระเพาะอาหารอักเสบ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_GAS_DESCRIPTION</LocID>           	<Text>Gastritis is an inflammation or erosion of the stomach's lining. It is caused by; bad nutrition, excessive alcohol use, or excessive use of some medications. Treatment consists of protone pump inhibitors and discontinuation of alcohol or drugs that cause the symptoms.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_DUO</LocID>                         <Text>ลำไส้เล็กส่วนต้น อักเสบ</Text>  </GameDBLocalizedString>
@@ -277,58 +277,57 @@
             <GameDBLocalizedString>      <LocID>DIA_LUP</LocID>                         <Text>แพ้ภูมิตัวเอง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_LUP_DESCRIPTION</LocID>             <Text>Lupus is a systemic autoimmune disease. It is very difficult to diagnose.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>TRM_CMP</LocID>                         <Text>พิษจาก ก๊าซคาร์บอนมอนอกไซด์</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_CMP_DESCRIPTION</LocID>             <Text>Carbon monoxide poisoning occurs from inhaling too much carbon monoxide.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_CGP</LocID>                         <Text>พิษจาก ก๊าซคลอรีน</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_CGP_DESCRIPTION</LocID>             <Text>Chlorine gas poisoning is a condition resulting from the inhalation of chlorine gas.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_MTP</LocID>                         <Text>พิษจากเมธานอล</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_MTP_DESCRIPTION</LocID>             <Text>Methanol ingestion leads to an uncommon poisoning that can cause severe metabolic disturbances, blindness, permanent neurological dysfunction and death.</Text>  </GameDBLocalizedString>
+              <GameDBLocalizedString>      <LocID>TRM_CMP</LocID>                         <Text>คาร์บอนมอนอกไซด์เป็นพิษ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CMP_DESCRIPTION</LocID>             <Text>คาร์บอนมอนอกไซด์เป็นพิษ เกิดจากการสูดก๊าซคาร์บอนมอนอกไซด์เข้าไปเป็นปริมาณมาก</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CGP</LocID>                         <Text>พิษจากแก็ซคลอรีน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CGP_DESCRIPTION</LocID>             <Text>พิษจากแก็ซคลอรีน คือภาวะที่เกิดจากการสูดดมแก๊ซคลอรีนเข้าไป</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_MTP</LocID>                         <Text>เมทานอลเป็นพิษ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_MTP_DESCRIPTION</LocID>             <Text>การย่อยเมทานอล นำไปสู่การเป็นพิษที่ผิดปกติซึ่งอาจทำให้เกิดการรบกวนการเผาผลาญอย่างรุนแรง,ตาบอด,ความผิดปกติของระบบประสาทอย่างถาวรและตาย</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_LDP</LocID>                         <Text>พิษจากสารตะกั่ว</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_LDP_DESCRIPTION</LocID>             <Text>Lead poisoning is a type of metal poisoning caused by the accumulation of lead in the body.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_LDP_DESCRIPTION</LocID>             <Text>พิษจากสารตะกั่ว คือชนิดของการเป็นพิษจากเหล็กเกิดขึ้นโดยการสะสมตัวกันของตะกั่วในร่างกาย</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_PCT</LocID>                         <Text>ปอดช้ำ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_PCT_DESCRIPTION</LocID>             <Text>Blunt injury or physical trauma to the chest by either by impact or physical attack resulting in pulmonary contusion.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_PLP</LocID>                         <Text>ปอดฉีกขาด</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_PLP_DESCRIPTION</LocID>             <Text>Penetrating trauma is an injury that occurs when an object pierces the skin and enters a tissue of the body, creating an open wound. Pulmonary laceration can occur from such a trauma.</Text>  </GameDBLocalizedString>
-
+            <GameDBLocalizedString>      <LocID>TRM_PCT_DESCRIPTION</LocID>             <Text>การบาดเจ็บจากการถูกกระแทก หรือการบาดเจ็บทางร่างกายที่หน้าอกจากการถูกกระแทก หรือการทำร้ายร่างกายทำให้เกิดการช้ำภายในปอด</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_PLP</LocID>                         <Text>ปอดฉีก</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_PLP_DESCRIPTION</LocID>             <Text>อุบัติเหตุแผลทะลุ คือการบาดเจ็บซึ่งเกิดขึ้นเมื่อวัตถุได้แทงที่ผิวหนังเข้าไปในเนื้อเยื่อของร่างกาย ทำให้เกิดแผลเปิด ปอดฉีกสามารถเกิดขึ้นได้จากการบาดเจ็บแบบนี้</Text>  </GameDBLocalizedString>
             <!-- ====================================== -->
             <!-- Diagnoses - Orthopaedy -->
             <!-- ====================================== -->
             <GameDBLocalizedString>      <LocID>DIA_CTS</LocID>                         <Text>เส้นประสาทถูกกดทับ ที่ข้อมือ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CTS_DESCRIPTION</LocID>             <Text>A condition where the median nerve in the wrist is compressed by the surrounding structures when passing through the tunnel near the base of the wrist. Pain and a sleeping sensation of the hand are the main symptoms. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CTS_DESCRIPTION</LocID>             <Text>ภาวะที่เส้นประสาทมีเดียนในข้อมือถูกกดทับโดยโครงสร้างรอบๆเมื่อตอนที่เส้นประสาทผ่านโพรงใกล้ๆฐานของข้อมือ ความเจ็บปวดและชาตามมือคืออาการหลักของโรคนี้ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_CUS</LocID>                         <Text>เส้นประสาทถูกกดทับ ที่ข้อศอก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_CUS_DESCRIPTION</LocID>             <Text>Cubital tunnel syndrome is caused by the compression of the ulnar nerve in the elbow area.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_RAT</LocID>                         <Text>ข้ออักเสบรูมาตอยด์</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_RAT_DESCRIPTION</LocID>             <Text>Rheumatoid arthritis is a chronic autoimmune disease affecting various joints. It typically results in warm, swollen, and painful joints. Pain and stiffness often worsen following rest. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_RAT_DESCRIPTION</LocID>             <Text>โรครูมาตอยด์ คือโรคทางระบบภูมิคุ้มกันเรื้อรังส่งผลต่อข้อต่อต่างๆ มักจะมีอาการ ร้อน บวม และเจ็บที่ข้อ อาการปวดและตึงมักแย่ลงหลังจากพักผ่อน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_HOA</LocID>                         <Text>ข้อสะโพกเสื่อม</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HOA_DESCRIPTION</LocID>             <Text>Osteoarthritis is a condition where cartilage slowly degenerates and deformities arise in the affected joint. Hip osteoarthritis typically makes walking painful and cumbersome.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HOA_DESCRIPTION</LocID>             <Text>ข้อสะโพกเสื่อม คือสภาวะที่ซึ่งกระดูกอ่อนค่อยๆเสื่อมลงไปช้าๆ และเกิดการผิดปกติในข้อต่อที่ได้รับผลกระทบ  ข้อสะโพกเสื่อมมักทำให้การเดินนั้นเจ็บปวดและเป็นปัญหา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_KOA</LocID>                         <Text>ข้อเข่าเสื่อม</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_KOA_DESCRIPTION</LocID>             <Text>Knee Osteoarthritis is one of the most common types of arthritis. A slow degradation of the knee cartilage causes pain when walking and stiffness of the joint.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_DMS</LocID>                         <Text>ผิวหนัง และกล้ามเนื้อ หลายมัดอักเสบ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_DMS_DESCRIPTION</LocID>             <Text>Dermatomyositis is chronic progressive inflammation of the muscles. Symptoms are usually a skin rash and increased muscle weakness over time.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_IBM</LocID>                         <Text>กล้ามเนื้ออักเสบ ชนิด IBM</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_IBM_DESCRIPTION</LocID>             <Text>Inclusion-body myositis is chronic progressive inflammation and weakening of the muscles. It is most apparent the finger flexor and knee extensor muscles.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_PMS</LocID>                         <Text>กล้ามเนื้อหลายมัด อักเสบ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_PMS_DESCRIPTION</LocID>             <Text>Polymyositis is chronic progressive inflammation and weakening of the muscles. It begins with weakness in the muscles closest to the body trunk from where it spreads.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_KOA_DESCRIPTION</LocID>             <Text>ข้อเข่าเสื่อม เป็นหนึ่งในชนิดของข้ออักเสบที่พบได้มากที่สุด การเสื่อมของกระดูกอ่อนของข้อช้าๆทำให้เกิดความเจ็บปวดขณะเดินและอาการแข็งตึงที่ข้อต่อ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_DMS</LocID>                         <Text>ผิวหนังและกล้ามเนื้ออักเสบ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_DMS_DESCRIPTION</LocID>             <Text>ผิวหนังและกล้ามเนื้ออักเสบ  เป็นการอักเสบเพิ่มขึ้นอย่างต่อเนื่องเรื้อรังของกล้ามเนื้อ อาการที่มักจะเป็นคือผื่นที่ผิวหนัง และกล้ามเนื้อ่อนแรงเพิ่มขึ้นเมื่อเวลาผ่านไป</Text>  </GameDBLocalizedString>
+            GameDBLocalizedString>      <LocID>DIA_IBM</LocID>                         <Text>โรคกล้ามเนื้ออักเสบชนิด IBM </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_IBM_DESCRIPTION</LocID>             <Text>โรคกล้ามเนื้ออักเสบชนิด IBM คือการอักเสบและอ่อนกำลังลงเรื้อรังอย่างต่อเนื่องของกล้ามเนื้อ มันเห็นได้ชัดสุดที่กล้ามเนื้อบริเวณที่นิ้วใช้งอและ และกล้ามเนื้อยืดที่เข่า</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PMS</LocID>                         <Text>กล้ามเนื้ออักเสบ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PMS_DESCRIPTION</LocID>             <Text>กล้ามเนื้ออักเสบ เป็นการอักเสบเพิ่มขึ้นอย่างต่อเนื่องเรื้อรังและการอ่อนแรงลงของกล้ามเนื้อ มันเริ่มต้นจากการอ่อนแรงที่กล้ามเนื้อที่อยู่ใกล้กับลำตัวมากที่สุดจากที่ที่มันแพร่กระจายออกมา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_SDS</LocID>                         <Text>กระดูกสันหลังเสื่อม</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_SDS_DESCRIPTION</LocID>             <Text>Spondylolysis is a defect, crack or stress fracture in one of the vertebrae, typically in the L5-S1 level. The condition can be painful. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SDS_DESCRIPTION</LocID>             <Text>กระดูกสันหลังเสื่อม คือความผิดปกติ การแตก หรือความตึงของชิ้นส่วนของส่วนหนึ่งของกระดูกสั้นหลัง, โดยปกติอยู่ในระดับ L5-S1 สามารถมีอาการเจ็บปวดเป็นอย่างมาก </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_SDL</LocID>                         <Text>กระดูกสันหลังเคลื่อน</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_SDL_DESCRIPTION</LocID>             <Text>Spondylolisthesis refers to a displaced vertebrae. Several conditions can cause spondylolisthesis; degenerative changes, trauma, congenital abnormalities, malignancy etc.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CSL</LocID>                         <Text>กระดูกสันหลังส่วนคอ เสื่อมสภาพ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CSL_DESCRIPTION</LocID>             <Text>Cervical spondylosis is a degeneration of the cervical spine from any cause. Often it is synonymous with age-related wear and tear causing spinal osteoarthritis.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_OSM</LocID>                         <Text>กระดูกอักเสบ เฉียบพลัน</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_OSM_DESCRIPTION</LocID>             <Text>Acute osteomyelitis is a bacterial infection of the bone. It can develop into chronic osteomyelitis which is very difficult to treat.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CDD</LocID>                         <Text>ช่องไขสันหลังตีบ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CDD_DESCRIPTION</LocID>             <Text>Spinal stenosis refers to an abnormal narrowing of the spinal canal, which affects the spinal cord or nerve roots. It causes pain, discomfort and loss of mobility usually in the limbs corresponding to the level of the stenosis.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_BOT</LocID>                         <Text>ถุงน้ำลดการเสียดสี อักเสบ - ข้อเข่า</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_BOT_DESCRIPTION</LocID>             <Text>A bursae is a small fluid filled sac which acts as a cushion between bone and areas prone to friction. Bursitis refers to swelling of said sac caused by inflammation.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_BOH</LocID>                         <Text>ถุงน้ำลดการเสียดสี อักเสบ - ข้อมือ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_BOH_DESCRIPTION</LocID>             <Text>A bursae is a small fluid filled sac which acts as a cushion between bone and areas prone to friction. Bursitis refers to swelling of said sac caused by inflammation</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_AOM</LocID>                         <Text>กระดูกน่วม</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_AOM_DESCRIPTION</LocID>             <Text>Osteomalacia, known as Rickets if it occurs in childhood, refers to a condition where the bones soften due to impaired bone metabolism.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_TEW</LocID>                         <Text>ปวดศอกด้านนอก</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_TEW_DESCRIPTION</LocID>             <Text>Tennis elbow, also known as lateral epicondylitis, is characterized by radiating pain from the outside of the elbow to the wrist. The condition is caused by performing repetitive movement and, thus, irritation of the muscles and tendons associated with said movement.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_OLB</LocID>                         <Text>ถุงน้ำลดการเสียดสี อักเสบ - ข้อศอก</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_OLB_DESCRIPTION</LocID>             <Text>A bursae is a small fluid filled sac which acts as a cushion between bone and areas prone to friction. Bursitis refers to swelling of said sac caused by inflammation.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SDL_DESCRIPTION</LocID>             <Text>กระดูกสันหลังเคลื่อน หมายถึงกระดูกสันหลังเคลื่อนจากที่เดิม สภาวะหลายอย่างสามารถทำให้เกิดกระดูกสันหลังเคลื่อนได้;ความเสื่อม การบาดเจ็บ ความผิดปกติโดยกำเนิด ฯลฯ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CSL</LocID>                         <Text>กระดูกคอเสื่อม</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CSL_DESCRIPTION</LocID>             <Text>กระดูกคอเสื่อม เป็นความเสื่อมของกระดูกสันหลังส่วนคอจากสาเหตุใดๆ หลักๆมักเกี่่ยวเนื่่องจากความเสื่อมตามกาลเวลาทำให้เกิดการเสื่อมของกระดูกสันหลัง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OSM</LocID>                         <Text>กระดูกอักเสบเฉียบพลัน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OSM_DESCRIPTION</LocID>             <Text>กระดูกอักเสบเฉียบพลัน เป็นการคิดเชื้อแบคทีเรียที่กระดูก มันสามารถพัฒนาจนกลายเป็นกระดูกอักเสบเรื้อรังได้</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CDD</LocID>                         <Text>โรคช่องไขสันหลังตีบแคบ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CDD_DESCRIPTION</LocID>             <Text>โรคช่องไขสันหลังตีบแคบ หมายถึงการตีบลงอย่างผิดปกติของไขสันหลัง ซึ่งส่งผลต่อไขสันหลังหรือรากประสาท ทำให้เกิดความเจ็บปวด ไม่สบายตัว และมักเกิดขึ้นสูญเสียการควบคุมที่แขนขาขึ้นอยู่กับระดับของความตีบ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BOT</LocID>                         <Text>การอักเสบของถุงน้ำใต้เข่า </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BOT_DESCRIPTION</LocID>             <Text>ถุงน้ำ คือ ถุงเล็กๆที่บรรจุไปด้วยของเหลวซึ่งทำหน้าที่เป็นที่รองระหว่างกระดูกและบริเวณที่รองแรงเสียดทาน ถุงน้ำอักเสบ หมายถึง การบวมของถุงน้ำที่กล่าวถึงเกิดขึ้นจากการอักเสบ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BOH</LocID>                         <Text>การอักเสบของถุงน้ำในมือ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BOH_DESCRIPTION</LocID>             <Text>ถุงน้ำ คือ ถุงเล็กๆที่บรรจุไปด้วยของเหลวซึ่งทำหน้าที่เป็นที่รองระหว่างกระดูกและบริเวณที่รองแรงเสียดทาน ถุงน้ำอักเสบ หมายถึง การบวมของถุงน้ำที่กล่าวถึงเกิดขึ้นจากการอักเสบ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_AOM</LocID>                         <Text>โรคกระดูกอ่อน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_AOM_DESCRIPTION</LocID>             <Text>โรคกระดูกอ่อน, หรือรู้จักกันในนาม ริคเก็ตส์(Rickets)ถ้าเกิดขึ้นในเด็ก คือสภาวะที่ซึ่งกระดูกอ่อนลงเนื่องจากการเผาผลาญอาหารของกระดูกบกพร่อง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TEW</LocID>                         <Text>ข้อศอกนักเทนนิส</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TEW_DESCRIPTION</LocID>             <Text>ข้อศอกนักเทนนิส(Tennis Elbow),เรียกได้อีกว่า โรคเอ็นอักเสบข้อศอกด้านนอก, สามารถบอกลักษณะอาการของมันได้จากความเจ็บปวดที่แผ่ออกมากจากด้านนอกของข้อศอกถึงข้อมือ ภาวะนี้เกิดขึ้นจากการเคลื่อนไหวในรูปแบบซ้ำๆ ดังนั้นจึงเกิดการระคายเคืองที่กล้ามเนื้อและเส้นเอ็นเกี่ยวเนื่องกับการเคลื่อนไหวในลักษณะดังกล่าว</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OLB</LocID>                         <Text>ถุงน้ำที่ข้อศอกอักเสบ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OLB_DESCRIPTION</LocID>             <Text>ถุงน้ำ คือ ถุงเล็กๆที่บรรจุไปด้วยของเหลวซึ่งทำหน้าที่เป็นที่รองระหว่างกระดูกและบริเวณที่รองแรงเสียดทาน ถุงน้ำอักเสบ หมายถึง การบวมของถุงน้ำที่กล่าวถึงเกิดขึ้นจากการอักเสบ</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>TRM_DWH</LocID>                         <Text>บาดแผลลึกที่มือ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_DWH_DESCRIPTION</LocID>             <Text>A bleeding deep, smooth or jagged wound. It needs suturing.</Text>  </GameDBLocalizedString>
