@@ -1,0 +1,39 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_TH_OPTIONS">
+    
+        <LanguageCode>th</LanguageCode>
+        <LanguageNameLocalized>Thai</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Sireethon</Name>
+        </Contributors>
+        
+        <LocalizedStrings>
+            <GameDBLocalizedString>      <LocID>UI_OPTIONS</LocID>                     <Text>การตั้งค่า</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UI_OPTIONS_MESSAGES</LocID>            <Text>ตั้งค่าการแจ้งเตือน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_SHOW_BLOOD</LocID>             <Text>แสดงเลือด</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_SHOW_SCHEDULE</LocID>          <Text>แสดงกำหนดการรายวันที่ใช้งานอยู่</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_UI_SCALE_AUTO</LocID>          <Text>UI สเกลอัตโนมัติ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_UI_SCALE</LocID>               <Text>UI สเกล</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_UI_TOOLTIP_DELAY</LocID>       <Text>คำแนะนำดีเลย์ (0 - 1s)</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>OPTIONS_VOLUME_SFX</LocID>             <Text>เสียง: FX</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_VOLUME_MUSIC</LocID>           <Text>เสียง: เพลง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_VOLUME_DIALOGUE</LocID>        <Text>เสียง: บทพูด</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_VOLUME_UI</LocID>              <Text>เสียง: UI</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>OPTIONS_AUTO_FOUNDATION_WALLS</LocID>  <Text>เพิ่มกำแพงไปที่โครงฐานโดยอัตโนมัติ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_SHOW_PAYMENTS_INGAME</LocID>   <Text>แสดงค่าใช้จ่ายในเกม</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_SHOW_XP_INGAME</LocID>         <Text>แสดงค่า XP ในเกม</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_TRANSPARENT_OPEN_DOORS</LocID> <Text>ทำให้ประตูที่เปิดแล้วจางออกไป</Text>  </GameDBLocalizedString>
+
+            <!-- ============= NEW, NEED TRANSLATING ================== -->
+            <GameDBLocalizedString>      <LocID>OPTIONS_ALLOW_DEATH</LocID>            <Text>คนไข้ตายได้</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>AUTOSAVE_ENABLED</LocID>               <Text>เปิดออโต้เซฟ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>AUTOSAVE_EVERY_HOUR</LocID>            <Text>ออโต้เซฟทุกๆชั่วโมง</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>OPTIONS_RUN_IN_BACKGORUND</LocID>      <Text>รันเกมตอนพับหน้าจอไปแล้ว</Text>  </GameDBLocalizedString>
+            
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

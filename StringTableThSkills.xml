@@ -1,0 +1,130 @@
+
+
+<Database>
+    <GameDBStringTable ID="LOC_TH_SKILLS" >
+        
+        <LanguageCode>th</LanguageCode>
+        <LanguageNameLocalized>Thai</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Sireethon-SoraHana</Name>
+            <Name>Teenavut Liwanag</Name>
+        </Contributors>
+        
+        <LocalizedStrings >
+            <!-- Departments -->
+            <GameDBLocalizedString>      <LocID>DPT_DEFAULT</LocID>                                                 <Text>ไม่มีแผนก</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DPT_EMERGENCY</LocID>                                               <Text>ฉุกเฉิน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DPT_ICU</LocID>                                                     <Text>หอผู้ป่วยหนัก(ICU)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DPT_GENERAL_SURGERY_DEPARTMENT</LocID>                              <Text>ศัลยกรรมทั่วไป</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DPT_INTERNAL_MEDICINE_DEPARTMENT</LocID>                            <Text>อายุรกรรม</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DPT_ORTHOPAEDICS_AND_TRAUMATOLOGY</LocID>                           <Text>กระดูกและข้อ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DPT_CARDIOLOGY</LocID>                                              <Text>หัวใจและหลอดเลือด</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DPT_NEUROLOGY</LocID>                                               <Text>ประสาทวิทยา</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DPT_RADIOLOGY</LocID>                                               <Text>รังสีวิทยา</Text>  </GameDBLocalizedString>
+
+
+            <!-- Character levels-->
+            <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_1</LocID>                                              <Text>แพทย์จบใหม่</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_2</LocID>                                              <Text>แพทย์เรียนเฉพาะทาง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_3</LocID>                                              <Text>แพทย์เฉพาะทางทั่วไป</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_4</LocID>                                              <Text>แพทย์เฉพาะทางต่อยอด</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_LEVEL_5</LocID>                                              <Text>อ.แพทย์</Text>  </GameDBLocalizedString>
+                                                                                                               
+            <GameDBLocalizedString>      <LocID>NURSE_LEVEL_1</LocID>                                               <Text>พยาบาลฝึกหัด</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_LEVEL_2</LocID>                                               <Text>พยาบาลวิชาชีพ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_LEVEL_3</LocID>                                               <Text>พยาบาลผู้เชี่ยวชาญ</Text>  </GameDBLocalizedString>
+                                                                                                               
+            <GameDBLocalizedString>      <LocID>LAB_SPECIALIST_LEVEL_1</LocID>                                      <Text>นักวิทยาศาสตร์</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LAB_SPECIALIST_LEVEL_2</LocID>                                      <Text>นักวิทยาศาสตร์อาวุโส</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LAB_SPECIALIST_LEVEL_3</LocID>                                      <Text>นักวิทยาศาสตร์ผู้ชำนาญ</Text>  </GameDBLocalizedString>
+                                                                                                               
+            <GameDBLocalizedString>      <LocID>JANITOR_LEVEL_1</LocID>                                             <Text>ภารโรง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_LEVEL_2</LocID>                                             <Text>ภารโรงอาวุโส</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_LEVEL_3</LocID>                                             <Text>ภารโรงผู้ชำนาญ</Text>  </GameDBLocalizedString>
+            
+            
+             <!-- Doctor's QUALIFICATIONS -->
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_QUALIF_GENERAL_MEDICINE</LocID>                           <Text>อายุรศาสตร์ทั่วไป</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_QUALIF_GENERAL_MEDICINE_DESCRIPTION</LocID>               <Text>อายุรศาสตร์ทั่วไป ช่วยให้แพทย์สามารถทำการ ตรวจและการรักษาขั้นพื้นฐาน ได้ทั้งหมดและส่งผลต่อความ เร็วในการทำงานของพวกเขา</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_QUALIF_DIAGNOSIS</LocID>                                  <Text>การวินิจฉัย</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_QUALIF_DIAGNOSIS_DESCRIPTION</LocID>                      <Text>ระดับของการวินิจฉัยส่งผลต่อความถี่ที่หมอจะตรวจคนไข้ผิดหรือ ต้องขอคำปรึกษาจากหมอท่านอื่น</Text>  </GameDBLocalizedString>
+
+            <!-- Doctor's SPECIALIZATIONS -->
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ACUTE_MEDICINE</LocID>                               <Text>การรักษาเฉียบพลัน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ACUTE_MEDICINE_DESCRIPTION</LocID>                   <Text>การรักษาเฉียบพลัน ให้การเข้าถึงแก่ขั้นตอนพิเศษสำหรับการวินิจฉัยและรักษาผู้ป่วยวิกฤติที่ห้องฉุกเฉิน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ADVANCED_DIAGNOSIS</LocID>                           <Text>การวินิจฉัยขั้นสูง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ADVANCED_DIAGNOSIS_DESCRIPTION</LocID>               <Text>การวินิจฉัยขั้นสูง: ความเชี่ยวชาญในการวินิจฉัยขั้นสูงสามารถทำให้หมอเข้าถึงการวินิจฉัยแยกโรค</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_CRITICAL_CARE</LocID>                                <Text>การรักษาคนไข้วิกฤติ</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_CRITICAL_CARE_DESCRIPTION</LocID>                    <Text>การรักษาคนไข้วิกฤติ ให้การเข้าถึงวิธีวินิจฉัยเฉพาะทางแก่หมอ ใช้ใน ICU</Text></GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_GENERAL_SURGERY</LocID>                              <Text>ศัลยกรรมทั่วไป</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_GENERAL_SURGERY_DESCRIPTION</LocID>                  <Text>เฉพาะทางศัลยกรรมทั่วไป ถูกใช้ในการตรวจและเผื่อสั่งการรักษาที่แผนกศัลยกรรมทั่วไป และอนุญาตให้แพทย์ช่วยเหลือในการผ่าตัดได้</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_OPERATIVE_SURGERY</LocID>                            <Text>ศัลยกรรม</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_OPERATIVE_SURGERY_DESCRIPTION</LocID>                <Text>ศัลยกรรม อนุญาตให้แพทย์เป็นศัลยแพทย์หลัก ที่แผนกศัลยกรรมทั่วไปและส่งผลต่อความถี่ที่การผ่าตัด จะจบลงด้วยการมีภาวะแทรกซ้อน</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE</LocID>                            <Text>อายุรศาสตร์</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE_DESCRIPTION</LocID>                <Text>เฉพาะทางอายุรสาสตร์ ถูกใช้ในการตรวจเฉพาะทางและเพื่อ สั่งการรักษาที่แผนกอายุรสาสตร์ผู้ใหญ่ และอนุญาตให้หมอสามารถช่วยเหลือในการผ่าตัด</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE_SURGERY</LocID>                    <Text>ศัลยกรรม อ.ย.ศ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE_SURGERY_DESCRIPTION</LocID>        <Text>ศัลยกรรมอายุรศาสตร์ อนุญาตให้แพทย์สามารถทำหน้าที่เป็นหมอผ่าตัดหลักได้ที่ แผนกอายุรศาสตร์และส่งผลต่อความถี่ที่การผ่าตัดจะจบลงด้วยการ มีภาวะแทรกซ้อน</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ORTHOPAEDY</LocID>                                   <Text>ออร์โธปิดิกส์</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ORTHOPAEDY_DESCRIPTION</LocID>                       <Text>ออร์โธปิดิกส์ ถูกใช้ในการตรวจเฉพาะทาง และเพื่อสั่งการรักษาที่แผนก ออร์โธปิดิกส์อนุญาตให้หมอ สามารถช่วยเหลือในการผ่าตัด</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ORTHOPAEDIC_SURGERY</LocID>                          <Text>ศัลยกรรมออร์โธปิดิกส์</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ORTHOPAEDIC_SURGERY_DESCRIPTION</LocID>              <Text>ศัลยกรรมออร์โธปิดิกส์ อนุญาตให้หมอสามารถทำหน้าที่เป็นแพทย์ผ่าตัดหลักได้ที่ แผนกออร์โธปิดิกและส่งผลต่อความถี่ที่การผ่าตัดจะจบลงด้วยความซับซ้อน</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_CARDIOLOGY</LocID>                                   <Text>หทัยวิทยา</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_CARDIOLOGY_DESCRIPTION</LocID>                       <Text>หทัยวิทยา ถูกใช้ในการตรวจเฉพาะทางและเพื่อ สั่งการรักษาในแผนกหทัยวิทยาและอนุญาตให้หมอสามารถช่วยเหลือในการ ผ่าตัดได้</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_CARDIO_SURGERY</LocID>                               <Text>ศัลยกรรมทรวงอก</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_CARDIO_SURGERY_DESCRIPTION</LocID>                   <Text>ศัลยกรรมทรวงอก อนุญาตให้แพทย์เป็นหมอผ่าตัดหลัก ที่แผนกหทัยวิทยาได้และส่งผลต่อความ ถี่ที่การผ่าตัดจะจบลงด้วยการมีภาวะแทรกซ้อน</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_NEUROLOGY</LocID>                                    <Text>ประสาทวิทยา</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_NEUROLOGY_DESCRIPTION</LocID>                        <Text>ประสาทวิทยา ถูกใช้ในการตรวจเฉพาะทางและเพื่อสั่งการรักษาที่\nแผนกประสาทวิทยาและอนุญาตให้แพทย์ช่วยเหลือในการผ่าตัด</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_NEURO_SURGERY</LocID>                                 <Text>ศัลยกรรมประสาท</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_NEURO_SURGERY_DESCRIPTION</LocID>                     <Text>ศัลยกรรมประสาท\nอนุญาตให้แพทย์สามารถทำหน้าที่เป็นศัลยแพทย์หลัก\nที่แผนกประสาทวิทยาและส่งผลต่อความถี่\nที่การผ่าตัดจะจบลงด้วยการมีภาวะแทรกซ้อน</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ANESTHESIOLOGY</LocID>                               <Text>วิสัญญีวิทยา</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_ANESTHESIOLOGY_DESCRIPTION</LocID>                   <Text>วิสัญญีวิทยา ต้องการสำหรับหมอที่ทำหน้าที่เป็นหมอดมยาในการผ่าตัด\nและเพิ่มโอกาสรอดของคนไข้ที่หมดสติดูแลโดยแพทย์คนนี้ \nลดโอกาสที่ผู้ป่วยหมดสติจะเสียชีวิต \nลดภาะแทรกซ้อนที่เกิดหลังจากการผ่าตัด</Text>  </GameDBLocalizedString>
+
+            
+            <!-- Nurse's QUALIFICATIONS -->
+            <GameDBLocalizedString>      <LocID>SKILL_NURSE_QUALIF_PATIENT_CARE</LocID>                             <Text>การดูแลคนไข้</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_NURSE_QUALIF_PATIENT_CARE_DESCRIPTION</LocID>                 <Text>พยาบาล มีความสามารถในการให้การดูแลคนไข้ในแบบต่างๆ</Text>  </GameDBLocalizedString>
+
+            <!-- Nurse's SPECIALIZATIONS -->
+            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_RECEPTIONIST</LocID>                               <Text>พนักงานต้อนรับ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_RECEPTIONIST_DESCRIPTION</LocID>                   <Text>พนักงานต้อนรับ ทำหน้าที่เป็นตัวแทนที่จุดติดต่อครั้งแรกกับคนไข้</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_MEDICAL_SURGERY</LocID>                            <Text>ศัลยกรรมการแพทย์</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_MEDICAL_SURGERY_DESCRIPTION</LocID>                <Text>พยาบาลผ่าตัด ทำหน้าที่ที่สำคัญในทีมศัลยกรรม</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_CLINICAL_SPECIALIST</LocID>                        <Text>พยาบาลชี่ยวชาญทางคลินิก</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_NURSE_SPEC_CLINICAL_SPECIALIST_DESCRIPTION</LocID>            <Text>พยาบาลเชี่ยวชาญทางคลินิก สามารถที่จะเปิดเผยลักษณะอาการของคนไข้ได้</Text>  </GameDBLocalizedString>
+
+            
+            <!-- Lab guys QUALIFICATIONS -->
+            <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_QUALIF_SCIENCE_EDUCATION</LocID>               <Text>ชีวเคมี</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_QUALIF_SCIENCE_EDUCATION_DESCRIPTION</LocID>   <Text>ชีวะเคมี ให้การเข้าถึงแก่การทดสอบ STAT ประเภทต่างๆ</Text>  </GameDBLocalizedString>
+
+            <!-- Lab guys SPECIALIZATIONS -->
+            <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_SPEC_BIOCHEMISTRY</LocID>                      <Text>ชีวเคมีขั้นสูง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_SPEC_BIOCHEMISTRY_DESCRIPTION</LocID>          <Text>ชีวเคมีขั้นสูง เพิ่มประสิทธิผลของการทดลองในแลป</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_SPEC_RADIOLOGY</LocID>                         <Text>รังสีวิทยา</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_SPEC_RADIOLOGY_DESCRIPTION</LocID>             <Text>นักรังสีเทคนิค สามารถใช้เครื่องสร้างภาพจากรังสีแบบทำงานเต็มที่ได้ และเครื่องมือที่เกี่ยวข้องทาง  รังสีอื่นๆ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_SPEC_GIT</LocID>                               <Text>GIT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_SPEC_GIT_DESCRIPTION</LocID>                   <Text>นักเทคนิค GIT สามารถใช้เครื่องตรวจต่างๆที่เกี่ยวข้องกับการผ่าตัดทั่วไปได้</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_SPEC_USG</LocID>                               <Text>USG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_SPEC_USG_DESCRIPTION</LocID>                   <Text>นักเทคนิค USG สามารถที่จะใช้งานเครื่องมืออัลตราซาวน์ต่างๆได้</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_SPEC_CARDIOLOGY</LocID>                        <Text>หทัยวิทยา</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_SPEC_CARDIOLOGY_DESCRIPTION</LocID>            <Text>นักเทคนิคหัวใจ สามารถใช้เครื่องตรวจต่างๆที่เกี่ยวข้องกับโรคหัวใจได้</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_SPEC_NEUROLOGY</LocID>                         <Text>ประสาทวิทยา</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_LAB_SPECIALIST_SPEC_NEUROLOGY_DESCRIPTION</LocID>             <Text>นักเทคนิคด้านประสาท สามารถใช้เครื่องตรวจต่างๆที่เกี่ยวข้องกับประสาทได้</Text>  </GameDBLocalizedString>
+
+            
+            <!-- Janitor QUALIFICATIONS -->
+            <GameDBLocalizedString>      <LocID>SKILL_JANITOR_QUALIF_EFFICIENCY</LocID>                             <Text>ประสิทธิภาพ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_JANITOR_QUALIF_EFFICIENCY_DESCRIPTION</LocID>                 <Text>ประสิทธิภาพ  ส่งผลต่อการวางแผนเมื่อภารโรงทำความสะอาดห้องต่างๆ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_JANITOR_QUALIF_DEXTERITY</LocID>                              <Text>ความคล่องแคล่ว</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_JANITOR_QUALIF_DEXTERITY_DESCRIPTION</LocID>                  <Text>ความคล่องแล่ว ส่งผลต่อความเร็วในการทำความสะอาด</Text>  </GameDBLocalizedString>
+            
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>
