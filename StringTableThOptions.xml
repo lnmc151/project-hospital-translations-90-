@@ -14,7 +14,7 @@
             <GameDBLocalizedString>      <LocID>OPTIONS_SHOW_BLOOD</LocID>             <Text>แสดงเลือด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OPTIONS_SHOW_SCHEDULE</LocID>          <Text>แสดงกำหนดการรายวันที่ใช้งานอยู่</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OPTIONS_UI_SCALE_AUTO</LocID>          <Text>สเกล UI อัตโนมัติ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OPTIONS_UI_SCALE</LocID>               <Text>UI สเกล</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_UI_SCALE</LocID>               <Text>สเกล UI </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OPTIONS_UI_TOOLTIP_DELAY</LocID>       <Text>คำแนะนำดีเลย์ (0 - 1s)</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>OPTIONS_VOLUME_SFX</LocID>             <Text>เสียง: FX</Text>  </GameDBLocalizedString>
@@ -30,7 +30,7 @@
             <!-- ============= NEW, NEED TRANSLATING ================== -->
             <GameDBLocalizedString>      <LocID>OPTIONS_ALLOW_DEATH</LocID>            <Text>คนไข้ตายได้</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>AUTOSAVE_ENABLED</LocID>               <Text>เปิดออโต้เซฟ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>AUTOSAVE_EVERY_HOUR</LocID>            <Text>ออโต้เซฟทุกๆชั่วโมง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>AUTOSAVE_EVERY_HOUR</LocID>            <Text>ออโต้เซฟทุกๆ ชั่วโมง</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>OPTIONS_RUN_IN_BACKGORUND</LocID>      <Text>รันเกมตอนพับหน้าจอไปแล้ว</Text>  </GameDBLocalizedString>
             
