@@ -25,8 +25,8 @@
             <!-- RELATED FILE: StringTable[Language]Options.xml -->
             <GameDBLocalizedString>      <LocID>OPTIONS_DAY_LIGHT_BUILDING</LocID>                          <Text>Always daylight in building mode</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>OPTIONS_UI_SCALE_AUTO_PANEL</LocID>                         <Text>UI scale อัตโนมัติ (main panel)</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OPTIONS_UI_SCALE_PANEL</LocID>                              <Text>UI scale (main panel)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_UI_SCALE_AUTO_PANEL</LocID>                         <Text>สเกล UI อัตโนมัติ (main panel)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_UI_SCALE_PANEL</LocID>                              <Text>สเกล UI (main panel)</Text>  </GameDBLocalizedString>
 
 
             <!-- RELATED FILE: StringTable[Language]Notifications.xml -->
