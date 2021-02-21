@@ -14,7 +14,7 @@
 
         <LocalizedStrings>
             <!-- Symptoms-->
-                      <GameDBLocalizedString>      <LocID>SYM_A1AT_DEFICIENCY</LocID>                                 <Text>A1At deficiency</Text>  </GameDBLocalizedString>
+                      <GameDBLocalizedString>      <LocID>SYM_A1AT_DEFICIENCY</LocID>                                 <Text>ขาด A1At</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_A1AT_DEFICIENCY_DESCRIPTION</LocID>                     <Text>Alpha-1 antitrypsin มีบทบาทสำคัญในการยับยั้งความเสียหายที่อาจเกิดจากระบบภูมิคุ้มกัน ผู้ป่วยที่มีภาวะขาด A1AT มักจะมีการย่อยสลายของเนื้อเยื่อปอดอย่างต่อเนื่อง </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ABDOMINAL_CRAMPS</LocID>                                <Text>ท้องเป็นตะคริว</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ABDOMINAL_CRAMPS_DESCRIPTION</LocID>                    <Text>ปวดอย่างรุนแรงในบริเวณช่องท้อง</Text>  </GameDBLocalizedString>
@@ -40,7 +40,7 @@
             <GameDBLocalizedString>      <LocID>SYM_ANXIETY_DESCRIPTION</LocID>                             <Text>ผู้ป่วยแสดงออกถึงความกังวลและวิตกกังวลอย่างมาก </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ASTASIS</LocID>                                         <Text>Astasis</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ASTASIS_DESCRIPTION</LocID>                             <Text>Inability to stand or walk due to motor incoordination.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_ATHEROSCLEROSIS</LocID>                                 <Text>หลอดเลือด</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ATHEROSCLEROSIS</LocID>                                 <Text>หลอดเลือดแดงแข็ง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ATHEROSCLEROSIS_DESCRIPTION</LocID>                     <Text>หลอดเลือดแดงตีบแคบเนื่องจากคราบจุลินทรีย์ที่สร้างขึ้นทำให้การไหลเวียนของเลือดลดลง </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_AZOTEMIA</LocID>                                        <Text>อะโซทีเมีย </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_AZOTEMIA_DESCRIPTION</LocID>                            <Text>สารประกอบไนโตรเจนในเลือดสูงผิดปกติ </Text>  </GameDBLocalizedString>
@@ -57,7 +57,7 @@
             <GameDBLocalizedString>      <LocID>SYM_BLOOD_LOSS</LocID>                                      <Text>เสียเลือด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_BLOOD_LOSS_DESCRIPTION</LocID>                          <Text>เรียกอีกอย่างว่า hypovolemia หมายถึงการสูญเสียปริมาณเลือดอย่างมีนัยสำคัญ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_BLURRED_VISION</LocID>                                  <Text>มองเห็นภาพซ้อน</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_BLURRED_VISION_DESCRIPTION</LocID>                      <Text>ขาดการมองเห็น</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BLURRED_VISION_DESCRIPTION</LocID>                      <Text>การมองเห็นลดลง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_BONE_FRACTURE_VISIBLE</LocID>                           <Text>กระดูกโผล่</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_BONE_FRACTURE_VISIBLE_DESCRIPTION</LocID>               <Text>กระดูกหักและทะลุผิวหนังทำให้กระดูกถูกเปิดออกทางแผลเปิด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_BRADYCARDIA</LocID>                                     <Text>หัวใจเต้นช้า</Text>  </GameDBLocalizedString>
@@ -128,7 +128,7 @@
             <GameDBLocalizedString>      <LocID>SYM_EXHAUSTION_DESCRIPTION</LocID>                          <Text>ผู้ป่วยอยู่ในสภาพเหนื่อยล้าทางร่างกายหรือจิตใจอย่างมาก </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_EYE_PAIN</LocID>                                        <Text>ปวดตา </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_EYE_PAIN_DESCRIPTION</LocID>                            <Text>ผู้ป่วยบ่นเกี่ยวกับความเจ็บปวดในตา </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_FAT_MALABSORPTION</LocID>                               <Text>Fat malabsorption</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FAT_MALABSORPTION</LocID>                               <Text>การดูดซึมไขมันผิดปกติ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_FAT_MALABSORPTION_DESCRIPTION</LocID>                   <Text>ไขมันถูกดูดซึมจากลำไส้เล็กไม่สมบูรณ์</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_FAINTING</LocID>                                        <Text>เป็นลม </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_FAINTING_DESCRIPTION</LocID>                            <Text>เรียกอีกอย่างว่าเป็นลมหมดสติเป็นการสูญเสียสติชั่วคราว</Text>  </GameDBLocalizedString>
@@ -246,8 +246,8 @@
             <GameDBLocalizedString>      <LocID>SYM_JAUNDICE_DESCRIPTION</LocID>                            <Text>โรคดีซ่านหรือที่เรียกว่า icterus เป็นสีเหลืองของผิวหนังและดวงตาเนื่องจากระดับบิลิรูบินสูง </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_KNEE_INJURY</LocID>                                     <Text>บาดเจ็บเข่า</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_KNEE_INJURY_DESCRIPTION</LocID>                         <Text>ผู้ป่วยได้รับบาดเจ็บที่หัวเข่า </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_LDL_HIGH_LEVEL</LocID>                                  <Text>Elevated LDL</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_LDL_HIGH_LEVEL_DESCRIPTION</LocID>                      <Text>Raised LDL cholesterol blood levels above normal ranges.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LDL_HIGH_LEVEL</LocID>                                  <Text>คอเรสโตรอล LDL สูง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LDL_HIGH_LEVEL_DESCRIPTION</LocID>                      <Text>ระดับคอเรสโตรอล LDL ในเลือดสูงขึ้นมากกว่าปกติ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_LEUKOCYTOSIS</LocID>                                    <Text>เม็ดเลือดขาวสูง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_LEUKOCYTOSIS_DESCRIPTION</LocID>                        <Text>เม็ดเลือดขาวที่เพิ่มขึ้นจะมีค่าในเลือดสูงกว่าช่วงปกติ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_LEUKOPENIA</LocID>                                      <Text>เม็ดเลือดขาวต่ำ</Text>  </GameDBLocalizedString>
