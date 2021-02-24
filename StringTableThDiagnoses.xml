@@ -94,7 +94,7 @@
             <GameDBLocalizedString>      <LocID>DIA_HPT</LocID>                         <Text>ภาวะขาดไทรอยด์</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_HPT_DESCRIPTION</LocID>             <Text>ภาวะขาดไทรอยด์ คือโรคที่ซึ่งต่อมไทรอยด์ทำงานอย่างไม่เพียงพอและสร้างฮอร์โมนไทรอยด์น้อยเกินไป</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_HRT</LocID>                         <Text>คอพอกตาโปน</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HRT_DESCRIPTION</LocID>             <Text>คอพอกตาโปน เป็นโรคต่อมไร้ท่อที่ต่อมไทรอยด์ผลิตฮอร์โมนไทรอยด์มามากเกินไป/Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HRT_DESCRIPTION</LocID>             <Text>คอพอกตาโปน เป็นโรคต่อมไร้ท่อที่ต่อมไทรอยด์ผลิตฮอร์โมนไทรอยด์มามากเกินไป</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_OES</LocID>                         <Text>หลอดอาหารอักเสบ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_OES_DESCRIPTION</LocID>             <Text>หลอดอาหารอักเสบ คืออาการอักเสบของเยื่อบุหลอดอาหาร มักเกิดจากกรดไหลย้อน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_OEV</LocID>                         <Text>หลอดเลือด ในหลอดอาหารโป่งพอ</Text>  </GameDBLocalizedString>
