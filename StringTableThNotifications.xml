@@ -12,7 +12,11 @@
         <LocalizedStrings>
             <!-- Notifications -->
             <GameDBLocalizedString>      <LocID>NOTIF_HOSPITAL_OPEN</LocID>                  <Text>โรงพยาบาลเปิดรับคนไข้</Text>  </GameDBLocalizedString>
+<<<<<<< HEAD
             <GameDBLocalizedString>      <LocID>NOTIF_HOSPITAL_OPEN_TEXT</LocID>             <Text>ขณะนี้โรงพยาบาลมีพนักงานเพียงพอและพร้อมที่จะรับคนไข้รายแรกจากประกันภัยรายแรก และทำสัญญาโดยอัตโนมัติ</Text>  </GameDBLocalizedString>
+=======
+            <GameDBLocalizedString>      <LocID>NOTIF_HOSPITAL_OPEN_TEXT</LocID>             <Text>ขณะนี้โรงพยาบาลมีพนักงานเพียงพอและพร้อมที่จะรับคนไข้รายแรกจากประกันตัวแรก และทำสัญญาโดยอัตโนมัติ</Text>  </GameDBLocalizedString>
+>>>>>>> c96378232fc75645ba43a52626ae24e8c099b12e
 
             <GameDBLocalizedString>      <LocID>NOTIF_INSUR_COMPANY_NOW_AVLBL</LocID>        <Text>บริษัทประกันทำสัญญาได้!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_INSUR_COMPANY_NOW_AVLBL_TEXT</LocID>   <Text><![CDATA[บริษัทประกัน <i>{1}</i> บริษัท สามารถทำสัญญาเพื่อส่งคนไข้มา!]]></Text>  </GameDBLocalizedString>
