@@ -12,7 +12,7 @@
         <LocalizedStrings>
             <!-- Notifications -->
             <GameDBLocalizedString>      <LocID>NOTIF_HOSPITAL_OPEN</LocID>                  <Text>โรงพยาบาลเปิดรับคนไข้</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOTIF_HOSPITAL_OPEN_TEXT</LocID>             <Text>ขณะนี้โรงพยาบาลมีพนักงานเพียงพอและพร้อมที่จะรับคนไข้รายแรกจากประกันภัยแรก และทำสัญญาโดยอัตโนมัติ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_HOSPITAL_OPEN_TEXT</LocID>             <Text>ขณะนี้โรงพยาบาลมีพนักงานเพียงพอและพร้อมที่จะรับคนไข้รายแรกจากประกันภัยรายแรก และทำสัญญาโดยอัตโนมัติ</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>NOTIF_INSUR_COMPANY_NOW_AVLBL</LocID>        <Text>บริษัทประกันทำสัญญาได้!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_INSUR_COMPANY_NOW_AVLBL_TEXT</LocID>   <Text><![CDATA[บริษัทประกัน <i>{1}</i> บริษัท สามารถทำสัญญาเพื่อส่งคนไข้มา!]]></Text>  </GameDBLocalizedString>
@@ -21,10 +21,10 @@
             <GameDBLocalizedString>      <LocID>NOTIF_EMPLOYEE_GOT_DRUNK_TEXT</LocID>        <Text>เมื่อคืนนี้พนักงานเมา! วันนี้ฉันจะไม่รู้สึกดีเกินไป ...</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>NOTIF_NO_WAITING_ROOM</LocID>                <Text>ไม่มีห้องรอสำหรับคนไข้ในคลินิก!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOTIF_NO_WAITING_ROOM_TEXT</LocID>           <Text><![CDATA[ไม่มีห้องนั่งรอที่ถูกต้องในรัศมีของออฟฟิศหมอที่แผนก <i>{1}</i>เลย]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_NO_WAITING_ROOM_TEXT</LocID>           <Text><![CDATA[ไม่มีห้องนั่งรอที่ถูกต้องในระยะของออฟฟิศหมอที่แผนก <i>{1}</i>เลย]]></Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>NOTIF_NO_WAITING_ROOM_LAB</LocID>            <Text>ไม่มีห้องรอคอยรอบห้องตรวจวินิจฉัย!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOTIF_NO_WAITING_ROOM_LAB_TEXT</LocID>       <Text><![CDATA[ไม่มีห้องนั่งรอที่ถูกต้องในรัศมีของออฟฟิศหมอที่แผนก <i>{1}</i>เลย]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_NO_WAITING_ROOM_LAB_TEXT</LocID>       <Text><![CDATA[ไม่มีห้องนั่งรอที่ถูกต้องในระยะของออฟฟิศหมอที่แผนก <i>{1}</i>เลย]]></Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>NOTIF_NO_WAITING_ROOM_RADIOLOGY</LocID>      <Text>ไม่มีห้องรอที่รังสีวิทยา!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_NO_WAITING_ROOM_RADIOLOGY_TEXT</LocID> <Text>ไม่มีห้องรอที่ถูกต้องอยู่ใกล้กับห้องรังสีวิทยา!</Text>  </GameDBLocalizedString>
@@ -60,13 +60,13 @@
             <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_COUNLDNT_PAY_TRT</LocID>       <Text>Patient doesn't have enough money to pay for treatment!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_PATIENT_COUNLDNT_PAY_TRT_TEXT</LocID>  <Text>Patient doesn't have enough money to pay for treatment!</Text>  </GameDBLocalizedString-->
             
-            <GameDBLocalizedString>      <LocID>NOTIF_SKILL_LEVELED_UP</LocID>               <Text>ทักษะเลเวลอัพ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_SKILL_LEVELED_UP</LocID>               <Text>ทักษะเลเวลอัป</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_SKILL_LEVELED_UP_TEXT</LocID>          <Text><![CDATA[ทักษะเพิ่มขึ้น: <i>{1}</i>]]></Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>NOTIF_CHARACTER_LEVELED_UP</LocID>           <Text>พนักงานยกระดับ!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_CHARACTER_LEVELED_UP</LocID>           <Text>พนักงานเลเวลอัป!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_CHARACTER_LEVELED_UP_TEXT</LocID>      <Text>พนักงานมีระดับเพิ่มขึ้นแล้วในขณะนี้{1}!</Text>  </GameDBLocalizedString>
   
-            <GameDBLocalizedString>      <LocID>NOTIF_CHARACTER_LEVELED_UP_FIRST_SPECIALIZATION</LocID>       <Text>พนักงานเลเวลอัพ(ทักษะเฉพาะทางใช้ได้แล้ว)!>พนักงานยกระดับขึ้น (มีความเชี่ยวชาญพิเศษ)!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_CHARACTER_LEVELED_UP_FIRST_SPECIALIZATION</LocID>       <Text>พนักงานเลเวลอัป(ทักษะเฉพาะทางใช้ได้แล้ว)!>พนักงานยกระดับขึ้น (มีความเชี่ยวชาญพิเศษ)!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_CHARACTER_LEVELED_UP_FIRST_SPECIALIZATION_TEXT</LocID>  <Text><![CDATA[พนักงานมีระดับเพิ่มขึ้นแล้วในขณะนี้ <i>{1}</i> และได้เลือกความเชี่ยวชาญเป็นอันดับแรก! หากคุณต้องการเปลี่ยนแปลงได้เร็วยิ่งดี!]]></Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>NOTIF_CHARACTER_LEVELED_UP_SECOND_SPECIALIZATION</LocID>      <Text>พนักงานเลเวลอัป(ทักษะเฉพาะทางใช้ได้แล้ว)!</Text>  </GameDBLocalizedString>
@@ -119,10 +119,10 @@
             <GameDBLocalizedString>      <LocID>NOTIF_MONITORED_PATIENT_COLLAPSING_TEXT</LocID><Text>เฝ้าติดตามคนไข้ที่อาการทุดลง! เจ้าหน้าที่ของคุณจะพยายามอย่างเต็มที่เพื่อให้พวกเขามีชีวิตอยู่</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>NOTIF_PLAYERS_PATIENT_HIDDEN_SYMPTOM_FOUND</LocID><Text>อาการใหม่ที่ซ่อนอยู่ปรากฏขึ้นกับคนไข้ของคุณ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOTIF_PLAYERS_PATIENT_HIDDEN_SYMPTOM_FOUND_TEXT</LocID><Text>พบพยาบาลแล้ว {1} อาการใหม่ที่ซ่อนอยู่(s) กับคนไข้ของคุณและสิ่งนี้อาจสำคัญ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_PLAYERS_PATIENT_HIDDEN_SYMPTOM_FOUND_TEXT</LocID><Text>พยาบาลพบอาการใหม่ {1} อาการ บนคนไข้ของคุณ และมันอาจจะเป็นอันตราย</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>NOTIF_FAVORITE_PATIENT_HIDDEN_SYMPTOM_FOUND</LocID>  <Text>อาการใหม่ที่ซ่อนอยู่ปรากฏในคนไข้ที่ชื่นชอบ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOTIF_FAVORITE_PATIENT_HIDDEN_SYMPTOM_FOUND_TEXT</LocID><Text>พบพยาบาลแล้ว {1} อาการใหม่ที่ซ่อนอยู่(s) สำหรับคนไข้ที่ชื่นชอบสิ่งนี้อาจสำคัญ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_FAVORITE_PATIENT_HIDDEN_SYMPTOM_FOUND_TEXT</LocID><Text>พยาบาลพบอาการใหม่ {1} อาการ บนคนไข้คนโปรดของคุณ และมันอาจจะเป็นอันตราย</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>NOTIF_OBJECTIVE_PASSED</LocID>               <Text>เป้าหมายสำเร็จแล้ว</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_OBJECTIVE_PASSED_TEXT</LocID>          <Text><![CDATA[เป้าหมายของประกันภัยเสร็จสมบูรณ์แล้ว: <i>{1}</i>]]></Text>  </GameDBLocalizedString>
