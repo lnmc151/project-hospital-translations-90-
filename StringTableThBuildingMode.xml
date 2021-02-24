@@ -161,9 +161,9 @@
 
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_X_RAY_ROOM</LocID>                        <Text>ห้องเอ็กซเรย์</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_X_RAY_ROOM_DESCRIPTION</LocID>            <Text>ห้องเอกซเรย์ให้การถ่ายภาพเอ็กซ์เรย์ของส่วนต่างๆของร่างกายมนุษย์โดยแสดงโครงสร้างใต้ผิวหนังและกล้ามเนื้อ\n\nต้องการพนักงานอย่างน้อย: \n1x Technologist - Radiologist</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CT_ROOM</LocID>                           <Text>CT room</Text>    </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CT_ROOM</LocID>                           <Text>ห้อง CT </Text>    </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_CT_ROOM_DESCRIPTION</LocID>               <Text>CT ย่อมาจาก 'เอกซ์เรย์คอมพิวเตอร์' เป็นเทคนิคการถ่ายภาพเอ็กซเรย์ที่ซับซ้อนสำหรับการสร้างภาพที่มีความละเอียดสูง \n\nต้องการพนักงานอย่างน้อย: \n1x Technologist - Radiologist</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_MRI_ROOM</LocID>                          <Text>MRI room</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_MRI_ROOM</LocID>                          <Text>ห้อง MRI </Text>   </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_MRI_ROOM_DESCRIPTION</LocID>              <Text>การถ่ายภาพด้วยคลื่นสนามแม่เหล็กจะสร้างภาพที่มีรายละเอียดของร่างกายโดยใช้เทคนิคสนามแม่เหล็กและคลื่นวิทยุ \n\nต้องการพนักงานอย่างน้อย: \n1x Technologist - Radiologist</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_ANGIOGRAPHY_ROOM</LocID>                  <Text>CAG room</Text>   </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_ANGIOGRAPHY_ROOM_DESCRIPTION</LocID>      <Text>การตรวจหลอดเลือดหัวใจเป็นเทคนิคทางการแพทย์ที่เรียกว่าการถ่ายภาพหลอดเลือดซึ่งแสดงภาพเส้นเลือดและอวัยวะต่างๆของร่างกาย \n\nต้องการพนักงานอย่างน้อย: \n1x Technologist - Radiologist</Text></GameDBLocalizedString>
@@ -240,7 +240,7 @@
             <GameDBLocalizedString>      <LocID>OBJECT_CHAIR_DEFAULT</LocID>                        <Text>เก้าอี้</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_CHAIR_DEFAULT_DESCRIPTION</LocID>            <Text>เก้าอี้สำหรับห้องรอและรับแขกสามารถติดกับโต๊ะอาหารได้</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_CHAIR_SMALL</LocID>                          <Text>ม้านั่งเดี่ยว</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_CHAIR_SMALL_DESCRIPTION</LocID>              <Text>สตูลเป็นเก้าอี้ทำงานขนาดเล็กใช้ในห้องปฏิบัติการสถิติหรือเลือกใช้ในออฟฟิศ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_CHAIR_SMALL_DESCRIPTION</LocID>              <Text>ม้านั่งเดียวเป็นเก้าอี้ทำงานขนาดเล็กใช้ในห้องปฏิบัติการสถิติหรือเลือกใช้ในออฟฟิศ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_CHAIR_OFFICE_01</LocID>                      <Text>เก้าอี้สำนักงาน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_CHAIR_OFFICE_01_DESCRIPTION</LocID>          <Text>เก้าอี้สำนักงานเป็นเก้าอี้ทำงานพื้นฐานสำหรับพนักงานสามารถติดกับโต๊ะทำงานได้</Text>  </GameDBLocalizedString>
 
@@ -618,20 +618,20 @@
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_AMBULANCE_01</LocID>               <Text>รถพยาบาล</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_AMBULANCE_01_DESCRIPTION</LocID>   <Text>การจัดซื้อรถพยาบาลช่วยให้เข้าถึงกรณีวิกฤตที่ท้าทาย</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_XRAY</LocID>                          <Text>เครื่องเอ็กซเรย์</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_XRAY_DESCRIPTION</LocID>              <Text>X-ray machine is mandatory equipment for X-ray rooms. Needs to be controlled by an X-ray control panel, placed in the same room.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_CT</LocID>                            <Text>เครื่องซีทีสแกน</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_CT_DESCRIPTION</LocID>                <Text>Computed tomography scan is diagnostic imaging method/technique that creates detailed images of internal organs, tissues, blood vessels.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_MRI</LocID>                           <Text>เครื่องเอ็มอาร์ไอ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_XRAY</LocID>                          <Text>เครื่อง X-ray</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_XRAY_DESCRIPTION</LocID>              <Text>เครื่อง X-ray เป็นอุปกรณ์บังคับในห้อง X-ray จำเป็นต้องควบคุมด้วยแผงควบคุมเครื่อง X-ray และอยู่ในห้องเดียวกัน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_CT</LocID>                            <Text>เครื่อง CT สแกน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_CT_DESCRIPTION</LocID>                <Text>การสแกนเอกซเรย์คอมพิวเตอร์เป็นวิธีหรือเทคนิคการถ่ายภาพเพื่อการวินิจฉัยที่สร้างภาพอวัยวะภายในเนื้อเยื่อหลอดเลือดโดยละเอียด </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_MRI</LocID>                           <Text>เครื่อง MRI</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_MRI_DESCRIPTION</LocID>               <Text>Magnetic resonance imaging creates detailed images of the body using magnetic field and radio waves technique.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_ANGIOGRAPH</LocID>                 <Text>เครื่องเอ็กซเรย์ หลอดเลือด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_ANGIOGRAPH_DESCRIPTION</LocID>     <Text>Angiography machine provides technique also called arteriography that visualize inside of the blood vessels and organs of the body.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_GP_OFFICE_SIMPLE_ABBR</LocID>            <Text>ห้องตรวจ - 6 x 4</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_X_RAY_ABBR</LocID>                       <Text>ห้องเอ็กซเรย์ - 8 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_ANGIOGRAPHY_ABBR</LocID>                 <Text>CAG room - 8 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_CT_ABBR</LocID>                          <Text>CT room - 10 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_MRI_ABBR</LocID>                         <Text>MRI room - 10 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_X_RAY_ABBR</LocID>                       <Text>ห้อง X-ray - 8 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_ANGIOGRAPHY_ABBR</LocID>                 <Text>ห้อง CAG  - 8 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_CT_ABBR</LocID>                          <Text>ห้อง CT - 10 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_MRI_ABBR</LocID>                         <Text>ห้อง MRI  - 10 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_COMMON_ROOM_ABBR</LocID>                 <Text>ห้องพักพนักงาน - 8 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_GP_OFFICE_LARGE_ABBR</LocID>             <Text>ห้องตรวจ - 6 x 8</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_GP_OFFICE_SMALL_ABBR</LocID>             <Text>ห้องตรวจ - 6 x 6</Text>  </GameDBLocalizedString>
@@ -674,12 +674,12 @@
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_NURSES_STATION_LARGE_ABBR</LocID>        <Text>ห้องรวมพยาบาล - 10 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_NURSES_STATION_SMALL_ABBR</LocID>        <Text>ห้องรวมพยาบาล - 8 x 6</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OBSERVATION_ROOM_LARGE_ABBR</LocID>      <Text>Observation room - 14 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OBSERVATION_ROOM_SMALL_ABBR</LocID>      <Text>Observation room - 8 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OBSERVATION_ROOM_LARGE_ABBR</LocID>      <Text>ห้องสังเกตอาการ - 14 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_OBSERVATION_ROOM_SMALL_ABBR</LocID>      <Text>ห้องสังเกตอาการ - 8 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_TRAUMA_CENTER_ABBR</LocID>               <Text>ห้องฉุกเฉิน - 6 x 6</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_STAT_LAB_ER_ABBR</LocID>                 <Text>แล็บวิเคราะห์ - 8 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_STAT_LAB_IM_ABBR</LocID>                 <Text>Med Lab - 8 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_STAT_LAB_IM_ABBR</LocID>                 <Text>เมดแลป - 8 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_STAT_LAB_OT_ABBR</LocID>                 <Text>Orth. Lab - 8 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_STAT_LAB_GS_ABBR</LocID>                 <Text>Surg. Lab - 8 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_STAT_LAB_CAR_ABBR</LocID>                 <Text>Cardio Lab - 8 x 6</Text>  </GameDBLocalizedString>
@@ -752,7 +752,7 @@
             <GameDBLocalizedString>      <LocID>ALLOWED_NOT_ACCESSIBLE</LocID>                      <Text>วางตรงนี้ได้ แต่ใช้งานไม่ได้</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ALLOWED_ADDS_FOUNDATIONS</LocID>                    <Text>can be placed here, with extra cost for foundations.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_AT_DEPARTMENT</LocID>                   <Text>is not allowed at the active department.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOT_ALLOWED_LOCKED_INSURANCE</LocID>                <Text>ยังไม่ได้ถูกปลดล็อก</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOT_ALLOWED_LOCKED_INSURANCE</LocID>                <Text>ยังไม่ถูกปลดล็อก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_LIMIT_REACHED</LocID>                   <Text>has reached the overall limit.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_ROOF</LocID>                            <Text>วางบนหลังคาไม่ได้</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_TOO_CLOSE</LocID>                       <Text>วางชิดกำแพงไม่ได้</Text>  </GameDBLocalizedString>
