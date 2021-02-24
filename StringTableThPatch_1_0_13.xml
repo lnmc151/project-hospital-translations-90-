@@ -28,7 +28,7 @@
             <GameDBLocalizedString>      <LocID>WAITING_FOR_CRITICAL_PATIENTS</LocID>           <Text>ให้ทางกับผู้ป่วยวิกฤต</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>SKIPPED_AFTER_LONG_WAIT</LocID>                 <Text>ข้ามหลังจากรอนานเกินไป</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SCHEDULED_PROCEDURE_WAITING</LocID>             <Text>Scheduled</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SCHEDULED_PROCEDURE_WAITING</LocID>             <Text>วางแผนไว้</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_WaitingForBedFix</LocID>           <Text>บนเตียงมีอุปกรณ์ที่จำเป็นขาดหายไป</Text>  </GameDBLocalizedString>
 

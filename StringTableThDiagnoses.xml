@@ -33,7 +33,7 @@
             <GameDBLocalizedString>      <LocID>DIA_ATF_DESCRIPTION</LocID>             <Text>น้ำกัดเท้า, หรือฮ่องกงฟุตเป็นโรคติดเชื้อทางผิวหนังที่เท้าที่เกิดจากเชื้อรา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_IDA</LocID>                         <Text>โลหิตจาง จากการ ขาดธาตุเหล็ก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_IDA_DESCRIPTION</LocID>             <Text>ภาวะโลหิตจางหมายถึงความสามารถที่ลดลงของเลือดในการนำพาออกซิเจน อาจเกิดจากการลดลงของเม็ดเลือดแดงหรือฮีโมโกลบิน โรคโลหิตจางจากการขาดธาตุเหล็กเป็นโรคโลหิตจางที่พบบ่อยที่สุด</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_LIN</LocID>                         <Text>ภาวะไม่ทนต่อ แล็กโตส</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LIN</LocID>                         <Text>แพ้แลคโตส</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_LIN_DESCRIPTION</LocID>             <Text>การแพ้แลคโตสคือการไม่สามารถย่อยน้ำตาลแลคโตสซึ่งเป็นน้ำตาลที่พบในผลิตภัณฑ์นม น้ำตาลแลคโตสที่ไม่ได้ย่อยอาจส่งผลให้ท้องอืดท้องเสียมีแก๊สหรือปวดท้อง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_CLD</LocID>                         <Text>ไข้หวัดธรรมดา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_CLD_DESCRIPTION</LocID>             <Text>โรคไข้หวัดคือการติดเชื้อไวรัสที่อยู่ในระบบทางเดินหายใจส่วนบนโดยทั่วไปคือจมูกหรือลำคอ</Text>  </GameDBLocalizedString>
@@ -152,7 +152,7 @@
             <GameDBLocalizedString>      <LocID>DIA_CIB</LocID>                         <Text>นิ่วในกระเพาะ ปัสสาวะ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_CIB_DESCRIPTION</LocID>             <Text>นิ่วในกระเพาะปัสสาวะ สามารถถูกสร้างขึ้นในกระเพาะปัสสาวะได้จากการจับตัวของแร่ของปัสสาวะเข้มข้น มันจะมีอาการต่อเมื่อการไหลเวียนของปัสสาวะถูกลดลง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ACS</LocID>                         <Text>ทางเดินปัสสาวะ ติดเชื้อ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ACS_DESCRIPTION</LocID>             <Text>UTF หรือ กระเพาะปัสสาวะอักเสบ คือการติดเชื้อของกระเพาะปัสสาวะ มักเกิดจากเชื้อ E.coli;แบคทีเรียกชนิดหนึ่งมักพบในระบบทางเดินอาหาร(GI) เป็นภาวะที่เกิดขึ้นในผู้หญิงมากกว่าผู้ชายร้อยเท่าเนื่องจากระบบทางเดินปัสสาวะที่สั้นกว่า</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ACS_DESCRIPTION</LocID>             <Text>UTF หรือ กระเพาะปัสสาวะอักเสบ คือการติดเชื้อของกระเพาะปัสสาวะ มักเกิดจากเชื้อ E.coli;แบคทีเรียกชนิดหนึ่งมักพบในระบบทางเดินอาหาร เป็นภาวะที่เกิดขึ้นในผู้หญิงมากกว่าผู้ชายร้อยเท่าเนื่องจากระบบทางเดินปัสสาวะที่สั้นกว่า</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_INC</LocID>                         <Text>กระเพาะปัสสาวะ อักเสบ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_INC_DESCRIPTION</LocID>             <Text>กระเพาะปัสสาวะอักเสบแบบไม่ติดเชื้อ เรียกได้อีกว่าภาวะปวดกระเพาะปัสสาวะ</Text>  </GameDBLocalizedString>
 

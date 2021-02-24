@@ -22,7 +22,7 @@
             <GameDBLocalizedString>      <LocID>OBJECTIVE_PLACE_ROOM</LocID>            <Text>วาง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECTIVE_EQUIP_ROOM</LocID>            <Text>สวมใส่</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECTIVE_HIRE_EMPLOYEE</LocID>         <Text>จ้างพนักงาน</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECTIVE_MAINTAIN_PRESTIGE</LocID>     <Text>รักษาชื่อเสียงให้มากว่า {1} ดาวเป็นเวลา {2} วัน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECTIVE_MAINTAIN_PRESTIGE</LocID>     <Text>รักษาชื่อเสียงให้มากกว่า {1} ดาวเป็นเวลา {2} วัน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECTIVE_MAINTAIN_HIGH_INCOME</LocID>  <Text>รักษารายรับเป็นจำนวน {1} หรือมากกว่าเป็นเวลา {2} วัน</Text>  </GameDBLocalizedString>
 
             <!-- ============= NEW, NEED TRANSLATING ================== -->

@@ -14,8 +14,8 @@
 
         <LocalizedStrings>
             <!-- Symptoms-->
-                      <GameDBLocalizedString>      <LocID>SYM_A1AT_DEFICIENCY</LocID>                                 <Text>ขาด A1At</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_A1AT_DEFICIENCY_DESCRIPTION</LocID>                     <Text>Alpha-1 antitrypsin มีบทบาทสำคัญในการยับยั้งความเสียหายที่อาจเกิดจากระบบภูมิคุ้มกัน ผู้ป่วยที่มีภาวะขาด A1AT มักจะมีการย่อยสลายของเนื้อเยื่อปอดอย่างต่อเนื่อง </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_A1AT_DEFICIENCY</LocID>                                 <Text>ขาด A1At</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_A1AT_DEFICIENCY_DESCRIPTION</LocID>                     <Text>สาร Alpha-1 antitrypsin มีความสำคัญในการช่วยยับยั้งความเสียหายที่อาจเกิดขึ้นจากระบบภูมิคุ้มกัน คนไข้ที่มีอาการขาด A1AT มักจะประสบกับอาการเสื่อมสภาพลงของเนื้อเยื่อปอด </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ABDOMINAL_CRAMPS</LocID>                                <Text>ท้องเป็นตะคริว</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ABDOMINAL_CRAMPS_DESCRIPTION</LocID>                    <Text>ปวดอย่างรุนแรงในบริเวณช่องท้อง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ABDOMINAL_GUARDING</LocID>                              <Text>ท้องเกร็ง</Text>  </GameDBLocalizedString>
@@ -37,9 +37,9 @@
             <GameDBLocalizedString>      <LocID>SYM_ANKLE_INJURY</LocID>                                    <Text>ข้อเท้าบาดเจ็บ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ANKLE_INJURY_DESCRIPTION</LocID>                        <Text>ผู้ป่วยได้รับบาดเจ็บที่ข้อเท้า </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ANXIETY</LocID>                                         <Text>วิตกกังวล</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_ANXIETY_DESCRIPTION</LocID>                             <Text>ผู้ป่วยแสดงออกถึงความกังวลและวิตกกังวลอย่างมาก </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ANXIETY_DESCRIPTION</LocID>                             <Text>ผู้ป่วยแสดงอาการวิตกและกังวลอย่างมาก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ASTASIS</LocID>                                         <Text>Astasis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_ASTASIS_DESCRIPTION</LocID>                             <Text>Inability to stand or walk due to motor incoordination.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ASTASIS_DESCRIPTION</LocID>                             <Text>ไม่สามารถยืนหรือนั่งเนื่องจากการเคลื่อนไหวของกล้ามเนื้อไม่สัมพันธ์กัน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ATHEROSCLEROSIS</LocID>                                 <Text>หลอดเลือดแดงแข็ง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ATHEROSCLEROSIS_DESCRIPTION</LocID>                     <Text>หลอดเลือดแดงตีบแคบเนื่องจากคราบจุลินทรีย์ที่สร้างขึ้นทำให้การไหลเวียนของเลือดลดลง </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_AZOTEMIA</LocID>                                        <Text>อะโซทีเมีย </Text>  </GameDBLocalizedString>
@@ -72,7 +72,7 @@
             <GameDBLocalizedString>      <LocID>SYM_BUTTERFLY_RASH_DESCRIPTION</LocID>                      <Text>ผื่นที่มีลักษณะเฉพาะบนใบหน้าในรูปของผีเสื้อ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_CARDIOMEGALY</LocID>                                    <Text>หัวใจโต</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_CARDIOMEGALY_DESCRIPTION</LocID>                        <Text>การขยายตัวของหัวใจผิดปกติ </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_CEREBROSPINAL_FLUID_LEAKAGE</LocID>                     <Text>CSF leak</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CEREBROSPINAL_FLUID_LEAKAGE</LocID>                     <Text>CSF รั่ว</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_CEREBROSPINAL_FLUID_LEAKAGE_DESCRIPTION</LocID>         <Text>ผู้ป่วยมีน้ำไขสันหลังรั่วออกจากจมูกหรือหูเนื่องจากความบกพร่องในกะโหลกศีรษะ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_CLOUDY_URINE</LocID>                                    <Text>ปัสสาวะขุ่น</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_CLOUDY_URINE_DESCRIPTION</LocID>                        <Text>ปัสสาวะของผู้ป่วยมีลักษณะขุ่น</Text>  </GameDBLocalizedString>
@@ -84,10 +84,10 @@
             <GameDBLocalizedString>      <LocID>SYM_CONSTIPATION_DESCRIPTION</LocID>                        <Text>ผู้ป่วยไม่สามารถล้างลำไส้ได้</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_CRAMPS</LocID>                                          <Text>ตะคริว</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_CRAMPS_DESCRIPTION</LocID>                              <Text>ผู้ป่วยมีอาการเกร็งของกล้ามเนื้ออย่างกะทันหันโดยไม่สมัครใจและเจ็บปวด </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_CREATINE_KINASE_HIGH</LocID>                            <Text>Elevated CK</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_CREATINE_KINASE_HIGH_DESCRIPTION</LocID>                <Text>The patient has elevated blood levels of creatine kinase (CK), an enzyme present in all tissues, especially muscle. High blood levels of CK indicate muscle damage.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_CRP_HIGH</LocID>                                        <Text>Elevated CRP</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_CRP_HIGH_DESCRIPTION</LocID>                            <Text>The patient has raised blood levels of C reactive protein (CRP), a protein produced by the liver in response to infection.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CREATINE_KINASE_HIGH</LocID>                            <Text>CK สูงขึ้น</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CREATINE_KINASE_HIGH_DESCRIPTION</LocID>                <Text>คนไข้มีระดับ creatine kinase(CK) ในเลือดสูง ,เป็นเอ็นไซม์ที่มีอยู่ในทุกๆเนื้อเยื่อ โดยเฉพาะในกล้ามเนื้อ การที่ค่าเลือดมี CK สูงขึ้นชี้ว่ากล้ามเนื้อนั้นได้รับความเสียหาย</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CRP_HIGH</LocID>                                        <Text>ค่า CRP สูงขึ้น</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CRP_HIGH_DESCRIPTION</LocID>                            <Text>คนไข้มีค่า C reactive protein (CRP) ในเลือดสูงขึ้น โปรตีนซึ่งถูกผลิตโดยตับในการตอบสนองต่อการติดเชื้อ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_CRUMBLY_NAIL</LocID>                                    <Text>เล็บเปราะ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_CRUMBLY_NAIL_DESCRIPTION</LocID>                        <Text>ผู้ป่วยมีเล็บที่ดูร่วน </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_CYANOSIS</LocID>                                        <Text>อวัยวะมีสีเขียวคล้ำ</Text>  </GameDBLocalizedString>
@@ -103,7 +103,7 @@
             <GameDBLocalizedString>      <LocID>SYM_DIARRHEA</LocID>                                        <Text>ท้องเสีย</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_DIARRHEA_DESCRIPTION</LocID>                            <Text>ผู้ป่วยมีการถ่ายอุจจาระบ่อยครั้งพร้อมกับอุจจาระในรูปของเหลว </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_DIMINISHED_HEARING</LocID>                              <Text>การได้ยินลดลง </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_DIMINISHED_HEARING_DESCRIPTION</LocID>                  <Text>ผู้ป่วยไม่ต่อยได้ยินดี</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DIMINISHED_HEARING_DESCRIPTION</LocID>                  <Text>คนได้ยินเสียงได้ไม่ดีนัก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_DIZZINESS</LocID>                                       <Text>เวียนหัว</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_DIZZINESS_DESCRIPTION</LocID>                           <Text>ผู้ป่วยรู้สึกวิงเวียน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_DRY_COUGH</LocID>                                       <Text>ไอแห้ง</Text>  </GameDBLocalizedString>
@@ -143,13 +143,13 @@
             <GameDBLocalizedString>      <LocID>SYM_FREQUENT_FALLING</LocID>                                <Text>ล้มบ่อย</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_FREQUENT_FALLING_DESCRIPTION</LocID>                    <Text>ผู้ป่วยมีแนวโน้มล้มบ่อย</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_FREQUENT_URINATION</LocID>                              <Text>ปัสสาวะบ่อย </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_FREQUENT_URINATION_DESCRIPTION</LocID>                  <Text>ปัสสาวะบ่อยครั้งเล็กน้อย </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_FREQUENT_URINATION_DESCRIPTION</LocID>                  <Text>ปัสสาวะบ่อยๆทีละน้อยๆ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_GALLBLADDER_RUPTURE</LocID>                             <Text>ถุงน้ำดีแตก </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_GALLBLADDER_RUPTURE_DESCRIPTION</LocID>                 <Text>ถุงน้ำดีคนไข้แตกแล้ว! </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HAIR_LOSS</LocID>                                       <Text>ผมร่วง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HAIR_LOSS_DESCRIPTION</LocID>                           <Text>ผมร่วงหรือที่เรียกว่าผมร่วงคือการไม่มีผมบางส่วนหรือทั้งหมดในบริเวณร่างกายที่มีขนตามปกติ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HALLUCINATION</LocID>                                   <Text>ภาพหลอน</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HALLUCINATION_DESCRIPTION</LocID>                       <Text>ประสบการณ์ของการรับรู้ผ่านอุปกรณ์ประสาทสัมผัสในกรณีที่ไม่มีสิ่งกระตุ้นจากภายนอก</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HALLUCINATION_DESCRIPTION</LocID>                       <Text>ประสบการณ์การรับรู้ผ่านประสาทสัมผัสโดยปราศจากตัวกระตุ้นภายนอก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HAND_PAIN</LocID>                                       <Text>ปวดมือ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HAND_PAIN_DESCRIPTION</LocID>                           <Text>ผู้ป่วยบ่นว่าปวดมือ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HAND_WEAKNESS</LocID>                                   <Text>มืออ่อนแรง</Text>  </GameDBLocalizedString>
@@ -171,7 +171,7 @@
             <GameDBLocalizedString>      <LocID>SYM_HEMATURIA</LocID>                                       <Text>โลหิตเป็นพิษ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HEMATURIA_DESCRIPTION</LocID>                           <Text>ภาวะเลือดออกในปัสสาวะคือการมีเลือดปนในปัสสาวะ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HEMIPARESIS</LocID>                                     <Text>อัมพฤษกษ์ครึ่งซีก</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEMIPARESIS_DESCRIPTION</LocID>                         <Text>อัมพฤษกษ์ครึ่งซีกเป็นจุดอ่อนของร่างกายด้านใดด้านหนึ่ง </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMIPARESIS_DESCRIPTION</LocID>                         <Text>อัมพฤษกษ์ครึ่งซีกคืออาการอ่อนแรงของร่างกายซีกใดซีกหนึ่ง </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HEMOGLOBIN_LOW</LocID>                                  <Text>ฮีโมโกลบินต่ำ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HEMOGLOBIN_LOW_DESCRIPTION</LocID>                      <Text>ผู้ป่วยมีระดับฮีโมโกลบินในเลือดต่ำ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HEMOPTYSIS</LocID>                                      <Text>ไอเป็นเลือด</Text>  </GameDBLocalizedString>
@@ -202,13 +202,13 @@
             <GameDBLocalizedString>      <LocID>SYM_CHILLS_DESCRIPTION</LocID>                              <Text>หนาวสั่นเป็นความรู้สึกเย็นขณะมีไข้สูง </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_INABILITY_TO_MOVE_THE_JOINT</LocID>                     <Text>ข้อต่อ เคลื่อนไหวไม่ได้</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_INABILITY_TO_MOVE_THE_JOINT_DESCRIPTION</LocID>         <Text>ช่วงการเคลื่อนไหวที่ จำกัด หรือไม่สามารถขยับข้อต่อเฉพาะได้ </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_INCREASED_ICP</LocID>                                   <Text>ความดันในกะโหลกศีรษะสูง ICP</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_INCREASED_ICP_DESCRIPTION</LocID>                       <Text>เพิ่มความดันในกะโหลกศีรษะ </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INCREASED_ICP</LocID>                                   <Text>ICP สูงขึ้น</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INCREASED_ICP_DESCRIPTION</LocID>                       <Text>ความดันในกะโหลกศีรษะ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_INDIGESTION</LocID>                                     <Text>อาหารไม่ย่อย </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_INDIGESTION_DESCRIPTION</LocID>                         <Text>เรียกอีกอย่างว่าอาการอาหารไม่ย่อยหมายถึงอาการปวดหรือไม่สบายในช่องท้องส่วนบน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_INFECTED_WOUND</LocID>                                  <Text>แผลติดเชื้อ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_INFECTED_WOUND_DESCRIPTION</LocID>                      <Text>สิ่งมีชีวิตที่ทำให้เกิดโรคติดเชื้อที่บาดแผล </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_INFLAMMED_SINUSES</LocID>                               <Text>รูจมูกอักเสบ </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INFLAMMED_SINUSES</LocID>                               <Text>ไซนัสอักเสบ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_INFLAMMED_SINUSES_DESCRIPTION</LocID>                   <Text>เยื่อเมือกที่อักเสบซึ่งปกคลุมรูจมูก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_INJURY_TO_THE_ARM</LocID>                               <Text>แขนบาดเจ็บ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_INJURY_TO_THE_ARM_DESCRIPTION</LocID>                   <Text>ผู้ป่วยได้รับบาดเจ็บที่แขน </Text>  </GameDBLocalizedString>
@@ -224,11 +224,11 @@
             <GameDBLocalizedString>      <LocID>SYM_INJURY_TO_THE_CHEST_DESCRIPTION</LocID>                 <Text>ผู้ป่วยได้รับบาดเจ็บที่หน้าอก </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_INJURY_TO_THE_LEG</LocID>                               <Text>ขาบาดเจ็บ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_INJURY_TO_THE_LEG_DESCRIPTION</LocID>                   <Text>ผู้ป่วยได้รับบาดเจ็บที่ขา </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_INTERNAL_BLEEDING_STOMACH</LocID>                       <Text>เลือดออกที่ท้อง </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_INTERNAL_BLEEDING_STOMACH_DESCRIPTION</LocID>           <Text>เลือดออกที่ท้องและพบแผลในกระเพาะอาหารที่มีเลือดออก แผลในเยื่อบุกระเพาะอาหาร </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INTERNAL_BLEEDING_STOMACH</LocID>                       <Text>เลือดออกในกระเพาะอาหาร</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INTERNAL_BLEEDING_STOMACH_DESCRIPTION</LocID>           <Text>จากการตรวจทางเดินอาหารส่วนต้นพบ แผลเลือดออกในกระเพาะอาหาร;บาดแผลในเยื่อบุกระเพาะอาหาร</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_INTESTINAL_BLEEDING</LocID>                             <Text>เลือดออกในลำไส้ </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_INTESTINAL_BLEEDING_DESCRIPTION</LocID>                 <Text>ผู้ป่วยมีเลือดออกจากทางเดินอาหาร </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_INTRACRANIAL_HEMORRHAGE</LocID>                         <Text>การตกเลือดในกะโหลกศีรษะ </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INTESTINAL_BLEEDING_DESCRIPTION</LocID>                 <Text>ผู้ป่วยมีเลือดออกในทางเดินอาหาร </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INTRACRANIAL_HEMORRHAGE</LocID>                         <Text>ตกเลือดในกะโหลกศีรษะ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_INTRACRANIAL_HEMORRHAGE_DESCRIPTION</LocID>             <Text>ผู้ป่วยมีเลือดออกภายในกะโหลกศีรษะ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_IRREGULAR_HEARTBEAT</LocID>                             <Text>การเต้นของหัวใจผิดปกติ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_IRREGULAR_HEARTBEAT_DESCRIPTION</LocID>                 <Text>ผู้ป่วยมีอัตราการเต้นของหัวใจผิดปกติซึ่งเรียกอีกอย่างว่าหัวใจเต้นผิดจังหวะ </Text>  </GameDBLocalizedString>
@@ -241,42 +241,42 @@
             <GameDBLocalizedString>      <LocID>SYM_ITCHING_EYE</LocID>                                     <Text>คันที่ตา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ITCHING_EYE_DESCRIPTION</LocID>                         <Text>อาการคันเป็นความรู้สึกระคายเคืองที่ทำให้รู้สึกอยากเกา </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ITCHY_BLISTERS</LocID>                                  <Text>คันที่ตุ่มน้ำ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_ITCHY_BLISTERS_DESCRIPTION</LocID>                      <Text>แผลพุพองเป็นของเหลวในช่องเล็ก ๆ ที่อาจทำให้คันได้</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ITCHY_BLISTERS_DESCRIPTION</LocID>                      <Text>ตุ่มเป็นถุงน้ำเล็กๆที่สามารถทำให้เกิดอาการคันได้</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_JAUNDICE</LocID>                                        <Text>ดีซ่าน </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_JAUNDICE_DESCRIPTION</LocID>                            <Text>โรคดีซ่านหรือที่เรียกว่า icterus เป็นสีเหลืองของผิวหนังและดวงตาเนื่องจากระดับบิลิรูบินสูง </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_JAUNDICE_DESCRIPTION</LocID>                            <Text>ดีซ่าน หรือเรียกกันว่าภาวะตัวเหลือง คือการที่ผิวและตากลายเป็นสีเหลืองเนื่องจากมีระดับบิลิรูบินสูง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_KNEE_INJURY</LocID>                                     <Text>บาดเจ็บเข่า</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_KNEE_INJURY_DESCRIPTION</LocID>                         <Text>ผู้ป่วยได้รับบาดเจ็บที่หัวเข่า </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_LDL_HIGH_LEVEL</LocID>                                  <Text>คอเรสโตรอล LDL สูง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_LDL_HIGH_LEVEL_DESCRIPTION</LocID>                      <Text>ระดับคอเรสโตรอล LDL ในเลือดสูงขึ้นมากกว่าปกติ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_LEUKOCYTOSIS</LocID>                                    <Text>เม็ดเลือดขาวสูง</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_LEUKOCYTOSIS_DESCRIPTION</LocID>                        <Text>เม็ดเลือดขาวที่เพิ่มขึ้นจะมีค่าในเลือดสูงกว่าช่วงปกติ </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LEUKOCYTOSIS_DESCRIPTION</LocID>                        <Text>เม็ดเลือดขาวเพิ่มสูงขึ้นมากกว่าปกติ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_LEUKOPENIA</LocID>                                      <Text>เม็ดเลือดขาวต่ำ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_LEUKOPENIA_DESCRIPTION</LocID>                          <Text>จำนวนเม็ดเลือดขาวลดลงในเลือดต่ำกว่าช่วงปกติ </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LEUKOPENIA_DESCRIPTION</LocID>                          <Text>จำนวนเม็ดเลือดขาวต่ำกว่าปกติ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_LIMITED_ARM_MOTION</LocID>                              <Text>แขนถูกจำกัดการเคลื่อนไหว</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_LIMITED_ARM_MOTION_DESCRIPTION</LocID>                  <Text>ผู้ป่วยมีช่วงการเคลื่อนไหวของแขนที่จำกัด </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_LIMITED_LEG_MOTION</LocID>                              <Text>ขาถูกจำกัด การเคลื่อนไหว</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_LIMITED_LEG_MOTION_DESCRIPTION</LocID>                  <Text>ผู้ป่วยมีช่วงการเคลื่อนไหวของขาที่ จำกัด </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LIMITED_LEG_MOTION</LocID>                              <Text>ขาถูกจำกัดการเคลื่อนไหว</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LIMITED_LEG_MOTION_DESCRIPTION</LocID>                  <Text>คนไข้เคลื่อนขาได้อย่างจำกัด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_LIPIDURIA</LocID>                                       <Text>หยาดไขมัน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_LIPIDURIA_DESCRIPTION</LocID>                           <Text>หยาดไขมันคือการมีไขมันในปัสสาวะ </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_LFT_HIGH_LEVEL</LocID>                                  <Text>การตรวจการทำงานของตับ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LFT_HIGH_LEVEL</LocID>                                  <Text>ค่าLFT ไม่ปกติ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_LFT_HIGH_LEVEL_DESCRIPTION</LocID>                      <Text>ค่าการทดสอบการทำงานของตับที่สูงขึ้น (LFT) บ่งบอกถึงความเสียหายของตับ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_LONG_REACT_TIME</LocID>                                 <Text>ตอบสนองช้า</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_LONG_REACT_TIME_DESCRIPTION</LocID>                     <Text>มีความล่าช้า ในการตอบคำถาม</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_LOSS_OF_APETITE</LocID>                                 <Text>เบื่ออาหาร</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_LOSS_OF_APETITE_DESCRIPTION</LocID>                     <Text>คนไข้ ไม่มีความอยากอาหาร</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_LOSS_OF_BLADDER_CONTROL</LocID>                         <Text>ภาวะกลั้นปัสสาวะไม่อยู่ </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LOSS_OF_BLADDER_CONTROL</LocID>                         <Text>กลั้นปัสสาวะไม่อยู่</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_LOSS_OF_BLADDER_CONTROL_DESCRIPTION</LocID>             <Text>สูญเสียการควบคุมกระเพาะปัสสาวะหรือภาวะกลั้นปัสสาวะไม่อยู่ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_LOSS_OF_VISION</LocID>                                  <Text>สูญเสียการมองเห็น </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_LOSS_OF_VISION_DESCRIPTION</LocID>                      <Text>ตาบอดสนิทหรือตาบอดบางส่วนอย่างกะทันหัน </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_LUNG_FINDINGS</LocID>                                   <Text>ผลการตรวจปอดผิดปกติ </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_LUNG_FINDINGS_DESCRIPTION</LocID>                       <Text>การถ่ายภาพเอ็กซ์เรย์แสดงให้เห็นถึงความผิดปกติในปอด </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_LUNG_FINDINGS_DESCRIPTION</LocID>                       <Text>ภาพ X-ray แสดงให้เห็นถึงความผิดปกติในปอด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_MALAISE</LocID>                                         <Text>ไม่สบายตัว</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_MALAISE_DESCRIPTION</LocID>                             <Text>ความรู้สึกไม่สบายตัวไม่สบายใจและบางครั้งก็เจ็บปวด </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_MALNUTRITION</LocID>                                    <Text>ทุพโภชนาการ </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_MALNUTRITION_DESCRIPTION</LocID>                        <Text>การขาดสารอาหารที่เหมาะสมอันเนื่องมาจากการรับประทานอาหารไม่เพียงพอหรือไม่เปลี่ยนแปลง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MALNUTRITION_DESCRIPTION</LocID>                        <Text>การขาดสารอาหารที่จำเป็น เกิดจากการทานอาหารไม่เพียงพอหรือทานไม่หลากหลาย</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_MANDIBULAR_INJURY</LocID>                               <Text>ขากรรไกรล่างบาดเจ็บ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_MANDIBULAR_INJURY_DESCRIPTION</LocID>                   <Text>ผู้ป่วยได้รับบาดเจ็บที่กระดูกขากรรไกรล่าง (กระดูกขากรรไกร) </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_MOUTH_OPENING_DIFFICULTIES</LocID>                      <Text>ภาวะกรามติด</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MOUTH_OPENING_DIFFICULTIES</LocID>                      <Text>กรามค้าง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_MOUTH_OPENING_DIFFICULTIES_DESCRIPTION</LocID>          <Text>ผู้ป่วยไม่สามารถอ้าปากได้เนื่องจากกล้ามเนื้อขากรรไกรกระตุก </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_MULTIPLE_ARTERIES_DAMAGE</LocID>                        <Text>หลอดเลือดแดง เสียหายจำนวนมาก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_MULTIPLE_ARTERIES_DAMAGE_DESCRIPTION</LocID>            <Text>ความเสียหายต่อหลอดเลือดแดงขนาดเล็กหลายเส้นเนื่องจากบาดแผลขนาดใหญ่ </Text>  </GameDBLocalizedString>
@@ -285,14 +285,14 @@
             <GameDBLocalizedString>      <LocID>SYM_MUSCLES_AND_SKIN_DAMAGED</LocID>                        <Text>กล้ามเนื้อ และผิวหนัง เสียหาย</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_MUSCLES_AND_SKIN_DAMAGED_DESCRIPTION</LocID>            <Text>ผู้ป่วยมีบาดแผลขนาดใหญ่ที่เกี่ยวข้องกับทั้งผิวหนังและเนื้อเยื่อของกล้ามเนื้อ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_MUSCLE_PAIN</LocID>                                     <Text>ปวดกล้ามเนื้อ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_MUSCLE_PAIN_DESCRIPTION</LocID>                         <Text>อาการปวดกล้ามเนื้อหรือที่เรียกว่าปวดกล้ามเนื้อเป็นความรู้สึกทั่วไปของความเจ็บปวดในกล้ามเนื้อ </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MUSCLE_PAIN_DESCRIPTION</LocID>                         <Text>อาการปวดกล้ามเนื้อหรือที่เรียกว่าเจ็บกล้ามเนื้อเป็นอาการเจ็บปวดทั่วๆไปที่เกิดขึ้นในกล้ามเนื้อ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_MUSCLE_WEAKNESS</LocID>                                 <Text>กล้ามเนื้ออ่อนแรง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_MUSCLE_WEAKNESS_DESCRIPTION</LocID>                     <Text>ผู้ป่วยมีความแข็งแรงของกล้ามเนื้อเฉพาะส่วนลดลง </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_NAIL_DISCOLORATION</LocID>                              <Text>เล็บเปลี่ยนสี</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_NAIL_DISCOLORATION_DESCRIPTION</LocID>                  <Text>เล็บของผู้ป่วยเปลี่ยนสีจากสีชมพูและสีขาวที่มีสุขภาพดีตามปกติ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_NASAL_CONGESTION</LocID>                                <Text>คัดจมูก</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_NASAL_CONGESTION_DESCRIPTION</LocID>                    <Text>จมูกหรือโพรงจมูกของผู้ป่วยมีเลือดคั่ง </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_NASAL_DEFORMITY</LocID>                                 <Text>ความผิดปกติของจมูก </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NASAL_CONGESTION_DESCRIPTION</LocID>                    <Text>จมูกหรือโพรงจมูกของคนไข้มีอาการติดขัด(คัดจมูก)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NASAL_DEFORMITY</LocID>                                 <Text>จมูกผิดรูป</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_NASAL_DEFORMITY_DESCRIPTION</LocID>                     <Text>จมูกของคนไข้ดูผิดรูป </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_NAUSEA</LocID>                                          <Text>คลื่นไส้</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_NAUSEA_DESCRIPTION</LocID>                              <Text>คลื่นไส้คือความรู้สึกเจ็บป่วยและไม่สบายตัวโดยมีแนวโน้มที่จะอาเจียน</Text>  </GameDBLocalizedString>
@@ -304,15 +304,15 @@
             <GameDBLocalizedString>      <LocID>SYM_NUMBNESS_DESCRIPTION</LocID>                            <Text>อาการชาสามารถอธิบายถึงความรู้สึกเสียวซ่าหรือความรู้สึกไม่รู้สึกตัวในส่วนใดส่วนหนึ่งของร่างกาย</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_NIGHT_SWEATS</LocID>                                    <Text>เหงื่อออกกลางคืน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_NIGHT_SWEATS_DESCRIPTION</LocID>                        <Text>ตอนที่เหงื่อออกมากในตอนกลางคืนซ้ำ ๆ </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_OCULAR_HYPERTENSION</LocID>                             <Text>ความดันโลหิตสูง </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OCULAR_HYPERTENSION</LocID>                             <Text>ความดันในตาสูง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_OCULAR_HYPERTENSION_DESCRIPTION</LocID>                 <Text>ความดันสูงภายในตา </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_OESOPHAGUS_ABNORMALITIES</LocID>                        <Text>ความผิดปกติของหลอดอาหาร </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_OESOPHAGUS_ABNORMALITIES_DESCRIPTION</LocID>            <Text>เอ็กซ์เรย์แสดงให้เห็นความผิดปกติของหลอดอาหาร </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_OLIGURIA</LocID>                                        <Text>ปัสสาวะออกน้อย</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OESOPHAGUS_ABNORMALITIES</LocID>                        <Text>หลอดอาหารผิดปกติ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OESOPHAGUS_ABNORMALITIES_DESCRIPTION</LocID>            <Text>ผล X-ray แสดงให้เห็นถึงความผิดปกติของหลอดอาหาร</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OLIGURIA</LocID>                                        <Text>ปัสสาวะน้อย</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_OLIGURIA_DESCRIPTION</LocID>                            <Text>ปัสสาวะออกต่ำมาก </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_OPEN_WOUND</LocID>                                      <Text>มีแผลเปิด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_OPEN_WOUND_DESCRIPTION</LocID>                          <Text>เปิดแผลในบริเวณที่ได้รับผลกระทบ </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_OSTEOPOROSIS</LocID>                                    <Text>โรคกระดูกพรุน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OSTEOPOROSIS</LocID>                                    <Text>กระดูกพรุน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_OSTEOPOROSIS_DESCRIPTION</LocID>                        <Text>ภาวะที่กระดูกค่อยๆอ่อนแอลงเพิ่มความเสี่ยงต่อการแตกหัก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_OTALGIA</LocID>                                         <Text>อาการปวดหู</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_OTALGIA_DESCRIPTION</LocID>                             <Text>อาการปวดหูเฉพาะที่มีตั้งแต่เล็กน้อยไปจนถึงรุนแรงโดยเกิดขึ้นใน 1-2 วัน </Text>  </GameDBLocalizedString>
@@ -336,34 +336,34 @@
             <GameDBLocalizedString>      <LocID>SYM_PERSISTENT_URGE_TO_URINATE_DESCRIPTION</LocID>          <Text>ความรู้สึกปวด อยากปัสสาวะอย่างรุนแรง เกิดขึ้นอย่างฉับพลัน และไม่สามารถรั้งรอต่อไปได้ ต้องเข้าห้องนํ้าอย่างเร่งด่วน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_PETECHIAE</LocID>                                       <Text>จ้ำเลือด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_PETECHIAE_DESCRIPTION</LocID>                           <Text>จุดสีม่วงแดงหรือน้ำตาลเล็ก ๆ บนผิวหนัง </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_PHOTOPHOBIA</LocID>                                     <Text>กลัวแสง </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PHOTOPHOBIA</LocID>                                     <Text>แพ้แสง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_PHOTOPHOBIA_DESCRIPTION</LocID>                         <Text>ไม่สามารถทนต่อแสงได้ซึ่งทำให้รู้สึกไม่สบายตัว</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_PNEUMATOCELE</LocID>                                    <Text>ปอดบวม</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_PNEUMATOCELE_DESCRIPTION</LocID>                        <Text>ช่องที่เต็มไปด้วยอากาศในปอดซึ่งเกิดจากการฉีกขาดของปอด </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_POLYURIA</LocID>                                        <Text>ปัสสาวะมาก</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_POLYURIA_DESCRIPTION</LocID>                            <Text>ผู้ป่วยปัสสาวะมากกว่าปกติและปัสสาวะออกมากเกินไป</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_POLYURIA_DESCRIPTION</LocID>                            <Text>คนไข้ปัสสาวะบ่อยกว่าปกติ และมีปริมาณปัสสาวะที่ออกมาเป็นจำนวนมาก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_POOR_BALANCE</LocID>                                    <Text>ทรงตัวไม่ดี </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_POOR_BALANCE_DESCRIPTION</LocID>                        <Text>สูญเสียการทรงตัวชั่วคราวระหว่างยืนหรือเดิน </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_PORTAL_HYPERTENSION</LocID>                             <Text>ความดันของโลหิตพอร์ทัลสูงขึ้น </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_PORTAL_HYPERTENSION_DESCRIPTION</LocID>                 <Text>ความดันโลหิตสูงในระบบพอร์ทัลตับ (ตับ) </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PORTAL_HYPERTENSION</LocID>                             <Text>ความดันพอร์ทัลสูงขึ้น </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PORTAL_HYPERTENSION_DESCRIPTION</LocID>                 <Text>ความดันโลหิตสูงในระบบหลอดเลือดพอร์ทัลที่ตับ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_PROLONGED_BLEEDING</LocID>                              <Text>เลือดออกเป็นเวลานาน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_PROLONGED_BLEEDING_DESCRIPTION</LocID>                  <Text>เลือดออกเป็นเวลานานจากบาดแผล </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_PROTEINURIA</LocID>                                     <Text>โปรตีนในปัสสาวะ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_PROTEINURIA_DESCRIPTION</LocID>                         <Text>การวิเคราะห์ปัสสาวะยืนยันระดับโปรตีนที่สูงมากในตัวอย่างปัสสาวะ </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_PULMONARY_ARTERY_BLOCKAGE</LocID>                       <Text>การอุดตันของหลอดเลือดในปอด</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_PULMONARY_ARTERY_BLOCKAGE_DESCRIPTION</LocID>           <Text>การตรวจวินิจฉัยหลอดเลือดแสดงให้เห็นการอุดตันของหลอดเลือดแดงในปอดของผู้ป่วยจากการอุดตันของเลือด </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_PURPURA</LocID>                                         <Text>จ้ำ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PULMONARY_ARTERY_BLOCKAGE</LocID>                       <Text>เส้นเลือดปอดอุดตัน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PULMONARY_ARTERY_BLOCKAGE_DESCRIPTION</LocID>           <Text>การทำ Angiography เผยให้เห็นการอุดตันของเส้นเลือดแดงที่ปอดเนื่องจากมีลิ่มเลือดอุดตัน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PURPURA</LocID>                                         <Text>รอยจ้ำ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_PURPURA_DESCRIPTION</LocID>                             <Text>ช้ำง่ายหรือมากเกินไป </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_RASH</LocID>                                            <Text>มีผื่น</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_RASH_DESCRIPTION</LocID>                                <Text>ผื่นอาจทำให้ผิวหนังเปลี่ยนสีคันกลายเป็นอบอุ่นเป็นตะปุ่มตะป่ำแตกแห้งแตกหรือเป็นตุ่มบวมและอาจเจ็บปวดได้ </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_RASH_ON_ARM</LocID>                                     <Text>มีผื่น บริเวณแขน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RASH_DESCRIPTION</LocID>                                <Text>ผื่นอาจทำให้ผิวเปลี่ยนสีไป เกิดอาการแสบคัน ผิวมีความขรุขระ,แห้ง,แตก,เป็นตุ่มๆ บวมและอาจทำให้รู้สึกเจ็บปวด</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RASH_ON_ARM</LocID>                                     <Text>ผื่นที่แขน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_RASH_ON_ARM_DESCRIPTION</LocID>                         <Text>การเปลี่ยนแปลงของสีผิวและเนื้อผิวผิดปกติทำให้เกิดการบิดเบือนลักษณะปกติของผิวหนังโดยแปลที่แขน </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_RASH_ON_LEG</LocID>                                     <Text>มีผื่น บริเวณขา</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_RASH_ON_LEG_DESCRIPTION</LocID>                         <Text>การเปลี่ยนแปลงของสีผิวและเนื้อผิวผิดปกติทำให้เกิดการบิดเบือนลักษณะปกติของผิวหนังโดยแปลที่ขา</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_RASH_ON_NECK</LocID>                                    <Text>มีผื่น บริเวณคอ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_RASH_ON_NECK_DESCRIPTION</LocID>                        <Text>การเปลี่ยนแปลงของสีผิวและเนื้อผิวที่ผิดปกติทำให้เกิดการบิดเบือนลักษณะปกติของผิวหนังมีการแปลที่คอ </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_RASH_ON_TORSO</LocID>                                   <Text>มีผื่น บริเวณลำตัว</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_RASH_ON_TORSO_DESCRIPTION</LocID>                       <Text>การเปลี่ยนแปลงสีผิวและพื้นผิวที่ผิดปกติทำให้เกิดการบิดเบือนลักษณะปกติของผิวหนังโดยแปลเป็นภาษาท้องถิ่นบนเนื้อตัว </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RASH_ON_LEG</LocID>                                     <Text>ผื่นที่ขา</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RASH_ON_LEG_DESCRIPTION</LocID>                         <Text>การเปลี่ยนสีและพื้นผิวของผิวหนังอย่างผิดปกติทำให้ผิวหนังเปลี่ยนไปเฉพาะที่ขา</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RASH_ON_NECK</LocID>                                    <Text>ผื่นที่คอ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RASH_ON_NECK_DESCRIPTION</LocID>                        <Text>การเปลี่ยนสีและพื้นผิวของผิวหนังอย่างผิดปกติทำให้ผิวหนังเปลี่ยนไปที่คอ </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RASH_ON_TORSO</LocID>                                   <Text>ผื่นที่ลำตัว</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_RASH_ON_TORSO_DESCRIPTION</LocID>                       <Text>การเปลี่ยนสีและพื้นผิวของผิวหนังอย่างผิดปกติทำให้ผิวหนังเปลี่ยนไป ที่ลำตัว</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_RED_EYE</LocID>                                         <Text>ตาแดง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_RED_EYE_DESCRIPTION</LocID>                             <Text>การเปลี่ยนสีของตาขาวจากสีขาวเป็นสีแดง </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_RED_SWOLLEN_TONSILS</LocID>                             <Text>ทอนซิลบวมแดง</Text>  </GameDBLocalizedString>
@@ -519,7 +519,7 @@
             <GameDBLocalizedString>      <LocID>SYM_ANKLE_SPRAIN</LocID>                                    <Text>ข้อเท้าแพลง </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ANKLE_SPRAIN_DESCRIPTION</LocID>                        <Text>การสแกน MRI ของข้อเท้าของผู้ป่วยยืนยันว่าผู้ป่วยมีอาการแพลง </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_AORTIC_ANEURYSM</LocID>                                 <Text>หลอดเลือดโป่งพอง</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_AORTIC_ANEURYSM_DESCRIPTION</LocID>                     <Text>Echocardiography has discovered an aneurysm of the thoracic aorta.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_AORTIC_ANEURYSM_DESCRIPTION</LocID>                     <Text>การทำ Echocardiography ได้เผยให้เห็นถึงการโป่งพองของหลอดเลือดเอออร์ตา(aorta)</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ARM_PENETRATION</LocID>                                 <Text>การเจาะแขน </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ARM_PENETRATION_DESCRIPTION</LocID>                     <Text>การบาดเจ็บที่แขนทำให้เกิดบาดแผลลึก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ASPERGILLOMA_DISCOVERED</LocID>                         <Text>พบแอสเปอร์จิลโลมา</Text>  </GameDBLocalizedString>
@@ -606,8 +606,8 @@
             <GameDBLocalizedString>      <LocID>SYM_CYSTIC_DUCT_OBSTRUCTED_DESCRIPTION</LocID>              <Text>การตรวจด้วยคลื่นเสียงความถี่สูงได้เผยให้เห็นการอุดตันของท่อเปาะเนื่องจากนิ่วขนาดใหญ่</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_DEGENERATIVE_FINDINGS</LocID>                           <Text>ข้อค้นพบความเสื่อม </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_DEGENERATIVE_FINDINGS_DESCRIPTION</LocID>               <Text>MRI เปิดเผยการเปลี่ยนแปลงความเสื่อมของกระดูกสันหลังส่วนคอของผู้ป่วย</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_DEMYELINIZATION_FINDINGS</LocID>                        <Text>Demyelinization findings</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_DEMYELINIZATION_FINDINGS_DESCRIPTION</LocID>            <Text>Biopsy of the sural nerve with consequent analysis has found signs of demyelinization.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DEMYELINIZATION_FINDINGS</LocID>                        <Text>ปลอกประสาทอักเสบ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DEMYELINIZATION_FINDINGS_DESCRIPTION</LocID>            <Text>การตัดชิ้นเนื้อของเส้นประสาท sural ไปวิเคราะห์ได้พบสัญญานการเป็นโรคปลอกประสาทอักเสบ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_DEPICTION_OF_FEMUR_FRACTURE</LocID>                     <Text>เป็นภาพโคนขาที่หัก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_DEPICTION_OF_FEMUR_FRACTURE_DESCRIPTION</LocID>         <Text>การเอ็กซเรย์แสดงการแตกหักของโคนขาแบบเปิด </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_DEPICTION_OF_HUMERUS_FRACTURE</LocID>                   <Text>ภาพกระดูกต้นแขนหัก </Text>  </GameDBLocalizedString>
