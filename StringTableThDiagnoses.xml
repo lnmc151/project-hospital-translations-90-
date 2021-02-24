@@ -114,7 +114,7 @@
             <GameDBLocalizedString>      <LocID>DIA_ULC</LocID>                         <Text>ลำไส้ใหญ่อักเสบ แบบมีแผล</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ULC_DESCRIPTION</LocID>             <Text>ลำไส้อักเสบ คือโรคที่มีการอักเสบของทางเดินอาหาร ซึ่งทำให้เกิดแผลที่ลำไส้ใหญ่ สาเหตุจริงๆที่ทำให้เกิดโรคนั้นไม่ทราบแน่ชัด อย่างไรก็ตาม มีหลักฐานว่าอาจเกิดจากกรรมพันธุ์,สภาพแวดล้อม,โรคภูมิคุ้มกันตัวเอง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_IBS</LocID>                         <Text>ลำไส้แปรปรวน</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_IBS_DESCRIPTION</LocID>             <Text>ลำไส้แปรปรวน เป็นโรคเรื้อรังของระบบทางเดินอาหารโดยต้องใช้เวลาในการรักษาอย่างยาวนาน มันไม่ใช่โรคติดต่อ การควบคุมอาหารและการรับประทานยามักสามารถทำให้ความเจ็บปวดลดลงได้/Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_IBS_DESCRIPTION</LocID>             <Text>ลำไส้แปรปรวน เป็นโรคเรื้อรังของระบบทางเดินอาหารโดยต้องใช้เวลาในการรักษาอย่างยาวนาน มันไม่ใช่โรคติดต่อ การควบคุมอาหารและการรับประทานยามักสามารถทำให้ความเจ็บปวดลดลงได้</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_FDR</LocID>                         <Text>ระบบทางเดินอาหาร ติดเชื้อ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_FDR_DESCRIPTION</LocID>             <Text>ระบบทางเดินอาหาร ติดเชื้อ เป็นโรคระบบทางเดินอาหารทั่วไป ในเคสส่วนใหญ่มักเป็นเพียงไม่กี่วันเท่านั้น</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_FOI</LocID>                         <Text>ช่องทะลุที่ลำไส้</Text>  </GameDBLocalizedString>
@@ -241,7 +241,7 @@
             <GameDBLocalizedString>      <LocID>DIA_OTE</LocID>                         <Text>หูชั้นนอกอักเสบ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_OTE_DESCRIPTION</LocID>             <Text>หูชั้นนอกอักเสบคือการอักเสบของโพรงหูส่วนนอก โดยส่วนมากเกิดจากแบคทีเรีย</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_OME</LocID>                         <Text>หูชั้นกลางอักเสบ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_OME_DESCRIPTION</LocID>             <Text>หูชั้นกลางอักเสบร่วมกับการมีน้ำ คือสภาวะที่มีของเหลวอยู่ที่หูชั้นกลางจากการติดเชื้อหรือการอักเสบตามด้วยการติดเชื้อ มักมีผลต่อเด็ก</Text>  </GameDBLocalizedString></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OME_DESCRIPTION</LocID>             <Text>หูชั้นกลางอักเสบร่วมกับการมีน้ำ คือสภาวะที่มีของเหลวอยู่ที่หูชั้นกลางจากการติดเชื้อหรือการอักเสบตามด้วยการติดเชื้อ มักมีผลต่อเด็ก</Text> </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ASO</LocID>                         <Text>หูชั้นกลางอักเสบ เฉียบพลัน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ASO_DESCRIPTION</LocID>             <Text>หูชั้นกลางอักเสบเฉียบพลัน เป็นการติดเชื้อที่หูชั้นกลางที่ทำให้ได้รับความเจ็บปวดเป็นอย่างมาก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_AMT</LocID>                         <Text>โพรงกระดูกกกหู อักเสบเฉียบพลัน</Text>  </GameDBLocalizedString>
@@ -462,7 +462,7 @@
             <GameDBLocalizedString>      <LocID>DIA_TBE</LocID>                         <Text>ไข้สมองอักเสบ จากเห็บ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_TBE_DESCRIPTION</LocID>             <Text>ไข้สมองอักเสบจากเห็บ เป็นโรคติดเชื้อจากเห็บที่มีผลต่อสมองและระบบประสาทส่วนกลาง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ECS</LocID>                         <Text>ไข้สมองอักเสบ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ECS_DESCRIPTION</LocID>             <Text>ไข้สมองอักเสบ คือการอักเสบของสมอง โดยส่วนมากเกิดจากปฏิกิริยาของภูมิคุ้มกันตัวเอง หรือไวรัส<</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ECS_DESCRIPTION</LocID>             <Text>ไข้สมองอักเสบ คือการอักเสบของสมอง โดยส่วนมากเกิดจากปฏิกิริยาของภูมิคุ้มกันตัวเอง หรือไวรัส</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_RAB</LocID>                         <Text>พิษสุนัขบ้า</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_RAB_DESCRIPTION</LocID>             <Text>พิษสุนัขบ้าเป็นไวรัสอันตรายถึงชีวิตแพร่โดยน้ำลายของสัตว์ที่ติดเชื้อ การติดต่อมักเกิดจากการกัดของสัตว์</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_PMN</LocID>                         <Text>เยื่อหุ้มสมองอักเสบ จากเชื้อนิวโมคอกคัล</Text>  </GameDBLocalizedString>
