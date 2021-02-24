@@ -21,7 +21,7 @@
             <GameDBLocalizedString>      <LocID>EXM_BACTERIA_CULTIVATION_SAMPLING</LocID>                       <Text>เก็บตัวอย่างจุลินทรีย์</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_BACTERIA_CULTIVATION_TESTING</LocID>                        <Text>เพาะจุลินทรีย์</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_BARRIUM_SWALLOV_X_RAY</LocID>                               <Text>กลืนแป้งแบเรียม</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EXM_BARRIUM_SWALLOV_X_RAY_DESCRIPTION</LocID>                   <Text>การทดสอบที่คนไข้จะกลืนแป้งแบเรียมลงไปเพื่อแสดงผลในฟิล์มX-ray ใช้พวกตรวจช่องภายในหลอดอาหาร กระเพาะอาหาร และลำไส้เล็ก \n\nห้องที่ต้องการ: X-ray room</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_BARRIUM_SWALLOV_X_RAY_DESCRIPTION</LocID>                   <Text>การทดสอบที่คนไข้จะกลืนแป้งแบเรียมลงไปเพื่อแสดงผลในฟิล์มX-ray ใช้พวกตรวจช่องภายในหลอดอาหาร กระเพาะอาหาร และลำไส้เล็ก \n\nห้องที่ต้องการ: ห้อง X-ray </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_BASIC_VISUAL_TEST</LocID>                                   <Text>ตรวจการมองเห็น</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_BASIC_VISUAL_TEST_DESCRIPTION</LocID>                       <Text>การทดสอบการมองเห็นทั่ว ใช้ตรวจการมองเห็นของคนไข้ไป \n\nห้องที่ต้องการ: ออฟฟิศที่แผนกฉุกเฉิน / แผนกศัลยกรรม / แผนกศัลยกรรม / หัวใจ / ประสาท \n\nอุปกรณ์ที่ต้องใช้: ที่ทดสอบตา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_BIOPSY_SAMPLING</LocID>                                     <Text>ตัดเนื้อเยื่อ - เก็บตัวอย่าง</Text>  </GameDBLocalizedString>
