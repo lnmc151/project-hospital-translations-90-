@@ -74,7 +74,7 @@
             <!-- UPDATED --><GameDBLocalizedString>      <LocID>MAP_EDITOR_LOAD_MAP</LocID> <Text>โหลดเกม</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SAVE_PREFAB</LocID>                         <Text>Save prefab</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>NOTIFICATIONS_SET_ALL_TO_LOG</LocID>        <Text>เปลี่ยนค่าเป็นบันทึกทั้ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIFICATIONS_SET_ALL_TO_LOG</LocID>        <Text>ค่าเป็นบันทึกทั้งหมด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIFICATIONS_RESTORE_DEFAULTS</LocID>      <Text>คืนค่าเริ่มต้น</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>KEYBOARD_LAYOUT</LocID>                     <Text>แสดงการตั้งค่าคีย์บอร์ด</Text>  </GameDBLocalizedString>
@@ -103,8 +103,8 @@
             
             <GameDBLocalizedString>      <LocID>UI_DEPARTMENT_CLOSED</LocID>                <Text>(แผนกปิด)</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>UI_ROOM_USAGE_DAY</LocID>                   <Text>จำนวนงาน วัน </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>UI_ROOM_USAGE_NIGHT</LocID>                 <Text>จำนวนงาน คืน: </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UI_ROOM_USAGE_DAY</LocID>                   <Text>จำนวนงาน กลางวัน: </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UI_ROOM_USAGE_NIGHT</LocID>                 <Text>จำนวนงาน กลางคืน: </Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>TEXT_FAST_TIME_SCALE</LocID>            	<Text>...ไปยันเช้า!!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TEXT_FAST_TIME_SCALE_SKIP</LocID>        	<Text>กด ESC หรือคลิ๊กขวาเพื่อยกเลิก</Text>  </GameDBLocalizedString>
@@ -162,7 +162,7 @@
             <GameDBLocalizedString>      <LocID>TOOLTIP_VIEW_OPEN_LOG</LocID>             			<Text>ปิดการแจ้งเตือน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TOOLTIP_VIEW_CLOSE_LOG</LocID>             			<Text>ปิดการแจ้งเตือน</Text>  </GameDBLocalizedString>
                         
-            <GameDBLocalizedString>      <LocID>TOOLTIP_CENTER_CHARACTER</LocID>        	<Text>คลิ๊กที่รูปเพื่อเคลื่อนกล้องไปที่คนๆนั้น</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_CENTER_CHARACTER</LocID>        	<Text>คลิ๊กที่รูปเพื่อเลื่อนกล้องไปที่คนๆนั้น</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>STAFF_BUSY</LocID>             	            <Text>บุคลากรกำลังวุ่น</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>STAFF_NOT_QUALIFIED</LocID>             	<Text>บุคลากรไม่ผ่านคุณสมบัติ</Text>  </GameDBLocalizedString>
