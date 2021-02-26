@@ -82,7 +82,7 @@
             <GameDBLocalizedString>      <LocID>EXM_OBSERVATION</LocID>                                         <Text>Observation</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_OBSERVATION_DESCRIPTION</LocID>                             <Text>Observation of the patient for 24 hours to ensure the patient's does not deteriorate.</Text>  </GameDBLocalizedString>
 -->
-            <GameDBLocalizedString>      <LocID>EXM_OPHTHALMOSCOPY</LocID>                                      <Text>การตรวจตาด้วยเครื่องส่องดูตา</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_OPHTHALMOSCOPY</LocID>                                      <Text>ตรวจตาด้วยเครื่องส่องดูตา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_OPHTHALMOSCOPY_DESCRIPTION</LocID>                          <Text>ขั้นตอนที่เรติน่า/จอประสาทตา ถูกมองผ่านกล้องส่องดูตา \n\nห้องที่ต้องการ: ห้องหมอ / ห้องตรวจ / ศูนย์อุบัติเหตุ / ICU / ออฟฟิศ /หน่วยวินิจฉัย ที่แผนกฉุกเฉิน / ICU / แผนกอายุรกรรม / แผนกประสาท </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_ORAL_CAVITY_INSPECTION</LocID>                              <Text>ตรวจช่องปาก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_ORAL_CAVITY_INSPECTION_DESCRIPTION</LocID>                  <Text>การตรวจและสำรวจช่องปากของคนไข้\n\nห้องที่ต้องการ: ออฟฟิศต่างๆ / หน่วยวินิจฉัยที่ทุกแผนกยกเว้นแผนกประสาทและแผนกออร์โธปิดิกส์</Text>  </GameDBLocalizedString>
@@ -102,14 +102,14 @@
             <GameDBLocalizedString>      <LocID>EXM_SKIN_INJECTION_TEST_DESCRIPTION</LocID>                     <Text>การฉีดสารก่อแพ้เข้าไปในผิวหนังในปริมาณเล็กน้อย ส่วนมากที่แขนเพื่อจะหาอาการแพ้ต่อสารก่อแพ้ชนิดต่างๆ \n\nห้องที่ต้องการ: ออฟฟิศ / หน่วยวินิจฉัยที่แผนกฉุกเฉิน / แผนก ICU / แผนกประสาท</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_SPEECH_LISTENING</LocID>                                    <Text>ทดสอบการพูด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_SPEECH_LISTENING_DESCRIPTION</LocID>                        <Text>ฟังความลื่นไหลในการพูดของคนไข้ \n\nห้องที่ต้องการ: ออฟฟิศต่างๆ / หน่วยวินิจฉัย</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EXM_SPINAL_FLUID_ANALYSIS_SAMPLING</LocID>                      <Text>CSF ตัวอย่าง</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EXM_SPINAL_FLUID_ANALYSIS_TESTING</LocID>                       <Text>CSF วิเคราะห์</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_SPINAL_FLUID_ANALYSIS_SAMPLING</LocID>                      <Text>ตัวอย่าง - CSF </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_SPINAL_FLUID_ANALYSIS_TESTING</LocID>                       <Text>วิเคราะห์ - CSF </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_SPIROMETRY</LocID>                                          <Text>ตรวจสมรรถภาพปอด</Text>  </GameDBLocalizedString>
             <!--UPDATED--><GameDBLocalizedString>      <LocID>EXM_SPIROMETRY_DESCRIPTION</LocID>                              <Text>หนึ่งในวิธีทั่วไปในการตรวจสมรรถะภาพของปอด วัดการทำงานของปอด \n\nห้องที่ต้องการ: ออฟฟิศ / หน่วยวินิจฉัยที่ แผนกอายุรกรรม</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_STOOL_ANALYSIS_SAMPLING</LocID>                             <Text>เก็บอุจจาระ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_STOOL_ANALYSIS_TESTING</LocID>                              <Text>วิเคราะห์อุจจาระ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_SWEAT_CHLORIDE_TEST</LocID>                                 <Text>Sweat Chloride Test</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EXM_SWEAT_CHLORIDE_TEST_DESCRIPTION</LocID>                     <Text>วิธีทดสอบทางชีวะเคมีแบบพิเศษใช้เพื่อวินิจฉัยโรค cystic fibrosis \n\nห้องที่ต้องการ: ออฟฟิศ / หน่วยวินิจฉัยที่ แผนกอายุรกรรม / ICU</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_SWEAT_CHLORIDE_TEST_DESCRIPTION</LocID>                     <Text>วิธีทดสอบทางชีวะเคมีแบบพิเศษใช้เพื่อวินิจฉัยโรคซิสติก ไฟโบรซิส \n\nห้องที่ต้องการ: ออฟฟิศ / หน่วยวินิจฉัยที่ แผนกอายุรกรรม / ICU</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_TEMPERATURE_MEASUREMENT</LocID>                             <Text>วัดอุณหภูมิ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_TEMPERATURE_MEASUREMENT_DESCRIPTION</LocID>                 <Text>การตรวจวัดอุณหภูมิของร่างกายในขณะนั้น \n\nห้องที่ต้องการ: ออฟฟิศต่างๆ / หน่วยวินิจฉัย</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_THORAX_PERCUSSION</LocID>                                   <Text>การเคาะทรวงอก</Text>  </GameDBLocalizedString>
@@ -117,7 +117,7 @@
             <GameDBLocalizedString>      <LocID>EXM_TONOMETRY</LocID>                                           <Text>วัดความดันลูกตา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_TONOMETRY_DESCRIPTION</LocID>                               <Text>การตรวจวัดความดันภายในลูกตา หรือเรียกได้อีกอย่างว่า ความดันเลนส์ตา \n\nห้องที่ต้องการ: หน่วยประสาท</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_TRANSIENT_ELASTOGRAPHY</LocID>                              <Text>Transient elastography</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EXM_TRANSIENT_ELASTOGRAPHY_DESCRIPTION</LocID>                  <Text>การสร้างภาพด้วยอัลตราซาวน์แบบพิเศษที่ซึ่งแม็พความยืดยุ่น และความแข็งทื่อของเนื้อเยื่ออ่อนในอวัยวะภายใน \n\nห้องที่ต้องการ: หน่วยอัลตราซาวน์ ที่แผนกศัลยกรรมทั่วไป / แผนกรังสี</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_TRANSIENT_ELASTOGRAPHY_DESCRIPTION</LocID>                  <Text>การสร้างภาพด้วยอัลตราซาวน์แบบพิเศษที่ซึ่งแม็พความยืดยุ่น และความแข็งทื่อของเนื้อเยื่ออ่อน ในอวัยวะภายใน \n\nห้องที่ต้องการ: หน่วยอัลตราซาวน์ ที่แผนกศัลยกรรมทั่วไป / แผนกรังสี</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_URGENT_BLOOD_ANALYSIS</LocID>                               <Text>PS blood control</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_URGENT_BLOOD_ANALYSIS_DESCRIPTION</LocID>                   <Text>การวิเคราะห์เลือดหลังการผ่าตัด ถูกใช้ในการดูแลผู้ป่วยหลังการผ่าตัดที่สามารถเกิดการติดเชื้อแบคทีเรียในร่างกายได้ \n\nห้องที่ต้องการ: หน่วย Cardiography  \n\nอุปกรณ์ที่ต้องใช้: Lab analyzer</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</LocID>                      <Text>ตรวจปัสสาวะ - เก็บตัวอย่าง</Text>  </GameDBLocalizedString>

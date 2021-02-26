@@ -549,14 +549,14 @@
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NUMBERS_7</LocID>       			    <Text>หมายเลข 7</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NUMBERS_8</LocID>       			    <Text>หมายเลข 8</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_NUMBERS_9</LocID>       			    <Text>หมายเลข 9</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_ER</LocID>       			        <Text>Emergency</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_ER</LocID>       			        <Text>ฉุกเฉิน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_ICU</LocID>       			        <Text>ICU</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_IM</LocID>       			        <Text>Internal medicine</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_GS</LocID>       			        <Text>General surgery</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_OT</LocID>       			        <Text>Orthopaedy</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_NE</LocID>       			        <Text>Neurology</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_CAR</LocID>       			        <Text>Cardiology</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_RAD</LocID>       			        <Text>Radiology</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_IM</LocID>       			        <Text>แผนกอายุรกรรม</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_GS</LocID>       			        <Text>แผนกศัลยกรรม</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_OT</LocID>       			        <Text>แผนกกระดูกและข้อ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_NE</LocID>       			        <Text>แผนกประสาท</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_CAR</LocID>       			        <Text>แผนกหัวใจ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DPT_RAD</LocID>       			        <Text>แผนกรังสี</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_GP</LocID>       			        <Text>ห้องตรวจโรค</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_WAIT</LocID>       			    <Text>จุดพักรอ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_STAT_LAB</LocID>       			<Text>แล็บวิเคราะห์</Text>  </GameDBLocalizedString>
@@ -573,7 +573,7 @@
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_CT</LocID>       			        <Text>ซีที</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_INPATIENT_OFFICE</LocID>       		<Text>Diagnostic unit</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_SONOGRAPHY_UNIT</LocID>       			<Text>Sonography unit</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_CORRIDOR</LocID>       			    <Text>Corridor</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_CORRIDOR</LocID>       			    <Text>โถงทางเดิน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_CARDIOVASCULAR_UNIT</LocID>       		<Text>Cardiography unit</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_OBSERVATION</LocID>       		<Text>ห้องพักคนไข้ใน ธรรมดา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_HIGH_PRIORITY</LocID>       			<Text>ห้องพักคนไข้ใน พิเศษ</Text>  </GameDBLocalizedString>
@@ -734,26 +734,26 @@
 
             <GameDBLocalizedString>      <LocID>ALLOWED</LocID>                                     <Text>วางตรงนี้ได้</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ALLOWED_ROOM</LocID>                                <Text>วางตรงนี้ได้</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ALLOWED_CROPS_ROOM</LocID>                          <Text>can be placed here, but will crop another room.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ALLOWED_CROPS_ROOM</LocID>                          <Text>วางตรงนี้ได้, แต่จะตัดห้องอื่นออกไป</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_BLOCKED</LocID>                         <Text>ถูกขวางกั้นโดยวัตถุอื่น</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_BLOCKED_ALREADY_PLACED</LocID>          <Text>ได้ถูกวางตรงนี้แล้ว</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_BLOCKING_NEIGHBOURS</LocID>             <Text>วางตรงนี้ได้ แต่จะขวางกั้นการใช้งานวัตถุอื่น</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOT_ALLOWED_ATTACHMENT_NO_PARENT</LocID>            <Text>needs to be attached to another object.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOT_ALLOWED_ATTACHMENT_WRONG_PARENT</LocID>         <Text>can't be attached to this type of object.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOT_ALLOWED_ATTACHMENT_NO_PARENT</LocID>            <Text>ต้องถูกติดไว้กับของชิ้นอื่น</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOT_ALLOWED_ATTACHMENT_WRONG_PARENT</LocID>         <Text>ไม่สามารถูกผูกติดกับของประเภทนี้ได้</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_NO_ACCESS</LocID>                       <Text>วางตรงนี้ไม่ได้</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_NO_WALL</LocID>                         <Text>ต้องวางไว้ที่กำแพง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_ONLY_INDOORS</LocID>                    <Text>วางได้เฉพาะภายในอาคาร</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_ONLY_OUTDOORS</LocID>                   <Text>วางได้เฉพาะภายนอกอาคาร</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_LOCKED_AREA</LocID>                     <Text>วางนอกเขตโรงพยาบาลไม่ได้</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>MISSING_REQUIREMENT</LocID>                         <Text>(missing requirement)</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>CONNECTED</LocID>                                   <Text>can be placed here (connected).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>MISSING_REQUIREMENT</LocID>                         <Text>(สิ่งที่ต้องการไม่ครบ)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CONNECTED</LocID>                                   <Text>ไม่สามารถถูกวางที่นี่ได้ (เชื่อมแล้ว)</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SIZE_REQUIREMENT_NOT_MATCHED</LocID>                <Text>ต้องมีขนาดอย่างน้อย:</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_BLOCKED_ROOM</LocID>                    <Text>ถูกขวางกั้นโดยห้องอื่น</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ALLOWED_NOT_ACCESSIBLE</LocID>                      <Text>วางตรงนี้ได้ แต่ใช้งานไม่ได้</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ALLOWED_ADDS_FOUNDATIONS</LocID>                    <Text>can be placed here, with extra cost for foundations.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ALLOWED_ADDS_FOUNDATIONS</LocID>                    <Text>ถูกวางที่นี่ได้, แต่ต้องจ่ายค่าโครงสร้างพื้นฐานเพิ่มเติ่ม</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_AT_DEPARTMENT</LocID>                   <Text>is not allowed at the active department.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_LOCKED_INSURANCE</LocID>                <Text>ยังไม่ถูกปลดล็อก</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NOT_ALLOWED_LIMIT_REACHED</LocID>                   <Text>has reached the overall limit.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOT_ALLOWED_LIMIT_REACHED</LocID>                   <Text>ถึงขีดจำกัดทั้งหมดแล้ว</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_ROOF</LocID>                            <Text>วางบนหลังคาไม่ได้</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_TOO_CLOSE</LocID>                       <Text>วางชิดกำแพงไม่ได้</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_IN_MIDAIR</LocID>                       <Text>วางกลางอากาศไม่ได้</Text>  </GameDBLocalizedString>

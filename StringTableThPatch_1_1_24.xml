@@ -86,7 +86,7 @@
             <GameDBLocalizedString>      <LocID>SYM_INFLUENZA_B_DETECTED_DESCRIPTION</LocID>           <Text>การทดสอบทางเซรุ่มวิทยาตรวจพบแอนติบอดีที่เกี่ยวข้องกับไวรัส Influenza B </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_E_COLI_TOXIN_DETECTED</LocID>                      <Text>ตรวจพบสารพิษอีโคไล </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_E_COLI_TOXIN_DETECTED_DESCRIPTION</LocID>          <Text>การวิเคราะห์อุจจาระตรวจพบสารพิษที่ผลิตโดย E. coli</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_C_JEJUNI_DETECTED</LocID>                          <Text>C. jejuni detected</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_C_JEJUNI_DETECTED</LocID>                          <Text>พบแบคทีเรีย C. jejuni</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_C_JEJUNI_DETECTED_DESCRIPTION</LocID>              <Text>ELISA has detected antigens for Campylobacter jejuni.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_MASTADENOVIRUS_B_DETECTED</LocID>                  <Text>Mastadenovirus B detected</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_MASTADENOVIRUS_B_DETECTED_DESCRIPTION</LocID>      <Text>PCR assay has detected Human Mastadenovirus B.</Text>  </GameDBLocalizedString>
@@ -108,8 +108,8 @@
             <GameDBLocalizedString>      <LocID>SYM_PUNCTURED_LUNGS_DESCRIPTION</LocID>                <Text>การตรวจทางโซโนกราฟพบว่าปอดมีรูรั่ว </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_PLEURAL_FLUID_INFECTED</LocID>                     <Text>ของเหลวในเยื่อหุ้มปอดติดเชื้อ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_PLEURAL_FLUID_INFECTED_DESCRIPTION</LocID>         <Text>การตรวจชิ้นเนื้อของน้ำเยื่อหุ้มปอดยืนยันการติดเชื้อ </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_CHYLOTHORAX_DETECTED</LocID>                       <Text>Chylothorax detected</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_CHYLOTHORAX_DETECTED_DESCRIPTION</LocID>           <Text>X-ray diagnostics have discovered chylothorax.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CHYLOTHORAX_DETECTED</LocID>                       <Text>พบ Chylothorax detected</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_CHYLOTHORAX_DETECTED_DESCRIPTION</LocID>           <Text>การวินิจฉัยด้วย X-ray ได้พบchylothorax.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_PLEURAL_TRANSUDATE</LocID>                         <Text>เยื่อหุ้มปอด </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_PLEURAL_TRANSUDATE_DESCRIPTION</LocID>             <Text>MRI ตรวจพบว่ามีของเหลวแบบใสในเยื่อหุ้มปอด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_CHOLESTEATOMA_DISCOVERED</LocID>                   <Text>พบหูชั้นกลางอักเสบ</Text>  </GameDBLocalizedString>
@@ -122,8 +122,8 @@
             <GameDBLocalizedString>      <LocID>SYM_MENIERES_DISEASE_PRESENT_DESCRIPTION</LocID>       <Text>การประเมินอาการและรายละเอียดที่ทราบทั้งหมดยืนยันโรคเวียนศรีษะ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_THROMBOCYTHEMIA</LocID>                            <Text>โรคเลือดข้น</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_THROMBOCYTHEMIA_DESCRIPTION</LocID>                <Text>การตรวจนับเม็ดเลือดอย่างสมบูรณ์พบว่ามีจำนวนเกล็ดเลือดสูงผิดปกติ </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_POISON_IVY_RASH</LocID>                            <Text>Poison ivy rash</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_POISON_IVY_RASH_DESCRIPTION</LocID>                <Text>Evaluation of all symptoms and known details confirms Poison ivy rash.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_POISON_IVY_RASH</LocID>                            <Text>ผื่นพิษไอ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_POISON_IVY_RASH_DESCRIPTION</LocID>                <Text>จากการประเมินอาการทั้งหมดได้คอนเฟิร์มว่าเป็นผื่นพิษไอวี่</Text>  </GameDBLocalizedString>
 
             <!--new trt procedures-->
             <GameDBLocalizedString>      <LocID>TRT_BLOOD_COMPONENT_THERAPY</LocID>                    <Text>การบำบัดด้วยส่วนประกอบของเลือด </Text>	</GameDBLocalizedString>
