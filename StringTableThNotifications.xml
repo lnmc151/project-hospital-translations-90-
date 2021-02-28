@@ -81,7 +81,7 @@
             <GameDBLocalizedString>      <LocID>NOTIF_ROOM_FULL</LocID>                      <Text>พนักงานคลินิกต้องการออฟฟิศเป็นของตนเอง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_ROOM_FULL_TEXT</LocID>                 <Text>พนักงานคลินิกไม่สามารถแชร์ห้องของตนกับพนักงานคนอื่นๆ ได้ (แต่อย่าลังเลที่จะวางเครื่องหมาย ของห้องหลายห้องไว้ในผนังชุดเดียวในโหมดการจัดการ)</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>NOTIF_CHARACTER_FIRED</LocID>                <Text>พนักถูกโดนไล่ออก</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_CHARACTER_FIRED</LocID>                <Text>พนักงานโดนไล่ออก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_CHARACTER_FIRED_TEXT</LocID>           <Text>พนักงานจะออกไปทันทีที่เขาทำสิ่งที่กำลังทำอยู่ในตอนนี้เสร็จ</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>NOTIF_WAITING_FOR_PLAYER_DIAGNOSIS</LocID>   <Text>กระบวนการได้เสร็จสิ้นแล้ว</Text>  </GameDBLocalizedString>
