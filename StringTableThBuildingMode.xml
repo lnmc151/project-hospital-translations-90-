@@ -221,15 +221,15 @@
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_INTENSIVE_CARE_UNIT_DESCRIPTION</LocID>           <Text>Intensive care unit provides superior medical care to critical patients to maintain their vital functions. \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์ \n1x พยาบาล \n(Personnel based in On-call room and Nurses station)</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_GENERAL_SURGERY_OFFICE</LocID>                <Text>ห้องตรวจ ศัลยกรรม</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_GENERAL_SURGERY_OFFICE_DESCRIPTION</LocID>    <Text>General surgery office is common diagnostic outpatient office. \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_GENERAL_SURGERY_OFFICE_DESCRIPTION</LocID>    <Text>ห้องศัลยกรรมทั่วไป เป็นห้องตรวจวินิจฉัย ผู้ป่วยนอกทั่วไป  \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_INTERNAL_MEDICINE_OFFICE</LocID>              <Text>ห้องตรวจ อายุรกรรม</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INTERNAL_MEDICINE_OFFICE_DESCRIPTION</LocID>  <Text>Internal medicine office is common diagnostic outpatient office. \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INTERNAL_MEDICINE_OFFICE_DESCRIPTION</LocID>  <Text>ห้องตรวจ อายุรกรรม เป็นห้องตรวจวินิจฉัย ผู้ป่วยนอกทั่วไป  \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_ORTHOPAEDICS_OFFICE</LocID>                   <Text>ห้องตรวจ กระดูกและข้อ</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ORTHOPAEDICS_OFFICE_DESCRIPTION</LocID>       <Text>Orthopaedy office is common diagnostic outpatient office. \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ORTHOPAEDICS_OFFICE_DESCRIPTION</LocID>       <Text>ห้องตรวจศัลยกรรมกระดูกและข้อ เป็นห้องตรวจวินิจฉัย ผู้ป่วยนอกทั่วไป  \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOLOGY_OFFICE</LocID>                     <Text>ห้องตรวจ หัวใจ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOLOGY_OFFICE_DESCRIPTION</LocID>         <Text>Cardiology office is common diagnostic outpatient office. \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOLOGY_OFFICE_DESCRIPTION</LocID>         <Text>ห้องตรวจ หัวใจ เป็นห้องตรวจผู้ป่วยนอกทั่วไป \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_NEUROLOGY_OFFICE</LocID>                      <Text>ห้องตรวจ ประสาทวิทยา</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_NEUROLOGY_OFFICE_DESCRIPTION</LocID>          <Text>Neurology office is common diagnostic outpatient office. \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_NEUROLOGY_OFFICE_DESCRIPTION</LocID>          <Text>ห้องตรวจประสาทวิทยา เป็นห้องตรวจวินิจฉัย ผู้ป่วยนอกทั่วไป \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_OPERATING_ROOM</LocID>                    <Text>ห้องผ่าตัด</Text></GameDBLocalizedString>
             <!--UPDATED--><GameDBLocalizedString><LocID>ROOM_TYPE_OPERATING_ROOM_DESCRIPTION</LocID><Text>ห้องผ่าตัดมีอุปกรณ์ครบครันสำหรับทุกขั้นตอนการผ่าตัด\n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์ - Surgeon \n1x แพทย์ - Assistant \n1x Anesthesiologist \n1x Surgery nurse \n1x พยาบาล \n(Personnel based in On-call room and Nurses station)</Text></GameDBLocalizedString>
@@ -403,7 +403,7 @@
             <GameDBLocalizedString>      <LocID>OBJECT_EQUIPMENT_CABINET_MOBILE_DESCRIPTION</LocID> <Text>อุปกรณ์บังคับสำหรับทุกห้องที่มีการตรวจและขั้นตอนการรักษา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_MOBILE_WORKSTATION</LocID>             		<Text>Mobile workstation</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_MOBILE_WORKSTATION_DESCRIPTION</LocID> 		<Text>Mobile workstation provides mobile workspace for doctors in certain rooms.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_LIFE_MONITOR_WALL</LocID>             		<Text>Life monitor</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_LIFE_MONITOR_WALL</LocID>             		<Text>จอสัญญาณชีพ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_LIFE_MONITOR_WALL_DESCRIPTION</LocID> 		<Text>Life monitor controls vital signs of patients.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DEFIBRILLATOR</LocID>                        <Text>เครื่อง กระตุกหัวใจ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DEFIBRILLATOR_DESCRIPTION</LocID>            <Text>เครื่องกระตุกหัวใจ เป็นอุปกรณ์สำหรับใช้แก้ไข ภาวะหัวใจเต้นผิดจังหวะ ให้กลับคืนสู่ภาวะปกติ</Text>  </GameDBLocalizedString>
@@ -415,7 +415,7 @@
             <GameDBLocalizedString>      <LocID>OBJECT_USG_FAST_DESCRIPTION</LocID>                 <Text>Special Ultrasonography equipment for Emergency and ICU usage.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ANESTHETIC_MACHINE</LocID>                   <Text>เครื่องดมยาสลบ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ANESTHETIC_MACHINE_DESCRIPTION</LocID>       <Text>เครื่องดมยาสลบ และวงจรระบบหายใจ อุปกรณ์ระงับความรู้สึก และตรวจสอบสัญญาณชีพ ของผู้ป่วย ระหว่างการผ่าตัด</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_MONITORING_MACHINE</LocID>                   <Text>Life monitor advanced</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_MONITORING_MACHINE</LocID>                   <Text>จอสัญญาณชีพขั้นสูง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_MONITORING_MACHINE_DESCRIPTION</LocID>       <Text>Advanced model of Life monitor to control patient's vital signs.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_LIFE_SUPPORT</LocID>                   		<Text>Life support</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_LIFE_SUPPORT_DESCRIPTION</LocID>       		<Text>Mandatory equipment for ICU department.</Text>  </GameDBLocalizedString>
@@ -517,9 +517,9 @@
             <GameDBLocalizedString>      <LocID>OBJECT_SHOCKWAVE_DESCRIPTION</LocID>             	<Text>Extracorporeal shockwave therapy is mainly used as a non-invasive treatment of kidney stones.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ELECTROMYOGRAPH</LocID>                      <Text>EMG</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ELECTROMYOGRAPH_DESCRIPTION</LocID>          <Text>Electromyograph is used to measure electrical signals in muscles.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_LAB_ANALYZER</LocID>                      	<Text>Lab analyzer</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_LAB_ANALYZER</LocID>                      	<Text>เครื่องวิเคราะห์ห้องปฏิบัติการ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_LAB_ANALYZER_DESCRIPTION</LocID>          	<Text>Multi-purpose lab equipment used to analyze various biological substances and samples.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_STOOL_ANALYZER</LocID>                      	<Text>Stool analyzer</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_STOOL_ANALYZER</LocID>                      	<Text>เครื่องวิเคราะห์อุจจาระ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_STOOL_ANALYZER_DESCRIPTION</LocID>          	<Text>Stool analyzer is special lab equipment used to analyze human stool samples.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_THERMAL_CYCLER</LocID>                      	<Text>Thermal cycler</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_THERMAL_CYCLER_DESCRIPTION</LocID>          	<Text>Laboratory equipment for analyzing DNA polymerase.</Text>  </GameDBLocalizedString>
@@ -679,11 +679,11 @@
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_TRAUMA_CENTER_ABBR</LocID>               <Text>ห้องฉุกเฉิน - 6 x 6</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_STAT_LAB_ER_ABBR</LocID>                 <Text>แล็บวิเคราะห์ - 8 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_STAT_LAB_IM_ABBR</LocID>                 <Text>เมดแลป - 8 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_STAT_LAB_OT_ABBR</LocID>                 <Text>Orth. Lab - 8 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_STAT_LAB_GS_ABBR</LocID>                 <Text>Surg. Lab - 8 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_STAT_LAB_CAR_ABBR</LocID>                 <Text>Cardio Lab - 8 x 6</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_STAT_LAB_NE_ABBR</LocID>                 <Text>Neuro Lab - 8 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_STAT_LAB_IM_ABBR</LocID>                 <Text>เมดแล็บ - 8 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_STAT_LAB_OT_ABBR</LocID>                 <Text>แล็บกระดูกและข้อ - 8 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_STAT_LAB_GS_ABBR</LocID>                 <Text>แล็บศัลยกรรม - 8 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_STAT_LAB_CAR_ABBR</LocID>                 <Text>แล็บหัวใจ - 8 x 6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_ROOM_STAT_LAB_NE_ABBR</LocID>                 <Text>แล็บประสาทวิทยา - 8 x 6</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_CLEANING_CLOSET_ABBR</LocID>             <Text>ห้องเก็บอุปกรณ์ ทำความสะอาด - 4 x 6</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_INPATIENT_WARD_LARGE_ABBR</LocID>        <Text>ห้องพักคนไข้ใน ธรรมดา - 12 x 6</Text>  </GameDBLocalizedString>
