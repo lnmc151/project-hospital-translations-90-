@@ -564,7 +564,7 @@
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_CLEANING</LocID>       			<Text>ห้องเก็บอุปกรณ์ ทำความสะอาด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_WC</LocID>       			        <Text>สุขา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_OPERATING</LocID>       			<Text>ห้องผ่าตัด</Text>  </GameDBLocalizedString>
-            <!--UPDATED--><GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_NEURODIAGNOSTIC</LocID>       	<Text>หน่วยตรวจระบบประสาท</Text>  </GameDBLocalizedString>
+            <!--UPDATED--><GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_NEURODIAGNOSTIC</LocID>       	<Text>Neuroexam unit</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_XRAY</LocID>       			    <Text>เอ็กซเรย์</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_COMMON</LocID>       			    <Text>ห้องพักพนักงาน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_INPATIENT_WARD</LocID>       			<Text>หน่วยสังเกตการณ์</Text>  </GameDBLocalizedString>
@@ -758,7 +758,7 @@
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_TOO_CLOSE</LocID>                       <Text>วางชิดกำแพงไม่ได้</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOT_ALLOWED_IN_MIDAIR</LocID>                       <Text>วางกลางอากาศไม่ได้</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>THIS_PREFAB</LocID>                                 <Text></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>THIS_PREFAB</LocID>                                 <Text>พรีแฟบ</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>DELETE_ROOM_HINT</LocID>                            <Text>คลิกที่พื้นของพื้นที่ที่ต้องการลบ</Text>  </GameDBLocalizedString>
 
