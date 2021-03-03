@@ -9,6 +9,8 @@
             <Name>Bo Kelly</Name>
             <Name>Cheewapat Foosang</Name>
             <Name>KanomWan</Name>
+            <Name>Sora Hana</Name>
+            <Name>Jurinc Lactobasillas</Name>
            
         </Contributors>
 
@@ -429,7 +431,7 @@
             <GameDBLocalizedString>      <LocID>OBJECT_INFO_BOARD_DESCRIPTION</LocID>       		<Text>อุปกรณ์ตกแต่ง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_OXYGEN_TANK</LocID>                   		<Text>ถังออกซิเจน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_OXYGEN_TANK_DESCRIPTION</LocID>       		<Text>อุปกรณ์ตกแต่ง</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_MECHANICAL_VENTILATOR</LocID>                <Text>Mechanical ventilator</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_MECHANICAL_VENTILATOR</LocID>                <Text>เครื่องช่วยหายใจ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_MECHANICAL_VENTILATOR_DESCRIPTION</LocID>    <Text>Mechanical ventilator provides artificial ventilation to patients.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_LAB_EQUIPMENT2</LocID>                       <Text>อุปกรณ์แล็บ ขนาดเล็ก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_LAB_EQUIPMENT2_DESCRIPTION</LocID>           <Text>Glassware is mandatory equipment of labs, it is used to prepare different samples. </Text>  </GameDBLocalizedString>
@@ -437,16 +439,16 @@
             <GameDBLocalizedString>      <LocID>OBJECT_ANGIO_CONTROL_PANEL_DESCRIPTION</LocID>    	<Text>It controls the angiography machine.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_RADIOLOGY_VIEWER</LocID>                		<Text>Radiology viewer</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_RADIOLOGY_VIEWER_DESCRIPTION</LocID>    		<Text>Radiology viewer is used to analyze radiodiagnostic images.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_ANGIO_IMAGING</LocID>                		<Text>OP digital imaging</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_ANGIO_IMAGING_DESCRIPTION</LocID>    		<Text>Real-time digital imaging during surgeries.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_SUCTION_MACHINE</LocID>                		<Text>Suction machine</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_SUCTION_MACHINE_DESCRIPTION</LocID>   		<Text>Mandatory equipment for operating rooms. It provides suction of various body fluids during surgeries.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_SURGERY_INSTRUMENTS</LocID>                	<Text>Surgery instruments</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_SURGERY_INSTRUMENTS_DESCRIPTION</LocID>   	<Text>Surgery instruments are mandatory to provide any kind of surgery.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_ELECTROCAUTERY_MACHINE</LocID>               <Text>Electrocautery machine</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_ELECTROCAUTERY_MACHINE_DESCRIPTION</LocID>   <Text>Electrocautery machine is used to remove tissues or seal blood vessels during surgeries.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_INSTRUMETNS_TABLE</LocID>                	<Text>Instruments table</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_INSTRUMETNS_TABLE_DESCRIPTION</LocID>   		<Text>A table to place Surgical instruments on.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ANGIO_IMAGING</LocID>                		<Text>จอภาพดิจิทัลผ่าตัด</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ANGIO_IMAGING_DESCRIPTION</LocID>    		<Text>การถ่ายภาพดิจิทัลแบบเรียลไทม์ระหว่างผ่าตัด</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_SUCTION_MACHINE</LocID>                		<Text>เครื่องดูด </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_SUCTION_MACHINE_DESCRIPTION</LocID>   		<Text>อุปกรณ์ที่จำเป็นในห้องผ่าตัด ใช้ในการดูดของเหลวต่างๆ ภายในร่างกายระหว่างผ่าตัด </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_SURGERY_INSTRUMENTS</LocID>                	<Text>เครื่องมือผ่าตัด</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_SURGERY_INSTRUMENTS_DESCRIPTION</LocID>   	<Text>เครื่องมือในการผ่าตัดเป็นสิ่งที่จำเป็นมากสำหรับการผ่าตัดทุกชนิด </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ELECTROCAUTERY_MACHINE</LocID>               <Text>เครื่องจี้ไฟฟ้า</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ELECTROCAUTERY_MACHINE_DESCRIPTION</LocID>   <Text>เครื่องจี้ไฟฟ้าใช้ในการผ่าตัดเอาเนื้อเยื่อหรือปิดเส้นเลือดระหว่างผ่าตัด</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_INSTRUMETNS_TABLE</LocID>                	<Text>โต๊ะวางเครื่องมือผ่าตัด</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_INSTRUMETNS_TABLE_DESCRIPTION</LocID>   		<Text>โต๊ะสำหรับวางเครื่องมือในการผ่าตัด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_SCRUBS_SHELF_WALL</LocID>                	<Text>ชั้นวางเสื้อผ้า ติดผนัง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_SCRUBS_SHELF_WALL_DESCRIPTION</LocID>   		<Text>ชั้นวางเสื้อผ้า มีเสื้อผ้าและชุดผ่าตัดพิเศษ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_SCRUBS_SHELF</LocID>                			<Text>ชั้นวางเสื้อผ้า เล็ก</Text>  </GameDBLocalizedString>
