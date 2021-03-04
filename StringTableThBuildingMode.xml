@@ -149,78 +149,77 @@
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_CORRIDOR_DESCRIPTION</LocID>              <Text>ทำเครื่องหมายบนทางเดินให้เป็นห้องประเภทนี้เพื่อกำหนดพื้นที่และอุปกรณ์ให้แผนกและเปิดใช้งานอัตโนมัติและบริการทำความสะอาดของภารโรง\n\nต้องการพนักงานอย่างน้อย: \nไม่มี</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB</LocID>                          <Text>แล็บวิเคราะห์</Text>  </GameDBLocalizedString> <!-- Lab at Emergency -->
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_DESCRIPTION</LocID>              <Text>ทำหน้าที่ตรวจวิเคราะห์ ให้บริการการตรวจวิเคราะห์ทางเคมี เพื่อยืนยันการวินิจฉัย\n\nต้องการพนักงานอย่างน้อย:\n1x Technologist - Biochemist</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_DESCRIPTION</LocID>              <Text>ทำหน้าที่ตรวจวิเคราะห์ ให้บริการการตรวจวิเคราะห์ทางเคมี เพื่อยืนยันการวินิจฉัย\n\nต้องการพนักงานอย่างน้อย:\n1x นักเทคนิค - ขีวเคมี</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_GS</LocID>                       <Text>ห้องปฏิบัติการศัลยกรรม</Text>  </GameDBLocalizedString> <!-- Lab at General surgery -->
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_GS_DESCRIPTION</LocID>           <Text>ห้องปฏิบัติการผ่าตัดมีการทดสอบที่หลากหลายเพื่อยืนยันการวินิจฉัยที่แตกต่างกัน\nต้องการพนักงานอย่างน้อย:\n1x Technologist - Biochemist</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_GS_DESCRIPTION</LocID>           <Text>ห้องปฏิบัติการผ่าตัดมีการทดสอบที่หลากหลายเพื่อยืนยันการวินิจฉัยที่แตกต่างกัน\nต้องการพนักงานอย่างน้อย:\n1x นักเทคนิค  - ชีวเคมี</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_IM</LocID>                       <Text>เมดแลป</Text>  </GameDBLocalizedString> <!-- Lab at Internal medicine -->
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_IM_DESCRIPTION</LocID>           <Text>ห้องปฏิบัติการทางการแพทย์มีการตรวจทางห้องปฏิบัติการที่หลากหลายเพื่อยืนยันการวินิจฉัยที่แตกต่างกัน\nต้องการพนักงานอย่างน้อย:\n1x Technologist - Biochemist</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_IM_DESCRIPTION</LocID>           <Text>ห้องปฏิบัติการทางการแพทย์มีการตรวจทางห้องปฏิบัติการที่หลากหลายเพื่อยืนยันการวินิจฉัยที่แตกต่างกัน\nต้องการพนักงานอย่างน้อย:\n1x Technologist - ชีวเคมี</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_OT</LocID>                       <Text>ห้องปฏิบัติการออร์โธปิดิกส์(กระดูกและข้อ)</Text>  </GameDBLocalizedString> <!-- Lab at Orthopaedy -->
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_OT_DESCRIPTION</LocID>           <Text>ห้องปฏิบัติการศัลยกรรมกระดูกมีการทดสอบที่หลากหลายเพื่อยืนยันการวินิจฉัยที่แตกต่างกัน\nต้องการพนักงานอย่างน้อย:\n1x Technologist - Biochemist</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_OT_DESCRIPTION</LocID>           <Text>ห้องปฏิบัติการศัลยกรรมกระดูกมีการทดสอบที่หลากหลายเพื่อยืนยันการวินิจฉัยที่แตกต่างกัน\nต้องการพนักงานอย่างน้อย:\n1x นักเทคนิค  - ชีวเคมี</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_CAR</LocID>                      <Text>ห้องปฏิบัติการโรคหัวใจ</Text>  </GameDBLocalizedString> <!-- Lab at Cardiology -->
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_CAR_DESCRIPTION</LocID>          <Text>ห้องปฏิบัติการโรคหัวใจมีการทดสอบที่หลากหลายเพื่อยืนยันการวินิจฉัยที่แตกต่างกัน\nต้องการพนักงานอย่างน้อย:\n1x Technologist - Biochemist</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_CAR_DESCRIPTION</LocID>          <Text>ห้องปฏิบัติการโรคหัวใจมีการทดสอบที่หลากหลายเพื่อยืนยันการวินิจฉัยที่แตกต่างกัน\nต้องการพนักงานอย่างน้อย:\n1x นักเทคนิค  - ชีวเคมี</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_NE</LocID>                       <Text>ห้องปฏิบัติการประสาทวิทยา</Text>  </GameDBLocalizedString> <!-- Lab at Neourology -->
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_NE_DESCRIPTION</LocID>           <Text>ห้องปฏิบัติการประสาทวิทยามีการทดสอบที่หลากหลายเพื่อยืนยันการวินิจฉัยที่แตกต่างกัน\nต้องการพนักงานอย่างน้อย:\n1x Technologist - Biochemist</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_STAT_LAB_NE_DESCRIPTION</LocID>           <Text>ห้องปฏิบัติการประสาทวิทยามีการทดสอบที่หลากหลายเพื่อยืนยันการวินิจฉัยที่แตกต่างกัน\nต้องการพนักงานอย่างน้อย:\n1x นักเทคนิค  - ชีวเคมีt</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_X_RAY_ROOM</LocID>                        <Text>ห้อง x-ray </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_X_RAY_ROOM_DESCRIPTION</LocID>            <Text>ห้องเอกซเรย์ให้การถ่ายภาพเอ็กซ์เรย์ของส่วนต่างๆของร่างกายมนุษย์โดยแสดงโครงสร้างใต้ผิวหนังและกล้ามเนื้อ\n\nต้องการพนักงานอย่างน้อย: \n1x Technologist - Radiologist</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_X_RAY_ROOM_DESCRIPTION</LocID>            <Text>ห้องเอกซเรย์ให้การถ่ายภาพเอ็กซ์เรย์ของส่วนต่างๆของร่างกายมนุษย์โดยแสดงโครงสร้างใต้ผิวหนังและกล้ามเนื้อ\n\nต้องการพนักงานอย่างน้อย: \n1x นักเทคนิค  - รังสีวิทยา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_CT_ROOM</LocID>                           <Text>ห้อง CT </Text>    </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CT_ROOM_DESCRIPTION</LocID>               <Text>CT ย่อมาจาก 'เอกซ์เรย์คอมพิวเตอร์' เป็นเทคนิคการถ่ายภาพเอ็กซเรย์ที่ซับซ้อนสำหรับการสร้างภาพที่มีความละเอียดสูง \n\nต้องการพนักงานอย่างน้อย: \n1x Technologist - Radiologist</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CT_ROOM_DESCRIPTION</LocID>               <Text>CT ย่อมาจาก 'เอกซ์เรย์คอมพิวเตอร์' เป็นเทคนิคการถ่ายภาพเอ็กซเรย์ที่ซับซ้อนสำหรับการสร้างภาพที่มีความละเอียดสูง \n\nต้องการพนักงานอย่างน้อย: \n1x นักเทคนิค - รังสีวิทยา</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_MRI_ROOM</LocID>                          <Text>ห้อง MRI </Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_MRI_ROOM_DESCRIPTION</LocID>              <Text>การถ่ายภาพด้วยคลื่นสนามแม่เหล็กจะสร้างภาพที่มีรายละเอียดของร่างกายโดยใช้เทคนิคสนามแม่เหล็กและคลื่นวิทยุ \n\nต้องการพนักงานอย่างน้อย: \n1x Technologist - Radiologist</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_MRI_ROOM_DESCRIPTION</LocID>              <Text>การถ่ายภาพด้วยคลื่นสนามแม่เหล็กจะสร้างภาพที่มีรายละเอียดของร่างกายโดยใช้เทคนิคสนามแม่เหล็กและคลื่นวิทยุ \n\nต้องการพนักงานอย่างน้อย: \n1x นักเทคนิค - รังสีวิทยา</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_ANGIOGRAPHY_ROOM</LocID>                  <Text>ห้อง CAG </Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ANGIOGRAPHY_ROOM_DESCRIPTION</LocID>      <Text>การตรวจหลอดเลือดหัวใจเป็นเทคนิคทางการแพทย์ที่เรียกว่าการถ่ายภาพหลอดเลือดซึ่งแสดงภาพเส้นเลือดและอวัยวะต่างๆของร่างกาย \n\nต้องการพนักงานอย่างน้อย: \n1x Technologist - Radiologist</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ANGIOGRAPHY_ROOM_DESCRIPTION</LocID>      <Text>การตรวจหลอดเลือดหัวใจเป็นเทคนิคทางการแพทย์ที่เรียกว่าการถ่ายภาพหลอดเลือดซึ่งแสดงภาพเส้นเลือดและอวัยวะต่างๆของร่างกาย \n\nต้องการพนักงานอย่างน้อย: \n1x นักเทคนิค - รังสีวิทยา</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_ER_OBSERVATION_ROOM</LocID>               <Text>ห้องสังเกตการณ์</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ER_OBSERVATION_ROOM_DESCRIPTION</LocID>   <Text>การตรวจต่างๆสามารถทำได้ที่นี่ผู้ป่วยจะอยู่ภายใต้การดูแลของแพทย์ที่เหมาะสม\n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์ \n(Personnel based in On-call room)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ER_OBSERVATION_ROOM_DESCRIPTION</LocID>   <Text>การตรวจต่างๆสามารถทำได้ที่นี่ผู้ป่วยจะอยู่ภายใต้การดูแลของแพทย์ที่เหมาะสม\n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์ \n(เจ้าหน้าที่ ที่คอยมาตรวจในห้องสังเกตุการณ์)</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_WC</LocID>      			                <Text>สุขา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_WC_DESCRIPTION</LocID>      			    <Text>ห้องที่จำเป็นต้องมีทุกสถานที่ \n\nต้องการพนักงานอย่างน้อย: \nไม่มี</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_CLEANING_CLOSET</LocID>                   <Text>ห้องเก็บอุปกรณ์ ทำความสะอาด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_CLEANING_CLOSET_DESCRIPTION</LocID>       <Text>ห้องเก็บอุปกรณ์ทั้งหมด ของภารโรงที่จำเป็นต้องใช้</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_GS</LocID>                     <Text>หน่วยอัลตราซาวด์</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_GS_DESCRIPTION</LocID>         <Text>Sonography unit provides specific ultrasound-based examinations and treatments. \n\nต้องการพนักงานอย่างน้อย: \n1x Technologist - USG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_GS_DESCRIPTION</LocID>         <Text>หน่วยอัลตราซาวด์ให้การตรวจและรักษาด้วยอัลตราซาวด์เฉพาะ \n\nต้องการพนักงานอย่างน้อย: \n1x นักเทคนิค - USG</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OT</LocID>                     <Text>หน่วยอัลตราซาวด์</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OT_DESCRIPTION</LocID>         <Text>Sonography unit provides specific ultrasound-based examinations and treatments. \n\nต้องการพนักงานอย่างน้อย: \n1x Technologist - USG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OT_DESCRIPTION</LocID>         <Text>หน่วยอัลตราซาวด์ให้การตรวจและรักษาด้วยอัลตราซาวด์เฉพาะ \n\nต้องการพนักงานอย่างน้อย: \n1x นักเทคนิค - USG</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_CAR</LocID>                    <Text>หน่วยอัลตราซาวด์</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_CAR_DESCRIPTION</LocID>        <Text>Sonography unit provides specific ultrasound-based examinations and treatments. \n\nต้องการพนักงานอย่างน้อย: \n1x Technologist - USG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_CAR_DESCRIPTION</LocID>        <Text>หน่วยอัลตราซาวด์ให้การตรวจและรักษาด้วยอัลตราซาวด์เฉพาะ \n\nต้องการพนักงานอย่างน้อย: \n1x นักเทคนิค - USG</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_GS</LocID>                <Text>หน่วยหัวใจ </Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_GS_DESCRIPTION</LocID>    <Text>Cardiography diagnostic unit provides various examination methods and tests related to human cardiovascular system. \n\nต้องการพนักงานอย่างน้อย: \n1x Technologist - Cardiologist</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_GS_DESCRIPTION</LocID>    <Text>หน่วยโรคหัวใจ มีวิธีการตรวจและการทดสอบต่างๆ ที่เกี่ยวข้องกับระบบหัวใจและหลอดเลือดของมนุษย์ \n\nต้องการพนักงานอย่างน้อย: \n1x นักเทคนิค - หัวใจ</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_IM</LocID>                <Text>หน่วยหัวใจ </Text>    </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_IM_DESCRIPTION</LocID>    <Text>Cardiography diagnostic unit provides various examination methods and tests related to human cardiovascular system. \n\nต้องการพนักงานอย่างน้อย: \n1x Technologist - Cardiologist</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_IM_DESCRIPTION</LocID>    <Text>หน่วยโรคหัวใจ มีวิธีการตรวจและการทดสอบต่างๆ ที่เกี่ยวข้องกับระบบหัวใจและหลอดเลือดของมนุษย์ \n\nต้องการพนักงานอย่างน้อย: \n1x นักเทคนิค - หัวใจ</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_CAR</LocID>               <Text>หน่วยหัวใจ </Text>    </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_CAR_DESCRIPTION</LocID>   <Text>Cardiography diagnostic unit provides various examination methods and tests related to human cardiovascular system. \n\nต้องการพนักงานอย่างน้อย: \n1x Technologist - Cardiologist</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_CAR_DESCRIPTION</LocID>   <Text>หน่วยโรคหัวใจ มีวิธีการตรวจและการทดสอบต่างๆ ที่เกี่ยวข้องกับระบบหัวใจและหลอดเลือดของมนุษย์ \n\nต้องการพนักงานอย่างน้อย: \n1x นักเทคนิค - หัวใจ</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_NE</LocID>                <Text>หน่วยหัวใจ </Text>    </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_NE_DESCRIPTION</LocID>    <Text>Cardiography diagnostic unit provides various examination methods and tests related to human cardiovascular system. \n\nต้องการพนักงานอย่างน้อย: \n1x Technologist - Cardiologist</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_NE_DESCRIPTION</LocID>    <Text>หน่วยโรคหัวใจ มีวิธีการตรวจและการทดสอบต่างๆ ที่เกี่ยวข้องกับระบบหัวใจและหลอดเลือดของมนุษย์ \n\nต้องการพนักงานอย่างน้อย: \n1x นักเทคนิค - หัวใจ</Text></GameDBLocalizedString>
 
             <!--UPDATED--><GameDBLocalizedString>      <LocID>ROOM_TYPE_NEURODIAGNOSTIC_UNIT_NE</LocID>                   <Text>Neuroexam unit</Text>  </GameDBLocalizedString>
             <!--UPDATED--><GameDBLocalizedString>      <LocID>ROOM_TYPE_NEURODIAGNOSTIC_UNIT_NE_DESCRIPTION</LocID>       <Text>Neuroexam unit provides specific neurological examinations. \n\nต้องการพนักงานอย่างน้อย: \n1x Technologist - Neurologist</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_TRAUMA_CENTER</LocID>                      <Text>ห้องฉุกเฉิน</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_TRAUMA_CENTER_DESCRIPTION</LocID>          <Text>Trauma center serves as the main entry point for critical patients delivered by ambulances and also accepts collapsed patients. \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์ - Acute Medicine \n1x พยาบาล \n(Personnel based in On-call room and Nurses station)</Text>  </GameDBLocalizedString>
-
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_TRAUMA_CENTER_DESCRIPTION</LocID>          <Text>ห้องฉุกเฉิน ทำหน้าที่หลักสำหรับผู้ป่วยวิกฤต ที่นำส่งด้วยรถพยาบาลและยังรับคนไข้ที่ทรุดตัว \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์ - Acute Medicine \n1x พยาบาล \n(การจัดการอัตราบุคลากรและสถานีพยาบา)</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_GS_OFFICE</LocID>                               <Text>หน่วยวินิจฉัย</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_GS_OFFICE_DESCRIPTION</LocID>                   <Text>Diagnostic unit at General Surgery department provides examination and treatment procedures for hospitalized patients. \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์ \n(Personnel based in On-call room)</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_GS_OFFICE_DESCRIPTION</LocID>                   <Text>หน่วยวินิจฉัยที่แผนกศัลยกรรมทั่วไป มีขั้นตอนการตรวจและรักษาคนไข้ในโรงพยาบาล \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์ \n(เจ้าหน้าที่ ที่คอยมาตรวจในห้องสังเกตุการณ์)</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_IM_OFFICE</LocID>                               <Text>หน่วยวินิจฉัย </Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_IM_OFFICE_DESCRIPTION</LocID>                   <Text>Diagnostic unit at Internal medicine department provides examination and treatment procedures for hospitalized patients. \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์ \n(Personnel based in On-call room)</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_IM_OFFICE_DESCRIPTION</LocID>                   <Text>หน่วยวินิจฉัยที่แผนกอายุรกรรม มีขั้นตอนการตรวจและรักษาคนไข้ในโรงพยาบาล \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์ \n(เจ้าหน้าที่ ที่คอยมาตรวจในห้องสังเกตุการณ์)</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_OT_OFFICE</LocID>                               <Text>หน่วยวินิจฉัย </Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_OT_OFFICE_DESCRIPTION</LocID>                   <Text>Diagnostic unit at Orthopaedy department provides examination and treatment procedures for hospitalized patients. \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์ \n(Personnel based in On-call room)</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_OT_OFFICE_DESCRIPTION</LocID>                   <Text>หน่วยวินิจฉัยที่แผนกกระดูกและข้อ มีขั้นตอนการตรวจและรักษาคนไข้ในโรงพยาบาล \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์ \n(เจ้าหน้าที่ ที่คอยมาตรวจในห้องสังเกตุการณ์)</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_CARDIOLOGY_OFFICE</LocID>                       <Text>หน่วยวินิจฉัย </Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_CARDIOLOGY_OFFICE_DESCRIPTION</LocID>           <Text>Diagnostic unit at Cardiology department provides examination and treatment procedures for hospitalized patients. \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์ \n(Personnel based in On-call room)</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_CARDIOLOGY_OFFICE_DESCRIPTION</LocID>           <Text>หน่วยวินิจฉัยที่แผนกหัวใจ มีขั้นตอนการตรวจและรักษาคนไข้ในโรงพยาบาล \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์ \n(เจ้าหน้าที่ ที่คอยมาตรวจในห้องสังเกตุการณ์)</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_NEUROLOGY_OFFICE</LocID>                        <Text>หน่วยวินิจฉัย </Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_NEUROLOGY_OFFICE_DESCRIPTION</LocID>            <Text>Diagnostic unit at Neurology department provides examination and treatment procedures for hospitalized patients. \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์ \n(Personnel based in On-call room)</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_NEUROLOGY_OFFICE_DESCRIPTION</LocID>            <Text>หน่วยวินิจฉัย ที่แผนกประสาทวิทยา มีขั้นตอนการตรวจและรักษาคนไข้ในโรงพยาบาล \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์ \n(เจ้าหน้าที่ ที่คอยมาตรวจในห้องสังเกตุการณ์)</Text></GameDBLocalizedString>
 
             <!-- Room types for testing - will need update -->
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_NURSES_STATION</LocID>                            <Text>ห้องรวมพยาบาล</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_NURSES_STATION_DESCRIPTION</LocID>                <Text>All nurses that are necessary for running a department are based in here. \n\nต้องการพนักงานอย่างน้อย: \n1-3x Nurse</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_NURSES_STATION_DESCRIPTION</LocID>                <Text>พยาบาลทุกคน ต้องทำงานในแผนกประจำที่นี่ \n\nต้องการพนักงานอย่างน้อย: \n1-3x พยาบาล</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_ON_CALL_ROOM</LocID>                              <Text>ห้องรวมแพทย์</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ON_CALL_ROOM_DESCRIPTION</LocID>                  <Text>All doctors needed for running a department are based in here.\n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ON_CALL_ROOM_DESCRIPTION</LocID>                  <Text>หมอทุกคน ต้องทำงานในแผนกประจำที่นี่\n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_WARD</LocID>                            <Text>ห้องพักคนไข้ใน ธรรมดา</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_WARD_DESCRIPTION</LocID>                <Text>ห้องพักธรรมดา สำหรับคนไข้ใน \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์ \n1x พยาบาล \n(Personnel based in On-call room and Nurses station)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_WARD_DESCRIPTION</LocID>                <Text>ห้องพักธรรมดา สำหรับคนไข้ใน \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์ \n1x พยาบาล \n(การจัดการอัตราบุคลากรและสถานีพยาบาล)</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_HIGH_PRIORITY_INPATIENT_WARD</LocID>              <Text>ห้องพักคนไข้ใน พิเศษ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_HIGH_PRIORITY_INPATIENT_WARD_DESCRIPTION</LocID>  <Text>High dependency unit provides higher level of medical care for hospitalized patients. \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์ \n1x พยาบาล \n(Personnel based in On-call room and Nurses station)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_HIGH_PRIORITY_INPATIENT_WARD_DESCRIPTION</LocID>  <Text>ห้องพักคนไข้ใน พิเศษ ทำการดูแลแบบพิเศษที่สูงขึ้น ของคนไข้ในโรงพยาบาล  \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์ \n1x พยาบาล \n(การจัดการพนักงานและสถานีพยาบาล)</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_INTENSIVE_CARE_UNIT</LocID>                       <Text>ICU</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INTENSIVE_CARE_UNIT_DESCRIPTION</LocID>           <Text>Intensive care unit provides superior medical care to critical patients to maintain their vital functions. \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์ \n1x พยาบาล \n(Personnel based in On-call room and Nurses station)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INTENSIVE_CARE_UNIT_DESCRIPTION</LocID>           <Text>ICU ให้การดูแลทางการแพทย์ที่ดีกับผู้ป่วยวิกฤต เพื่อการรักษาที่สำคัญ  \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์ \n1x พยาบาล \n(การจัดการพนักงานและสถานีพยาบาล)</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_GENERAL_SURGERY_OFFICE</LocID>                <Text>ห้องตรวจ ศัลยกรรม</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_GENERAL_SURGERY_OFFICE_DESCRIPTION</LocID>    <Text>ห้องศัลยกรรมทั่วไป เป็นห้องตรวจวินิจฉัย ผู้ป่วยนอกทั่วไป  \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์</Text>  </GameDBLocalizedString>
@@ -234,7 +233,7 @@
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_NEUROLOGY_OFFICE_DESCRIPTION</LocID>          <Text>ห้องตรวจประสาทวิทยา เป็นห้องตรวจวินิจฉัย ผู้ป่วยนอกทั่วไป \n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_OPERATING_ROOM</LocID>                    <Text>ห้องผ่าตัด</Text></GameDBLocalizedString>
-            <!--UPDATED--><GameDBLocalizedString><LocID>ROOM_TYPE_OPERATING_ROOM_DESCRIPTION</LocID><Text>ห้องผ่าตัดมีอุปกรณ์ครบครันสำหรับทุกขั้นตอนการผ่าตัด\n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์ - Surgeon \n1x แพทย์ - Assistant \n1x Anesthesiologist \n1x Surgery nurse \n1x พยาบาล \n(Personnel based in On-call room and Nurses station)</Text></GameDBLocalizedString>
+            <!--UPDATED--><GameDBLocalizedString><LocID>ROOM_TYPE_OPERATING_ROOM_DESCRIPTION</LocID><Text>ห้องผ่าตัดมีอุปกรณ์ครบครันสำหรับทุกขั้นตอนการผ่าตัด\n\nต้องการพนักงานอย่างน้อย: \n1x แพทย์ - ผ่าตัด \n1x แพทย์ - ผู้ช่วย \n1x วิสัญญี \n1x พยาบาลผ่าตัด \n1x พยาบาล \n(การจัดการพนักงานและสถานีพยาบาล)</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_OP</LocID>                        		<Text>ห้องผ่าตัด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_OP_DESCRIPTION</LocID>            		<Text>ห้องผ่าตัด</Text>  </GameDBLocalizedString>
@@ -406,7 +405,7 @@
             <GameDBLocalizedString>      <LocID>OBJECT_MOBILE_WORKSTATION</LocID>             		<Text>Mobile workstation</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_MOBILE_WORKSTATION_DESCRIPTION</LocID> 		<Text>Mobile workstation provides mobile workspace for doctors in certain rooms.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_LIFE_MONITOR_WALL</LocID>             		<Text>จอสัญญาณชีพ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_LIFE_MONITOR_WALL_DESCRIPTION</LocID> 		<Text>Life monitor controls vital signs of patients.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_LIFE_MONITOR_WALL_DESCRIPTION</LocID> 		<Text>จอสัญญาณชีพช่วยดู การควบคุมสัญญาณชีพของคนไข้</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DEFIBRILLATOR</LocID>                        <Text>เครื่อง กระตุกหัวใจ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DEFIBRILLATOR_DESCRIPTION</LocID>            <Text>เครื่องกระตุกหัวใจ เป็นอุปกรณ์สำหรับใช้แก้ไข ภาวะหัวใจเต้นผิดจังหวะ ให้กลับคืนสู่ภาวะปกติ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_FLUID_STAND</LocID>                          <Text>Fluid stand</Text>  </GameDBLocalizedString>
@@ -414,11 +413,11 @@
             <GameDBLocalizedString>      <LocID>OBJECT_OPERATING_ROOM_LIGHS</LocID>                 <Text>โคมไฟผ่าตัด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_OPERATING_ROOM_LIGHS_DESCRIPTION</LocID>     <Text>ไฟทางการแพทย์ติดเพดานที่จำเป็นสำหรับห้องผ่าตัดทุกห้อง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_USG_FAST</LocID>                             <Text>Fast USG</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_USG_FAST_DESCRIPTION</LocID>                 <Text>Special Ultrasonography equipment for Emergency and ICU usage.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_USG_FAST_DESCRIPTION</LocID>                 <Text>อุปกรณ์อัลตราซาวน์พิเศษสำหรับใช้งานฉุกเฉินและ ICU</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ANESTHETIC_MACHINE</LocID>                   <Text>เครื่องดมยาสลบ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ANESTHETIC_MACHINE_DESCRIPTION</LocID>       <Text>เครื่องดมยาสลบ และวงจรระบบหายใจ อุปกรณ์ระงับความรู้สึก และตรวจสอบสัญญาณชีพ ของผู้ป่วย ระหว่างการผ่าตัด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_MONITORING_MACHINE</LocID>                   <Text>จอสัญญาณชีพขั้นสูง</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_MONITORING_MACHINE_DESCRIPTION</LocID>       <Text>Advanced model of Life monitor to control patient's vital signs.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_MONITORING_MACHINE_DESCRIPTION</LocID>       <Text>แบบจำลองขั้นสูงของจอสัญญาณชีพเพื่อควบคุมสัญญาณชีพของคนไข้ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_LIFE_SUPPORT</LocID>                   		<Text>Life support</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_LIFE_SUPPORT_DESCRIPTION</LocID>       		<Text>Mandatory equipment for ICU department.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DEFIBRILATOR_WALL</LocID>                   	<Text>เครื่อง กระตุกหัวใจ</Text>  </GameDBLocalizedString>
@@ -432,12 +431,12 @@
             <GameDBLocalizedString>      <LocID>OBJECT_OXYGEN_TANK</LocID>                   		<Text>ถังออกซิเจน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_OXYGEN_TANK_DESCRIPTION</LocID>       		<Text>อุปกรณ์ตกแต่ง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_MECHANICAL_VENTILATOR</LocID>                <Text>เครื่องช่วยหายใจ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_MECHANICAL_VENTILATOR_DESCRIPTION</LocID>    <Text>Mechanical ventilator provides artificial ventilation to patients.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_MECHANICAL_VENTILATOR_DESCRIPTION</LocID>    <Text>เครื่องช่วยหายใจให้ผู้ป่วยด้วยเครื่องช่วยหายใจ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_LAB_EQUIPMENT2</LocID>                       <Text>อุปกรณ์แล็บ ขนาดเล็ก</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_LAB_EQUIPMENT2_DESCRIPTION</LocID>           <Text>Glassware is mandatory equipment of labs, it is used to prepare different samples. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_LAB_EQUIPMENT2_DESCRIPTION</LocID>           <Text>อุปกรณ์แล็บ ขนาดเล็ก(พวกเครื่องแก้ว)เป็นอุปกรณ์ที่จำเป็นสำหรับห้องปฏิบัติการเพื่อ ใช้เตรียมตัวอย่างที่แตกต่างกัน </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ANGIO_CONTROL_PANEL</LocID>                	<Text>แผงควบคุม เครื่องเอ็กซเรย์ หลอดเลือด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ANGIO_CONTROL_PANEL_DESCRIPTION</LocID>    	<Text>It controls the angiography machine.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_RADIOLOGY_VIEWER</LocID>                		<Text>Radiology viewer</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_RADIOLOGY_VIEWER</LocID>                		<Text>ที่ส่องภาพอ็กซ์เรย์</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_RADIOLOGY_VIEWER_DESCRIPTION</LocID>    		<Text>Radiology viewer is used to analyze radiodiagnostic images.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ANGIO_IMAGING</LocID>                		<Text>จอภาพดิจิทัลผ่าตัด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ANGIO_IMAGING_DESCRIPTION</LocID>    		<Text>การถ่ายภาพดิจิทัลแบบเรียลไทม์ระหว่างผ่าตัด</Text>  </GameDBLocalizedString>
@@ -499,7 +498,7 @@
             <GameDBLocalizedString>      <LocID>OBJECT_ULTRASONOGRAPH_DESCRIPTION</LocID>           <Text>Ultrasonograph is mandatory equipment for Diagnostic sonography unit.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DIALISIS</LocID>                         	<Text>เครื่องฟอกไต</Text>  </GameDBLocalizedString>
            <!--UPDATED--> <GameDBLocalizedString>      <LocID>OBJECT_DIALISIS_DESCRIPTION</LocID>    <Text>เครื่องฟอกไตเป็นอุปกรณ์ที่จำเป็นสำหรับหน่วยตรวจวินิจฉัยที่แผนกประสาทวิทยาและศัลยกรรมทั่วไปสามารถใช้ในการฟอกไตหรือพลาสม่าเฟเรซิส</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_ELECTROENCEPHALOGRAPH</LocID>                <Text>EEG เครื่องตรวจวัดคลื่นไฟฟ้าสมอง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ELECTROENCEPHALOGRAPH</LocID>                <Text>EEG เครื่องตรวจ วัดคลื่นไฟฟ้าสมอง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ELECTROENCEPHALOGRAPH_DESCRIPTION</LocID>    <Text>Electroencephalograph เป็นอุปกรณ์บังคับพิเศษที่บันทึกรูปแบบไฟฟ้าในสมองของมนุษย์</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ELASTOGRAPH</LocID>                         	<Text>Elastograph การตรวจหาภาวะพังผืดในเนื้อตับ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ELASTOGRAPH_DESCRIPTION</LocID>             	<Text>Elastograph is special mandatory equipment that is used for measuring elastic properties and stiffness of soft tissues.</Text>  </GameDBLocalizedString>
@@ -516,25 +515,25 @@
             <GameDBLocalizedString>      <LocID>OBJECT_SPIROMETER</LocID>                         	<Text>เครื่องวัด สมรรถภาพปอด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_SPIROMETER_DESCRIPTION</LocID>             	<Text>อุปกรณ์ที่ใช้วัดปริมาตร ของอากาศที่หายใจเข้า และออกจากปอด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_SHOCKWAVE</LocID>                         	<Text>การรักษาด้วยคลื่นกระแทก</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_SHOCKWAVE_DESCRIPTION</LocID>             	<Text>Extracorporeal shockwave therapy is mainly used as a non-invasive treatment of kidney stones.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_SHOCKWAVE_DESCRIPTION</LocID>             	<Text>การรักษาด้วยคลื่นกระแทกส่วนใหญ่จะใช้ เป็นการรักษานิ่วในไตแบบไม่รุกราน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ELECTROMYOGRAPH</LocID>                      <Text>EMG</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_ELECTROMYOGRAPH_DESCRIPTION</LocID>          <Text>Electromyograph is used to measure electrical signals in muscles.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ELECTROMYOGRAPH_DESCRIPTION</LocID>          <Text>เครื่องวัดคลื่นไฟฟ้าคือสัญญาณไฟฟ้าที่ใช้ในการวัดกล้ามเนื้อ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_LAB_ANALYZER</LocID>                      	<Text>เครื่องวิเคราะห์ห้องปฏิบัติการ </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_LAB_ANALYZER_DESCRIPTION</LocID>          	<Text>Multi-purpose lab equipment used to analyze various biological substances and samples.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_LAB_ANALYZER_DESCRIPTION</LocID>          	<Text>อุปกรณ์ห้องปฏิบัติการอเนกประสงค์ที่ใช้ในการวิเคราะห์สารชีวภาพและตัวอย่างต่างๆ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_STOOL_ANALYZER</LocID>                      	<Text>เครื่องวิเคราะห์อุจจาระ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_STOOL_ANALYZER_DESCRIPTION</LocID>          	<Text>Stool analyzer is special lab equipment used to analyze human stool samples.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_THERMAL_CYCLER</LocID>                      	<Text>Thermal cycler</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_THERMAL_CYCLER_DESCRIPTION</LocID>          	<Text>Laboratory equipment for analyzing DNA polymerase.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_STOOL_ANALYZER_DESCRIPTION</LocID>          	<Text>เครื่องวิเคราะห์อุจจาระเป็นอุปกรณ์ห้องปฏิบัติการพิเศษที่ใช้ในการวิเคราะห์ตัวอย่างอุจจาระของคน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_THERMAL_CYCLER</LocID>                      	<Text>เครื่องเพิ่มปริมาณดีเอ็นเอ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_THERMAL_CYCLER_DESCRIPTION</LocID>          	<Text>อุปกรณ์ห้องปฏิบัติการสำหรับการวิเคราะห์ดีเอ็นเอโพลีเมอเรส</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ELEKTROCARDIOGRAPH</LocID>                   <Text>เครื่องตรวจวัด คลื่นไฟฟ้าหัวใจ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_ELEKTROCARDIOGRAPH_DESCRIPTION</LocID>       <Text>Electrocardiograph is used to measure electrical activity of the heart.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ELEKTROCARDIOGRAPH_DESCRIPTION</LocID>       <Text>เครื่องตรวจคลื่นไฟฟ้าหัวใจ ที่ใช้วัดกิจกรรมไฟฟ้าของหัวใจ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_CAMPIMETER</LocID>                   		<Text>เครื่องวัดสายตา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_CAMPIMETER_DESCRIPTION</LocID>       		<Text>อุปกรณ์ที่ใช้ในการตรวจสอบ ความผิดปกติของสายตา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ROOF_WALL</LocID>                   			<Text>กำแพงหลังคา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_ROOF_WALL_DESCRIPTION</LocID>       			<Text>อุปกรณ์ตกแต่งหลังคา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_MEAL_TRAY_DELIVERY</LocID>                   <Text>รถเข็นอาหาร</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_MEAL_TRAY_DELIVERY_DESCRIPTION</LocID>       <Text>รถเข็นถาดอาหาร ของคนไข้ใน</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_OPHTHALMIC_EQUIPMENT</LocID>                 <Text>Ophthalmic equipment</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_OPHTHALMIC_EQUIPMENT_DESCRIPTION</LocID>     <Text>A set of instruments for different eye tests.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_OPHTHALMIC_EQUIPMENT</LocID>                 <Text>อุปกรณ์ที่เกี่ยวกับตา</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_OPHTHALMIC_EQUIPMENT_DESCRIPTION</LocID>     <Text>ชุดเครื่องมือสำหรับการทดสอบสายตาแบบต่างๆ</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_SIMPLE_CROSS</LocID>       			<Text>กากบาท</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_SIMPLE_CROSS_DESCRIPTION</LocID>       <Text>สติกเกอร์ ติดผนัง</Text>  </GameDBLocalizedString>
@@ -566,7 +565,7 @@
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_CLEANING</LocID>       			<Text>ห้องเก็บอุปกรณ์ ทำความสะอาด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_WC</LocID>       			        <Text>สุขา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_OPERATING</LocID>       			<Text>ห้องผ่าตัด</Text>  </GameDBLocalizedString>
-            <!--UPDATED--><GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_NEURODIAGNOSTIC</LocID>       	<Text>Neuroexam unit</Text>  </GameDBLocalizedString>
+            <!--UPDATED--><GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_NEURODIAGNOSTIC</LocID>       	<Text>หน่วยระบบประสาท</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_XRAY</LocID>       			    <Text>เอ็กซเรย์</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_ROOM_COMMON</LocID>       			    <Text>ห้องพักพนักงาน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_INPATIENT_WARD</LocID>       			<Text>หน่วยสังเกตการณ์</Text>  </GameDBLocalizedString>
@@ -625,9 +624,9 @@
             <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_CT</LocID>                            <Text>เครื่องซีทีสแกน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_CT_DESCRIPTION</LocID>                <Text>การสแกนเอกซเรย์คอมพิวเตอร์เป็นวิธีหรือเทคนิคการถ่ายภาพเพื่อการวินิจฉัยที่สร้างภาพอวัยวะภายในเนื้อเยื่อหลอดเลือดโดยละเอียด </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_MRI</LocID>                           <Text>เครื่องเอ็มอาร์ไอ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_MRI_DESCRIPTION</LocID>               <Text>Magnetic resonance imaging creates detailed images of the body using magnetic field and radio waves technique.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PREFAB_OBJECT_MRI_DESCRIPTION</LocID>               <Text>เครื่องเอ็มอาร์ไอใช้สร้างภาพที่มีรายละเอียดของร่างกายโดยใช้เทคนิคสนามแม่เหล็กและคลื่นวิทยุ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_ANGIOGRAPH</LocID>                 <Text>เครื่อง X-ray หลอดเลือด</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_ANGIOGRAPH_DESCRIPTION</LocID>     <Text>Angiography machine provides technique also called arteriography that visualize inside of the blood vessels and organs of the body.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_ANGIOGRAPH_DESCRIPTION</LocID>     <Text>เครื่อง X-ray หลอดเลือด มีเทคนิคที่เรียกว่าการถ่ายภาพรังสีหลอดเลือด ที่แสดงให้เห็นถึงหลอดเลือดและอวัยวะในร่างกายมนุษย์</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_GP_OFFICE_SIMPLE_ABBR</LocID>            <Text>ห้องตรวจ - 6 x 4</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PREFAB_ROOM_X_RAY_ABBR</LocID>                       <Text>ห้องเอ็กซเรย์ - 8 x 6</Text>  </GameDBLocalizedString>
