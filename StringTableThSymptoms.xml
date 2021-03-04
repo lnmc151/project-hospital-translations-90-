@@ -382,7 +382,7 @@
             <GameDBLocalizedString>      <LocID>SYM_SAGGING_SHOULDER_DESCRIPTION</LocID>                    <Text>ไหล่หลบตา </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_SCRATCHINESS_IN_THE_EYE</LocID>                         <Text>เกาตา </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_SCRATCHINESS_IN_THE_EYE_DESCRIPTION</LocID>             <Text>รอยขีดข่วนในบริเวณรอบดวงตา</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_SEPTIC_SHOCK</LocID>                                    <Text>Septic shock</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SEPTIC_SHOCK</LocID>                                    <Text>ช็อกจากการติดเชื้อ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_SEPTIC_SHOCK_DESCRIPTION</LocID>                        <Text>ภาวะแทรกซ้อนที่คุกคามถึงชีวิตของการติดเชื้อที่สามารถทำลายระบบอวัยวะต่างๆทำให้ล้มเหลว </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_SEVERE_ARM_PAIN</LocID>                                 <Text>เจ็บปวดแขนมาก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_SEVERE_ARM_PAIN_DESCRIPTION</LocID>                     <Text>อาการปวดแขนอย่างรุนแรงอาจเกิดขึ้นได้จากการบาดเจ็บที่แตกต่างกันหรือหากมาพร้อมกับแรงกดที่หน้าอกอาจเป็นสัญญาณของอาการหัวใจวาย </Text>  </GameDBLocalizedString>
@@ -474,14 +474,14 @@
             <GameDBLocalizedString>      <LocID>SYM_UNCONSCIOUSNESS_DESCRIPTION</LocID>                     <Text>สถานะของการขาดการตอบสนองที่สมบูรณ์หรือใกล้สมบูรณ์ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_UNSTOPPABLE_BLEEDING</LocID>                            <Text>เลือดออกไม่หยุด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_UNSTOPPABLE_BLEEDING_DESCRIPTION</LocID>                <Text>เรียกอีกอย่างว่าการตกเลือดเป็นภาวะที่เลือดไหลออกจากระบบไหลเวียนโลหิตอย่างรวดเร็ว เลือดออกไม่หยุดอาจเกิดจากบาดแผลขนาดใหญ่หรือจากความเสียหายของหลอดเลือดดำหรือหลอดเลือดแดงหลายเส้น </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_VISUAL_FIELD_LIMITED</LocID>                            <Text>Visual field limited</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_VISUAL_FIELD_LIMITED_DESCRIPTION</LocID>                <Text>Perimetry has revealed that the patient has a limited visual field.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_VISUAL_FIELD_LIMITED</LocID>                            <Text>ลานสายตาถูกจำกัด</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_VISUAL_FIELD_LIMITED_DESCRIPTION</LocID>                <Text>การวัดลานสายตาได้พบว่าคนไข้นั้น มีลานสายตาถูกจำกัด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_VITAMIN_DEFICIENCY</LocID>                              <Text>การขาดวิตามิน </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_VITAMIN_DEFICIENCY_DESCRIPTION</LocID>                  <Text>ขาดวิตามินแร่ธาตุหรือสารอาหารอื่น ๆ ในกระแสเลือด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_VOMITING</LocID>                                        <Text>อาเจียน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_VOMITING_DESCRIPTION</LocID>                            <Text>หรือที่เรียกว่าอีเมซิสคือการขับออกจากกระเพาะอาหารโดยไม่สมัครใจทางปากหรือบางครั้งทางจมูก </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_WADDLING_GAIT</LocID>                                   <Text>Waddling gait</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_WADDLING_GAIT_DESCRIPTION</LocID>                       <Text>Abnormal type of walking, present when the hips are affected by various defects.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WADDLING_GAIT</LocID>                                   <Text>เดินแบบเต๊าะแตะ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WADDLING_GAIT_DESCRIPTION</LocID>                       <Text>ประเภทของการเดินผิดปกติ เกิดจากสะโพกได้รับ ผลกระทบจาก ข้อบกพร่องต่างๆ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_WALKING_DIFFICULTIES</LocID>                            <Text>มีปัญหาในการเดิน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_WALKING_DIFFICULTIES_DESCRIPTION</LocID>                <Text>ความยากลำบากในการเดินตรงหรือรักษาสมดุล </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_WARMTH</LocID>                                          <Text>รู้สึกร้อน บริเวณที่บาดเจ็บ</Text>  </GameDBLocalizedString>
@@ -774,7 +774,7 @@
             <GameDBLocalizedString>      <LocID>SYM_LYME_DISEASE_DETECTED_DESCRIPTION</LocID>               <Text>Serology test has detected Borrelia antibodies.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_M._TUBERCULOSIS_DETECTED</LocID>                        <Text>พบวัณโรค</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_M._TUBERCULOSIS_DETECTED_DESCRIPTION</LocID>            <Text>วัณโรคที่เกิดจากเชื้อแบคทีเรียถูกตรวจพบโดยปฏิกิริยาลูกโซ่โพลีเมอเรส</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_MAC_DETECTED</LocID>                                    <Text>MAC detected</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MAC_DETECTED</LocID>                                    <Text>พบ MAC</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_MAC_DETECTED_DESCRIPTION</LocID>                        <Text>Mycobacterium avium complex has been detected by polymerase chain reaction.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_MASTOID_CELLS_INFECTED</LocID>                          <Text>พบเต้านมอักเสบ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_MASTOID_CELLS_INFECTED_DESCRIPTION</LocID>              <Text>การสแกน CT พบว่ามีการติดเชื้อของเซลล์กกหูของกระดูกขมับ </Text>  </GameDBLocalizedString>
@@ -824,8 +824,8 @@
             <GameDBLocalizedString>      <LocID>SYM_OUT-OF-PLACE_SHOULDER_DESCRIPTION</LocID>               <Text>การเอ็กซเรย์ความผิดปกติทางสายตาของผู้ป่วยและไหล่หลุดจากตำแหน่งที่ยืนยันว่าไหล่หลุด </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_OUTER_EAR_INFECTED</LocID>                              <Text>การติดเชื้อในหูชั้นนอก </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_OUTER_EAR_INFECTED_DESCRIPTION</LocID>                  <Text>การตรวจหูโดยการมองเห็นโดยตรงของหูชั้นนอกพบว่ามีการติดเชื้อแบคทีเรีย </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_P._AERUGINOSA</LocID>                                   <Text>P. aeruginosa</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_P._AERUGINOSA_DESCRIPTION</LocID>                       <Text>การเพาะเลี้ยงจุลินทรีย์ตรวจพบว่ามีเชื้อ Pseudomonas aeruginosa ซึ่งเป็นสาเหตุของการติดเชื้อ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_P._AERUGINOSA</LocID>                                   <Text>ซูโดโมนาสแอรูจิโนซา</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_P._AERUGINOSA_DESCRIPTION</LocID>                       <Text>การเพาะเลี้ยงจุลินทรีย์ตรวจพบว่ามีเชื้อ ซูโดโมนาสแอรูจิโนซา ซึ่งเป็นสาเหตุของการติดเชื้อ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_P._MENINGITIS</LocID>                                   <Text>Streptococcus pneumoniae</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_P._MENINGITIS_DESCRIPTION</LocID>                       <Text>การเพาะเลี้ยงจุลินทรีย์ในน้ำไขสันหลังตรวจพบว่ามีเชื้อ Streptococcus pneumoniae ซึ่งเป็นที่ทราบกันดีว่าทำให้เยื่อหุ้มสมองอักเสบ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_PANCREATIC_ELASTASE_LOW_LEVEL</LocID>                   <Text>Elastase - low level</Text>  </GameDBLocalizedString>
@@ -910,8 +910,8 @@
             <GameDBLocalizedString>      <LocID>SYM_STOOL_CONTAINING_BACTERIAS_DESCRIPTION</LocID>          <Text>การเพาะเชื้อแบคทีเรียจากตัวอย่างอุจจาระยืนยันว่ามีแคมไพโลแบคเตอร์ เจจูไน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_STREP_SKIN_INFECTION</LocID>                            <Text>Strep skin infection</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_STREP_SKIN_INFECTION_DESCRIPTION</LocID>                <Text>Bacterial cultivation of a skin swab confirmed skin infection by Streptococcal species.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_STREPTOBACILLUS_DETECTED</LocID>                        <Text>Streptobacillus detected</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_STREPTOBACILLUS_DETECTED_DESCRIPTION</LocID>            <Text>Serology testing detected antibodies specific for Streptobacillus.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STREPTOBACILLUS_DETECTED</LocID>                        <Text>พบสเตรปโทบาซิลลัส</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_STREPTOBACILLUS_DETECTED_DESCRIPTION</LocID>            <Text>การทดสอบทางเซรุ่มวิทยาตรวจพบแอนติบอดีจำเพาะสำหรับสเตรปโทบาซิลลัส </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_STRESS_VERTEBRAL_FRACTURE</LocID>                       <Text>Vertebral stress fracture</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_STRESS_VERTEBRAL_FRACTURE_DESCRIPTION</LocID>           <Text>MRI showed a small stress fracture of a single lumbar vertebra.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_SUPERFICIAL_THROMBOSIS</LocID>                          <Text>การเกิดลิ่มเลือดอุดตันผิวเผิน</Text>  </GameDBLocalizedString>
