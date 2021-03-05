@@ -306,7 +306,7 @@
             <GameDBLocalizedString>      <LocID>UNLOCK_DEPARTMENT_HOSPITALIZATION</LocID> <Text>การนอนรักษาพยาบาลที่ {1}</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>MONEY_GRANT</LocID>                     <Text> {1} เงินสนับสนุนจากรัฐ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>MORE_MOBILE_PATIENTS</LocID>            <Text>มีจำนวนคนไข้คลินิกมากกว่า {1} ต่อวัน</Text>  </GameDBLocalizedString>
-            <!-- UPDATED --><GameDBLocalizedString><LocID>MORE_IMMOBILE_PATIENTS</LocID><Text>มีคนไข้จากรถพยาบามากกว่า {1} ต่อวัน</Text>  </GameDBLocalizedString>
+            <!-- UPDATED --><GameDBLocalizedString><LocID>MORE_IMMOBILE_PATIENTS</LocID><Text>มีคนไข้จากรถพยาบาลมากกว่า {1} ต่อวัน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>UNLOCK_AMBULANCES</LocID>               <Text>รถพยาบาล</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>YESTERDAY</LocID>        	                <Text>เมื่อวาน</Text>  </GameDBLocalizedString>
