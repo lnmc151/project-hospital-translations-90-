@@ -297,7 +297,7 @@
             <GameDBLocalizedString>      <LocID>SYM_NAUSEA</LocID>                                          <Text>คลื่นไส้</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_NAUSEA_DESCRIPTION</LocID>                              <Text>คลื่นไส้คือความรู้สึกเจ็บป่วยและไม่สบายตัวโดยมีแนวโน้มที่จะอาเจียน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_NECK_PAIN</LocID>                                       <Text>ปวดคอ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_NECK_PAIN_DESCRIPTION</LocID>                           <Text>ผู้ป่วยมีอาการปวดคออย่างรุนแรง </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_NECK_PAIN_DESCRIPTION</LocID>                           <Text>ผู้ป่วยมีอาการปวดที่ลำคออย่างรุนแรง </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_NOSEBLEEDS</LocID>                                      <Text>เลือดกำเดา </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_NOSEBLEEDS_DESCRIPTION</LocID>                          <Text>ผู้ป่วยมีเลือดออกทางจมูก </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_NUMBNESS</LocID>                                        <Text>ชาตามร่างกาย</Text>  </GameDBLocalizedString>
@@ -331,7 +331,7 @@
             <GameDBLocalizedString>      <LocID>SYM_PALE_SKIN</LocID>                                       <Text>ผิวซีด</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_PALE_SKIN_DESCRIPTION</LocID>                           <Text>สีผิวอ่อนผิดปกติเมื่อเทียบกับสีผิวปกติ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_PALPITATIONS</LocID>                                    <Text>ใจสั่น </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_PALPITATIONS_DESCRIPTION</LocID>                        <Text>หัวใจเต้นเร็วหรือกระพือปีก </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PALPITATIONS_DESCRIPTION</LocID>                        <Text>ใจสั่นรัวๆหรืออย่างรวดเร็ว</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_PERSISTENT_URGE_TO_URINATE</LocID>                      <Text>ปัสสาวะ แบบเร่งรีบ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_PERSISTENT_URGE_TO_URINATE_DESCRIPTION</LocID>          <Text>ความรู้สึกปวด อยากปัสสาวะอย่างรุนแรง เกิดขึ้นอย่างฉับพลัน และไม่สามารถรั้งรอต่อไปได้ ต้องเข้าห้องนํ้าอย่างเร่งด่วน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_PETECHIAE</LocID>                                       <Text>จ้ำเลือด</Text>  </GameDBLocalizedString>
@@ -379,8 +379,8 @@
             <GameDBLocalizedString>      <LocID>SYM_RINGING_IN_THE_EARS</LocID>                             <Text>หูอื้อ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_RINGING_IN_THE_EARS_DESCRIPTION</LocID>                 <Text>เรียกอีกอย่างว่าเสียงเรียกเข้าในหูคือความรู้สึกของการได้ยินเสียงเรียกเข้าหรือเสียงอื่น ๆ ที่ไม่มีแหล่งภายนอก </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_SAGGING_SHOULDER</LocID>                                <Text>ไหล่ห้อยลง</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_SAGGING_SHOULDER_DESCRIPTION</LocID>                    <Text>ไหล่หลบตา </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_SCRATCHINESS_IN_THE_EYE</LocID>                         <Text>เกาตา </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SAGGING_SHOULDER_DESCRIPTION</LocID>                    <Text>ไหล่มันตกๆ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_SCRATCHINESS_IN_THE_EYE</LocID>                         <Text>คันตา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_SCRATCHINESS_IN_THE_EYE_DESCRIPTION</LocID>             <Text>รอยขีดข่วนในบริเวณรอบดวงตา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_SEPTIC_SHOCK</LocID>                                    <Text>ช็อกจากการติดเชื้อ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_SEPTIC_SHOCK_DESCRIPTION</LocID>                        <Text>ภาวะแทรกซ้อนที่คุกคามถึงชีวิตของการติดเชื้อที่สามารถทำลายระบบอวัยวะต่างๆทำให้ล้มเหลว </Text>  </GameDBLocalizedString>
