@@ -9,20 +9,21 @@
         </Contributors>
 
         <LocalizedStrings>
-            <GameDBLocalizedString>      <LocID>SYM_ESCHAR</LocID>                                    <Text>Eschar</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_ESCHAR_DESCRIPTION</LocID>                        <Text>Dead tissue in a full thickness wound.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_VIREMIA</LocID>                                   <Text>Viremia</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_VIREMIA_DESCRIPTION</LocID>                       <Text>Viremia is a medical condition when viruses enter the bloodstream.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_DISTRIBUTIVE_SHOCK</LocID>                        <Text>Distributive shock</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_DISTRIBUTIVE_SHOCK_DESCRIPTION</LocID>            <Text>Distributive shock results from abnormal distribution of blood flow in smallest blood vessels.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HYPOVOLEMIA</LocID>                               <Text>Hypovolemia</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HYPOVOLEMIA_DESCRIPTION</LocID>                   <Text>State of decreased intravascular volume  - loss of extracellular fluids.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_TACHYPNEA</LocID>                                 <Text>Tachypnea</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_TACHYPNEA_DESCRIPTION</LocID>                     <Text>Fast breathing as a reaction of the organism to higher concentrations of carbon dioxide.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_BRADYPNEA</LocID>                                 <Text>Bradypnea</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_BRADYPNEA_DESCRIPTION</LocID>                     <Text>Abnormally slow breathing.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HYPOXEMIA</LocID>                                 <Text>Hypoxemia</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HYPOXEMIA_DESCRIPTION</LocID>                     <Text>Hypoxemia is a medical condition with abnormally low level of oxygen in the blood.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ESCHAR</LocID>                                    <Text>ผิวหนังตายแห้ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_ESCHAR_DESCRIPTION</LocID>                        <Text>เนื้อเยื่อตายเป็นแผลหนา</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_VIREMIA</LocID>                                   <Text>ไวรัสในเลือด</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_VIREMIA_DESCRIPTION</LocID>                       <Text>ไวรัสในเลือด คือสภาวะทางการแพทย์ที่ไวรัสนั้นได้เข้าสู่กระแสเลือด</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DISTRIBUTIVE_SHOCK</LocID>                        <Text>ภาวะช็อกจากปริมาณเลือดลดลง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_DISTRIBUTIVE_SHOCK_DESCRIPTION</LocID>            <Text>ภาวะช็อกจากปริมาณเลือดลดลง เป็นผลจากการกระจายตัว ของการไหลเวียนอย่างผิดปกติของเลือดในเส้นเลือดเล็กๆ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPOVOLEMIA</LocID>                               <Text>ของเหลวในร่างกายพร่อง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPOVOLEMIA_DESCRIPTION</LocID>                   <Text>ภาวะที่ปริมาณของเหลวในหลอดเลือดลดลง - การสูญเสียของเหลวนอกเซลล์</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TACHYPNEA</LocID>                                 <Text>หายใจเร็ว</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_TACHYPNEA_DESCRIPTION</LocID>                     <Text>การหายใจเร็วเป็นปฏิกริยาของสิ่งมีชีวิตต่อคาร์บอนไดออกไซด์ที่มีความเข้มข้นสูง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BRADYPNEA</LocID>                                 <Text>หายใจช้า</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BRADYPNEA_DESCRIPTION</LocID>                     <Text>อัตราการหายใจช้าลงอย่างผิดปกติ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPOXEMIA</LocID>                                 <Text>เนื้อเยื่อพร่องอ็อกซิเจน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HYPOXEMIA_DESCRIPTION</LocID>                     <Text>เนื้อเยื่อพร่องอ็อกซิเจน เป็นสภาวะทางการแพทย์ ที่เลือดนั้นมีปริมาณอ็อกซิเจนต่ำอย่างผิดปกติ</Text>  </GameDBLocalizedString>
+
         </LocalizedStrings>
     </GameDBStringTable>
 </Database>
