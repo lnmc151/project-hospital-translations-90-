@@ -204,7 +204,7 @@
             <!--INGAME TUTORIALS-->
             <!-- ============== -->
             <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_BUILDING</LocID>                    <Text>การสร้างฐานราก</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_BUILDING_MODE</LocID>               <Text><![CDATA[เลือก <b><i>โหมดอาคาร</i></b>.\n\nTip: ความกว้างที่มีประโยชน์ที่สุดสำหรับห้องคือ 6 กระเบื้องและสำหรับทางเดิน 4 กระเบื้องดังนั้นความกว้างที่แนะนำของอาคารคือ 16 กระเบื้อง ]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_BUILDING_MODE</LocID>               <Text><![CDATA[เลือก <b><i>โหมดอาคาร</i></b>.\n\n Tip: ความกว้างที่มีประโยชน์ที่สุดสำหรับห้องคือ 6 กระเบื้องและสำหรับทางเดิน 4 กระเบื้องดังนั้นความกว้างที่แนะนำของอาคารคือ 16 กระเบื้อง ]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_BUILDING_FOUNDATION_TOOLS</LocID>   <Text><![CDATA[ไปต่อ <b><i>เครื่องมือรองพื้น </i></b>.]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_BUILDING_FOUDATIONS</LocID>         <Text><![CDATA[คลิ๊กที่ <b><i>ฐานรากอาคาร </i></b> ไอคอนแล้วลากเมาส์ไปบนพื้นที่ที่ต้องการ\n\nTip: ฐานรากสามารถลบได้ด้วยเครื่องมือไดนาไมท์เท่านั้น]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_BUILDING_CONSTRUCTION_TOOLS</LocID> <Text><![CDATA[ไปต่อ <b><i>construction tools</i></b>.]]></Text>   </GameDBLocalizedString>
@@ -235,7 +235,7 @@
             <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_AMBULANCE_BUILDING_MODE</LocID>     <Text><![CDATA[เลือก <b><i>โหมดอาคาร</i></b>.]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_AMBULANCE_CONSTRUCTION_TOOLS</LocID><Text><![CDATA[ไปที่<b><i>เครื่องมือก่อสร้าง </i></b>.]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_AMBULANCE_CLICK</LocID>             <Text><![CDATA[คลิ๊กที่ <b><i>รถพยาบาล</i></b> และเลือกสี]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_AMBULANCE_PLACE</LocID>             <Text><![CDATA[วางรถพยาบาลของคุณที่  <b><i>ลานจอดรถ.</i></b>.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_AMBULANCE_PLACE</LocID>             <Text><![CDATA[วางรถพยาบาลของคุณที่  <b><i>ลานจอดรถ.</i></b>]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_AMBULANCE_PANEL</LocID>             <Text><![CDATA[เปิด <b><i>แผงรถพยาบาล </i></b>. ที่นี่คุณสามารถควบคุมจำนวนผู้ป่วยสูงสุดที่นำโดยรถพยาบาล \n\nTip: จำนวนผู้ป่วยขึ้นอยู่กับการตั้งค่าของบริษัทประกันภัย]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_ELEVATORS</LocID>                   <Text>ลิฟต์ </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>INGAME_TUTORIAL_ELEVATORS_BUILDING_MODE</LocID>     <Text><![CDATA[เลือก <b><i>โหมดอาคาร</i></b>.]]></Text>  </GameDBLocalizedString>

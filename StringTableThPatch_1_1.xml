@@ -22,7 +22,7 @@
             <GameDBLocalizedString>      <LocID>CAN_NOT_BE_LOADED_MODS</LocID>                   <Text>เกมได้รับการบันทึกด้วย mods / addons ที่ยังไม่ได้ติดตั้งและไม่สามารถโหลดได้</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>GAME_SAVED</LocID>                               <Text>บันทึกเกม</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SCENARIO_CREATED</LocID>                         <Text>Scenario created.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SCENARIO_CREATED</LocID>                         <Text>สร้าง scenario แล้ว</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>WORKSHOP</LocID>                                 <Text>เวิร์คช็อป</Text>  </GameDBLocalizedString>
 
@@ -32,11 +32,11 @@
             
             <GameDBLocalizedString>      <LocID>WORKSHOP_UPLOAD</LocID>                          <Text>อัพโหลดขึ้น workshop</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>WORKSHOP_FOLDER</LocID>                          <Text>โฟล์เดอร์</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WORKSHOP_PREVIEW_HINT</LocID>                    <Text>วาง (รูปภาพที่เป็นไฟล์ .png Ex.preview.png) ในโฟล์เดอร์.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WORKSHOP_PREVIEW_HINT</LocID>                    <Text>วาง (รูปภาพที่เป็นไฟล์ .png Ex.preview.png) ในโฟล์เดอร์</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>WORKSHOP_NAME</LocID>                            <Text>ชื่อ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>WORKSHOP_DESCRIPTION</LocID>                     <Text>คำอธิบาย</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>WORKSHOP_BUTTON_UPLOAD</LocID>                   <Text>อัพโหลด</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WORKSHOP_UPDATING</LocID>                        <Text>อัพเดท (อาจใช้เวลาเป็นนาที)...</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WORKSHOP_UPDATING</LocID>                        <Text>อัปเดต (อาจใช้เวลาเป็นนาที)...</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>WORKSHOP_BROWSING</LocID>                        <Text>ค้นหาในเวิกร์ช๊อป</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>WORKSHOP_BROWSING_TIPS</LocID>                   <Text>Project Hospital uses the Steam web interface to browse for workshop mods and scenarios.\nAfter subscribing to new items please restart the game to allow Steam to download the content</Text>  </GameDBLocalizedString>
@@ -44,11 +44,11 @@
             <GameDBLocalizedString>      <LocID>SAVE_INFO_LABEL</LocID>                          <Text>ข้อมูล:</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SAVE_INFO_TIME</LocID>                           <Text><![CDATA[<b>เวลา:  </b>วัน ]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SAVE_INFO_BALANCE</LocID>                        <Text><![CDATA[<b>เงิน:  </b>$]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAVE_INFO_OLD_VERSION</LocID>                    <Text>บันทึก Project Hospital 1.0</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAVED_WITH_ADDONS</LocID>                        <Text>บันทึก addons:</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ADDON_NOT_INSTALLED</LocID>                      <Text>(ไม่ได้ติดตั้ง)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAVE_INFO_OLD_VERSION</LocID>                    <Text>บันทึกด้วย Project Hospital เวอร์ชั่น 1.0</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAVED_WITH_ADDONS</LocID>                        <Text>บันทึกพร้อมด้วย addons:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ADDON_NOT_INSTALLED</LocID>                      <Text>(ยังไม่ได้ติดตั้ง!)</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>TREATMENT_HOSPITALIZATION_UNAVAILABLE</LocID>    <Text>ไม่สามารถเข้ารับการรักษาในโรงพยาบาลได้ ตรวจสอบเตียงฟรีหรือลองเข้ารับการรักษาในโรงพยาบาลที่มีลำดับความสำคัญสูงกว่า</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TREATMENT_HOSPITALIZATION_UNAVAILABLE</LocID>    <Text> ตรวจสอบเตียงฟรีหรือลองเข้ารับการรักษาในโรงพยาบาลที่มีลำดับความสำคัญสูงกว่า</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_FLOORS_PLACE</LocID>            <Text>วางชั้น</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_FLOORS_DELETE</LocID>           <Text>ลบชั้น</Text>  </GameDBLocalizedString>
@@ -67,30 +67,30 @@
             
             <GameDBLocalizedString>      <LocID>PRESTIGE_PATIENTS_ALL_DAY</LocID>                <Text>ความพึงพอใจของผู้ป่วย(ดูและจากไป)</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>UI_ROOM_PLANNING_ONLY</LocID>                    <Text>วางแผนเท่านั้น(ไม่ได้อยู่ในประกัน)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UI_ROOM_PLANNING_ONLY</LocID>                    <Text>วางแผนเท่านั้น(ไม่ได้อยู่ในโครงฐาน)</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>TOOLTIP_REQUIRED_HOSPITALIZATION</LocID>         <Text>จำเป็นต้องเข้ารักษาในโรงพยาบาล:</Text>  </GameDBLocalizedString>
             
             <!-- Insurance objectives -->
-            <GameDBLocalizedString>      <LocID>SAVE_PATIENT_AFTER_COLLAPSES</LocID>                           <Text>บันทึกผู้ป่วยหลังจาก{1} ยุบ(s)</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WORKING_CLINIC_AT_ANY_SPECIALIZED_DEPARTMENT</LocID>           <Text>เปิดคลินิกที่แผนกเฉพาะทาง</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WORKING_HOSPITALIZATION_AT_ANY_SPECIALIZED_DEPARTMENT</LocID>  <Text>เปิดโรงพยาบาลที่แผนกเฉพาะทาง</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERFORM_SURGERY</LocID>                                        <Text>ดำเนินการ {1} ผ่าตัด/ผ่าตัด</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PRESTIGE_AT_ANY_SPECIALIZED_DEPARTMENT</LocID>                 <Text>เข้าถึงชื่อเสียง {1} ที่แผนกเฉพาะทางใดก๋ได่</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TREATED_PATIENTS_PER_DAY_AT_ANY_SPECIALIZED_DEPARTMENT</LocID> <Text>รักษา {1} ผู้ป่วยต่อวันที่แผนกเฉพาะทางใด ๆ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SUCCESSFUL_EVENTS_OF_TYPE</LocID>                              <Text>สำเร็จ {1} {2} กิจกรรม</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SUCCESSFUL_EVENTS_IN_ROW</LocID>                               <Text>สำเร็จ{1} กิจกรรม(s) ในแถว</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAVE_PATIENT_AFTER_COLLAPSES</LocID>                           <Text>ช่วยชีวิตคนไข้หลังจากอาการทรุดลงไป {1} ครั้ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WORKING_CLINIC_AT_ANY_SPECIALIZED_DEPARTMENT</LocID>           <Text>เปิดคลินิกที่แผนกเฉพาะทางใดก็ได้</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WORKING_HOSPITALIZATION_AT_ANY_SPECIALIZED_DEPARTMENT</LocID>  <Text>เปิดการนอนรักษาที่ร.พ.ที่แผนกใดก็ได้</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERFORM_SURGERY</LocID>                                        <Text>ทำการศัลยกรรม/ผ่าตัด {1} ครั้ง</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PRESTIGE_AT_ANY_SPECIALIZED_DEPARTMENT</LocID>                 <Text>ทำค่าชื่อเสียงให้ถึง {1} ที่แผนกเฉพาะทางใดก็ได้</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TREATED_PATIENTS_PER_DAY_AT_ANY_SPECIALIZED_DEPARTMENT</LocID> <Text>รักษาคนไข้จำนวน {1} ต่อวันที่แผนกเฉพาะทางใดก็ได้</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SUCCESSFUL_EVENTS_OF_TYPE</LocID>                              <Text>ทำอีเว้นท์ {1} สำเร็จ {2} อีเว้นท์</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SUCCESSFUL_EVENTS_IN_ROW</LocID>                               <Text>ทำอีเว้นท์สำเร็จ {1} ครั้งอย่างต่อเนื่อง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NUMBER_OF_FULLY_WORKING_DEPARTMENTS</LocID>                    <Text>มี {1} แผนกที่ทำงานอย่างเต็มที่</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</LocID>                <Text>ไม่มีผู้ป่วยที่ไม่ได้รับการรักษาสำหรับ {1} วัน</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NO_DEAD_PATIENTS_DAYS</LocID>                                  <Text>ไม่มีผู้ป่วยตาย / สูญหายสำหรับ {1} วัน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</LocID>                <Text>ไม่มีผู้ป่วยที่ไม่ได้รับการรักษาเป็นเวลา {1} วัน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NO_DEAD_PATIENTS_DAYS</LocID>                                  <Text>ไม่มีผู้ป่วยตาย / เสียเคสไปเป็นเวลา {1} วัน</Text>  </GameDBLocalizedString>
 
             <!-- Insurance objective rewards -->
-            <GameDBLocalizedString>      <LocID>PRESTIGE_BONUS</LocID>                           <Text>โบนัสชื่อเสียง {1} สำหรับ {2} วัน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PRESTIGE_BONUS</LocID>                           <Text>โบนัสชื่อเสียง {1} เป็นเวลา {2} วัน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>UNLOCK_ALL_HOSPITALIZATIONS</LocID>              <Text>ปลดล็อกการรักษาในโรงพยาบาล</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SET_MOBILE_PATIENT_COUNT</LocID>                 <Text>เพิ่มผู้ป่วยในคลินิกต่อวันเป็น {1}</Text>  </GameDBLocalizedString> 
-            <GameDBLocalizedString>      <LocID>SET_IMMOBILE_PATIENT_COUNT</LocID>               <Text>เพิ่มผู้ป่วยจากรถพยาบาลต่อวันเป็น{1}</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SET_MOBILE_PATIENT_COUNT</LocID>                 <Text>เพิ่มผู้ป่วยในคลินิกต่อวันเป็น {1} คน</Text>  </GameDBLocalizedString> 
+            <GameDBLocalizedString>      <LocID>SET_IMMOBILE_PATIENT_COUNT</LocID>               <Text>เพิ่มผู้ป่วยจากรถพยาบาลต่อวันเป็น {1} คน</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>UNLOCK_EVENTS</LocID>                            <Text>ปลดล็อกปุ่มเหตุการณ์</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>UNLOCK_RANDOM_EVENTS</LocID>                     <Text>สุ่มเหตุการณ์ส</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UNLOCK_RANDOM_EVENTS</LocID>                     <Text>อีเว้นท์สุ่ม</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>CONTRACTED_INSURANCE_COMPANY_COUNT</LocID>       <Text>บริษัทที่ทำสัญญา:</Text>  </GameDBLocalizedString>
 
@@ -103,10 +103,10 @@
            
             <GameDBLocalizedString>      <LocID>CANDIDATES</LocID>                               <Text>ผู้สมัคร</Text>  </GameDBLocalizedString>
            
-            <GameDBLocalizedString>      <LocID>HIRING_SHIFT_DAY_CLINIC</LocID>                  <Text>กะตอนกวางวัน: คลินิก</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>HIRING_SHIFT_NIGHT_CLINIC</LocID>                <Text>กะตอนกวางคืน: คลินิก</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>HIRING_SHIFT_DAY_HOSPITALIZATION</LocID>         <Text>กะตอนกวางวัน: โรงพยาบาล</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>HIRING_SHIFT_NIGHT_CLINIC_HOSPITALIZATION</LocID><Text>กะตอนกวางคืน: โรงพยาบาล</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HIRING_SHIFT_DAY_CLINIC</LocID>                  <Text>กะกลางวัน: คลินิก</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HIRING_SHIFT_NIGHT_CLINIC</LocID>                <Text>กะกลางคืน: คลินิก</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HIRING_SHIFT_DAY_HOSPITALIZATION</LocID>         <Text>กะกลางวัน: โรงพยาบาล</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HIRING_SHIFT_NIGHT_CLINIC_HOSPITALIZATION</LocID><Text>กะกลางคืน: โรงพยาบาล</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>LAB_TECHNOLOGIST_RADIOLOGIST</LocID>             <Text>รังสีวิทยา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>LAB_TECHNOLOGIST_RADIOLOGISTS</LocID>            <Text>นักรังสีวิทยา</Text>  </GameDBLocalizedString>
@@ -119,7 +119,7 @@
 
             <GameDBLocalizedString>      <LocID>LOADING_TIP_ICU</LocID>                          <Text>ICU รับเฉพาะผู้ป่วยที่มีการวินิจฉัยยืนยันผู้ป่วยที่ทรุดตัวโดยไม่มีการวินิจฉัยที่ชัดเจนให้ไปที่ Trauma Center (TC)</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>LOADING_TIP_NURSES</LocID>                       <Text>หากการตรวจและการรักษาใช้เวลานานในการเริ่มต้นให้ตรวจสอบว่ามีพยาบาลเพียงพอสำหรับการเคลื่อนย้ายผู้ป่วยหรือไม่</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LOADING_TIP_HDU</LocID>                          <Text>การรักษาในโรงพยาบาล HDU ส่วนใหญ่ใช้กับผู้ป่วยที่ไม่สามารถเคลื่อนไหวได้ ให้การตรวจพยาบาลบ่อยขึ้นและช่วยให้ผู้ป่วยมีโอกาสรอดชีวิตจากการยุบตัวได้ดีขึ้น</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LOADING_TIP_HDU</LocID>                          <Text>การรักษาในโรงพยาบาล HDU ส่วนใหญ่ใช้กับผู้ป่วยที่ไม่สามารถเคลื่อนไหวได้ ให้การตรวจพยาบาลบ่อยขึ้นและช่วยให้ผู้ป่วยมีโอกาสรอดชีวิตจากการทรุดตัวลงได้ดีขึ้น</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>LOADING_TIP_OP</LocID>                           <Text>ในการดำเนินการผ่าตัดคุณต้องมีทีมที่มีความเชี่ยวชาญดังต่อไปนี้: ศัลยแพทย์ 1x (แพทย์), ความเชี่ยวชาญของแผนก 1x (แพทย์), วิสัญญี (แพทย์) 1x, การผ่าตัดทางการแพทย์ (พยาบาล), การดูแลผู้ป่วย 1x (พยาบาล) - พร้อมพยาบาลฟรี เคลื่อนย้ายผู้ป่วย</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>LOADING_TIP_MANAGEMENT</LocID>                   <Text>พื้นที่ที่ไม่ได้ระบุว่าเป็นห้องใด ๆ ในโหมดการจัดการถือเป็นพื้นที่ที่มีลำดับความสำคัญต่ำที่สุดโดยภารโรง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>LOADING_TIP_BUILDING</LocID>                     <Text>คุณสามารถขยายพื้นที่เหนือพื้นดินได้โดยใช้เครื่องมือฐานรากซึ่งสามารถขยายได้เลยจากพื้นด้านล่าง</Text>  </GameDBLocalizedString>
@@ -191,18 +191,18 @@
 
             <GameDBLocalizedString>      <LocID>KEYBOARD_TIP_SELECT_DEPARTMENT</LocID>           <Text>เลือกแผนก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>KEYBOARD_TIP_INGAME_HELP</LocID>                 <Text>ช่วยเหลือในเกม</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>KEYBOARD_TIP_DELETE_BUILDING</LocID>             <Text>เปลี่ยนไปใช้เครื่องมือลบใน building mode / ปิดแผง UI panels ที่ไม่ได้ปักหมุดไว้</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>KEYBOARD_TIP_DELETE_BUILDING</LocID>             <Text>เปลี่ยนไปใช้เครื่องมือลบใน โหมดสร้าง/ ปิดแผง UI panels ที่ไม่ได้ปักหมุดไว้</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_02_DESCRIPTION_V2</LocID>         <Text>ค้นพบมุมต่างๆของการก่อสร้างโดยการสร้างคลินิกที่มีประโยชน์ขนาดเล็ก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_03_DESCRIPTION_V2</LocID>         <Text>เรียนรู้กฎของการจัดการโรงพยาบาลและทำให้คุ้นชินกับขั้นตอนการรักษาตัวในโรงพยาบาล</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_01_DESCRIPTION_V2</LocID>         <Text>ใช้ทักษะของคุณเพื่อช่วยให้โรงพยาบาลที่ไม่มีประสิทธิภาพแห่งนี้เจริญขึ้น/ดีขึ้น</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_02_DESCRIPTION_V2</LocID>         <Text>คุณจะทำให้โรงพยาบาลนี้หลุดพ้นจากหนี้ได้หรือไม่ ?</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_03_DESCRIPTION_V2</LocID>         <Text>ทั้งหมดหรือไม่มีอะไรเลย การแข่งขันเพื่อรับทุนจากรัฐเริ่มแล้ว !</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_01_DESCRIPTION_V2</LocID>        <Text>ท้าายทักษะของคุณที่แผนกฉุกเฉิน</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_02_DESCRIPTION_V2</LocID>        <Text>ท้าายทักษะของคุณที่แผนกศัลยกรรมทั่วไป</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_03_DESCRIPTION_V2</LocID>        <Text>ท้าายทักษะของคุณที่แผนกอายุรศาสตร์</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_04_DESCRIPTION_V2</LocID>        <Text>ท้าายทักษะของคุณเที่แผนกออร์โธปิดิกส์</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_05_DESCRIPTION_V2</LocID>        <Text>ท้าายทักษะของคุณที่แผนกโรคหัวใจ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_01_DESCRIPTION_V2</LocID>        <Text>ท้าทายทักษะของคุณที่แผนกฉุกเฉิน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_02_DESCRIPTION_V2</LocID>        <Text>ท้าทายทักษะของคุณที่แผนกศัลยกรรมทั่วไป</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_03_DESCRIPTION_V2</LocID>        <Text>ท้าทายทักษะของคุณที่แผนกอายุรศาสตร์</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_04_DESCRIPTION_V2</LocID>        <Text>ท้าทายทักษะของคุณเที่แผนกออร์โธปิดิกส์</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_05_DESCRIPTION_V2</LocID>        <Text>ท้าทายทักษะของคุณที่แผนกโรคหัวใจ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>LEVEL_CHALLENGE_06_DESCRIPTION_V2</LocID>        <Text>ท้าทายทักษะของคุณที่แผนกประสาทวิทยา</Text>  </GameDBLocalizedString>
 
             <!-- Colors of notification messages in log and popups -->
